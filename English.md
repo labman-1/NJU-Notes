@@ -1,12 +1,14 @@
 ## Group 1
 ### Contents
 Lighten & Recharge faculty
+relieve stress 
 clear
-feasible
+
+
 
 ### Delivery
 1.  confident, some halts
-2. some 'Eh', some repetition, 
+2. some 'Eh', some repetition, lack of body gesture
 3. some halts, many 'Eh'
 
 ## Group 3

@@ -7,8 +7,11 @@
 ## Group 3
 
 ### Contents
-
+from cards to smart access: mordenizing dormitry entries and utility system
+(There was hardly any time to record the topic)
 ### Delivery
+excellent pronunciation, good emphasis, eye contact,confident
+
 
 
 

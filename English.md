@@ -1,17 +1,23 @@
 ## Group 1
 ### Contents
+Lighten & Recharge faculty
+clear
+feasible
 
 ### Delivery
- 
+1.  confident, some halts
+2. some 'Eh', some repetition, 
+3. some halts, many 'Eh'
 
 ## Group 3
 
 ### Contents
 from cards to smart access: mordenizing dormitry entries and utility system
 (There was hardly any time to record the topic)
+well-organized
 ### Delivery
 excellent pronunciation, good emphasis, eye contact,confident
-
+I didn't notice any mistakes.
 
 
 

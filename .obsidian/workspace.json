@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++ and algorithm/[模板]最长上升子序列.md",
+                "file": "c++ and algorithm/0_1背包 采药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[模板]最长上升子序列"
+              "title": "0_1背包 采药"
             }
           }
         ],
@@ -225,6 +225,8 @@
   },
   "active": "b92d653ab7d2a58e",
   "lastOpenFiles": [
+    "c++ and algorithm/[模板]最长上升子序列.md",
+    "未命名",
     "English.md",
     "c++ and algorithm/wa调试焚决.md",
     "c++ and algorithm/并查集.md",
@@ -240,7 +242,6 @@
     "c++ and algorithm/贪心.md",
     "c++ and algorithm/完全背包 疯狂采药.md",
     "c++ and algorithm/重叠线段问题.md",
-    "c++ and algorithm/[模板]最长上升子序列.md",
     "c++ and algorithm/0_1背包 采药.md",
     "c++ and algorithm/1. 快速排序.md",
     "c++ and algorithm",

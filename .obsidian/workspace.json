@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++ and algorithm/扫雷.md",
+                "file": "c++ and algorithm/树状数组.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "扫雷"
+              "title": "树状数组"
             }
           }
         ],
@@ -226,10 +226,10 @@
   },
   "active": "b92d653ab7d2a58e",
   "lastOpenFiles": [
+    "c++ and algorithm/扫雷.md",
     "c++ and algorithm/排序.md",
     "c++ and algorithm/明明的随机数.md",
     "c++ and algorithm/树状数组.md",
-    "c++ and algorithm/扫雷.md",
     "c++ and algorithm/并查集.md",
     "c++ and algorithm/快读快写.md",
     "c++ and algorithm/接水问题.md",

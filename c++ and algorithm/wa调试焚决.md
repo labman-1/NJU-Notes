@@ -30,9 +30,53 @@
 ●写一个随机数据生成器。  
 ●循环 1000 次，比较你的 remove\_duplicates 和“暴力法”的结果。  
 针对这道题的对拍脚本示例：  
+```cpp
+import random
 
-\[codeblock卡片内容\]
+# 1. 你的代码
+def remove_duplicates(lnk):
+    # ... your implementation ...
+    pass
 
+# 2. 暴力解法 (逻辑简单，不容易错，作为标准答案)
+def standard_solution(lnk):
+    if lnk is Link.empty: return []
+    res = []
+    curr = lnk
+    while curr is not Link.empty:
+        res.append(curr.first)
+        curr = curr.rest
+    # Python list 去重并排序
+    return sorted(list(set(res))) 
+
+# 3. 随机测试
+def run_fuzzing():
+    for _ in range(100):
+        # 构造随机链表数据，比如 [1, 1, 2, 3, 3, 5]
+        data = sorted([random.randint(0, 5) for _ in range(10)])
+
+        # 构建链表 (这里需要你有一个 list_to_link 的辅助函数)
+        lnk = list_to_link(data) 
+
+        try:
+            remove_duplicates(lnk) # 跑你的代码
+
+            # 把你的结果转回 list
+            my_res = link_to_list(lnk)
+            # 标准答案
+            correct_res = sorted(list(set(data)))
+
+            if my_res != correct_res:
+                print(f"Found Bug! Input: {data}")
+                print(f"Your output: {my_res}")
+                print(f"Correct output: {correct_res}")
+                return
+        except Exception as e:
+            print(f"Crashed! Input: {data}")
+            print(e)
+            return
+    print("All tests passed!")
+```
 为什么这很有用？ 如果你跑这个脚本，它会在几毫秒内生成一个空链表 \[\] 或者单元素链表，然后程序崩溃，立刻告诉你：“看，输入是 \[\] 时你挂了！” —— 这就是让你拥有了无限的测试用例。  
 ### 3\. 代码覆盖率思维 (White-box Thinking)  
 

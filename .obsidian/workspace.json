@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++ and algorithm/wa调试焚决.md",
+                "file": "c++ and algorithm/小焚决/wa调试焚决.md",
                 "mode": "source",
                 "source": true
               },
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#贪心（邻项交换法）",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -224,36 +224,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "792ddd149b9a9a06",
+  "active": "6a429540b28ae1c9",
   "lastOpenFiles": [
-    "00_Home.md",
-    "c++ and algorithm/[模板]最长上升子序列.md",
+    "c++ and algorithm/数据结构",
+    "c++ and algorithm/贪心/贪心.md",
     "c++ and algorithm/c++ and algorithm.md",
-    "c++ and algorithm/未命名.md",
-    "c++ and algorithm/wa调试焚决.md",
-    "c++ and algorithm/重叠线段问题.md",
-    "c++ and algorithm/完全背包 疯狂采药.md",
-    "c++ and algorithm/贪心.md",
-    "c++ and algorithm/数字三角形.md",
-    "c++ and algorithm/树状数组.md",
-    "Pasted image 20251221010517.png",
-    "c++ and algorithm/扫雷.md",
-    "c++ and algorithm/排序.md",
-    "c++ and algorithm/明明的随机数.md",
-    "c++ and algorithm/并查集.md",
-    "c++ and algorithm/快读快写.md",
-    "c++ and algorithm/接水问题.md",
-    "c++ and algorithm/奖学金.md",
-    "c++ and algorithm/高精度.md",
-    "c++ and algorithm/1. 快速排序.md",
-    "c++ and algorithm/0_1背包 采药.md",
+    "c++ and algorithm/贪心",
+    "c++ and algorithm/小焚决/小焚决.md",
+    "c++ and algorithm/小焚决",
+    "c++ and algorithm/xiao/xiao.md",
+    "c++ and algorithm/xiao",
+    "c++ and algorithm/小焚决/wa调试焚决.md",
+    "c++ and algorithm/数据结构/并查集.md",
+    "c++ and algorithm/模拟",
+    "c++ and algorithm/数据结构/树状数组.md",
+    "c++ and algorithm/模拟/扫雷.md",
+    "c++ and algorithm/动态规划/线性",
+    "c++ and algorithm/动态规划/背包问题",
+    "c++ and algorithm/动态规划",
+    "c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
+    "c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
+    "c++ and algorithm/排序/1. 快速排序.md",
+    "c++ and algorithm/排序/排序.md",
+    "c++ and algorithm/排序",
+    "c++ and algorithm/排序/明明的随机数.md",
     "未命名",
+    "00_Home.md",
+    "c++ and algorithm/未命名.md",
+    "c++ and algorithm/贪心/重叠线段问题.md",
+    "c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
+    "c++ and algorithm/动态规划/线性/数字三角形.md",
+    "Pasted image 20251221010517.png",
+    "c++ and algorithm/小焚决/快读快写.md",
+    "c++ and algorithm/贪心/接水问题.md",
+    "c++ and algorithm/排序/奖学金.md",
+    "c++ and algorithm/小焚决/高精度.md",
     "English.md",
     "c++ and algorithm",
     "Test.md",
-    "trifles/语雀团队协作.md",
-    "trifles",
-    "SICP",
-    "README.md"
+    "trifles/语雀团队协作.md"
   ]
 }

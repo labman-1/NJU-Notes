@@ -12,4 +12,10 @@ You can ***GROUP BY*** any valid SQL expression, which includes using mltiple co
 SELECT parent, AVG(age) AS avg_age FROM dogs,parents WHERE name =child GROUP BY parent HAVING MIN(age)>=5;
 ```
 
+```scheme
+(define (length lst)
+	(define (helper lst l)
+		)
+	)
+```
 

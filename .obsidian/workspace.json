@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/SICP/SQL/ai有话说.md",
+                "file": "NJU-notes/SICP/SQL/DROP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai有话说"
+              "title": "DROP"
             }
           }
         ],
@@ -227,6 +227,7 @@
   "active": "792ddd149b9a9a06",
   "lastOpenFiles": [
     "NJU-notes/SICP/SQL/SQL.md",
+    "NJU-notes/SICP/SQL/DROP.md",
     "NJU-notes/SICP/SQL/ai有话说.md",
     "NJU-notes/SICP/SQL",
     "NJU-notes/SICP/大学，学什么.md",
@@ -261,7 +262,6 @@
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/c++ and algorithm/排序/排序.md",
     "NJU-notes/c++ and algorithm/排序/明明的随机数.md",
-    "NJU-notes/c++ and algorithm/排序/1. 快速排序.md",
     "NJU-notes/c++ and algorithm/数据结构",
     "NJU-notes/c++ and algorithm/贪心"
   ]

@@ -13,9 +13,11 @@ SELECT parent, AVG(age) AS avg_age FROM dogs,parents WHERE name =child GROUP BY 
 ```
 
 ```scheme
-(define (length lst)
+(define (length-tail lst)
 	(define (helper lst l)
-		)
-	)
+		(if (null? lst)
+			l
+			(helper (cdr lst) (+ l 1))))
+	(helper lst 0))
 ```
 

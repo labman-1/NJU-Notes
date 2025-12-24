@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/SICP/SQL/Creating Tables.md",
+                "file": "NJU-notes/SICP/SQL/Selecting From Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating Tables"
+              "title": "Selecting From Tables"
             }
           }
         ],
@@ -227,6 +227,7 @@
   "active": "792ddd149b9a9a06",
   "lastOpenFiles": [
     "NJU-notes/SICP/SQL/SQL.md",
+    "NJU-notes/SICP/SQL/Selecting From Tables.md",
     "NJU-notes/SICP/SQL/Creating Tables.md",
     "NJU-notes/SICP/SQL/ai有话说.md",
     "NJU-notes/SICP/OOP.md",
@@ -261,7 +262,6 @@
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
     "NJU-notes/c++ and algorithm/小焚决/高精度.md",
     "NJU-notes/c++ and algorithm/贪心/贪心.md",
-    "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/c++ and algorithm/数据结构",
     "NJU-notes/c++ and algorithm/贪心"
   ]

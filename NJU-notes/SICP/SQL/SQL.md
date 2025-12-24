@@ -9,8 +9,7 @@ Aggregation is the process of doing operations on *groups of rows* instead of ju
 You can ***GROUP BY*** any valid SQL expression, which includes using mltiple column names and operators.
 
 ```SQL
-SELECT fur, avg(height) FROM dogs_heights
-	GROUP BY fur;
+SELECT parent, avg(age) FROM parents, dogs WHERE name=child GROUP BY parent
 ```
 
 

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/SICP/SQL.md",
+                "file": "NJU-notes/SICP/SQL/SQL.md",
                 "mode": "source",
                 "source": false
               },
@@ -224,11 +224,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "792ddd149b9a9a06",
+  "active": "6a429540b28ae1c9",
   "lastOpenFiles": [
+    "NJU-notes/SICP/SQL",
     "NJU-notes/SICP/大学，学什么.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/SICP/SQL.md",
+    "NJU-notes/SICP/SQL/SQL.md",
     "NJU-notes/数学/线性代数/伽马函数.md",
     "未命名.md",
     "NJU-notes/数学/线性代数",
@@ -262,7 +263,6 @@
     "NJU-notes/c++ and algorithm/排序/1. 快速排序.md",
     "NJU-notes/c++ and algorithm/数据结构",
     "NJU-notes/c++ and algorithm/贪心",
-    "NJU-notes/c++ and algorithm/小焚决",
-    "c++ and algorithm/xiao/xiao.md"
+    "NJU-notes/c++ and algorithm/小焚决"
   ]
 }

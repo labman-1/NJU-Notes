@@ -1,4 +1,5 @@
 ## Encapsulation
+核心：把数据（attribute）和操作数据的代码（method）绑定，并对外部隐藏实现细节。关键在于**访问控制 
 
 Why we need Encapsulation:
 
@@ -63,6 +64,7 @@ class Human:
 
 ```
 ## Inheritance
+核心：代码复用。Derived Class automatically owns the attributes and methods of its parent class.
 ```python
 class Animal:
     name = "Animal"
@@ -160,12 +162,13 @@ make_sound(Human())
 ```
 ## Ploymorphism
 
-Ad Hoc Polymorphism
+#### Ad Hoc Polymorphism
 
-- polymorphic function
-- operator overloading
+- polymorphic function(`__str__,__repr__ )
+- operator overloading（` __add__）
 
 Parametric Polymorphism
+e.g., Generic functions: Template T foo(T x, T y) { return (x > y) ? x : y; }
 
 Inclusion Polymorphism
 

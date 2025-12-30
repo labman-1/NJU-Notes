@@ -5,7 +5,7 @@ Everything in scheme is expression
 
 ### Atomic expressions  
 
-self-expressions 1 1.2 #f  
+self-expressions 1 1.2  \#f  
 symbol x lambda  
 ### Combinations  
 
@@ -29,7 +29,8 @@ How to evaluate call expressions:
 #### control flow  
 
 (if\<predicate>\<if-true>\<if-false>)  
-if \<predicate>is not #f(the only false value in scheme),then\<if-true>,else \<if-false>(if provided)  
+if \<predicate>is not \#f(the only false value in scheme),then\<if-true>,else \<if-false>(if provided)  
+and/or
 #### lambda expression  
 
 (lambda(\<param1>\<param2>…)\<body>)  

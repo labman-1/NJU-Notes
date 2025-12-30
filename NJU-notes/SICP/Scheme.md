@@ -43,7 +43,8 @@ How to evaluate call expressions:
 
 (if\<predicate>\<if-true>\<if-false>)  
 if \<predicate>is not \#f(the only false value in scheme),then\<if-true>,else \<if-false>(if provided)  
-and/or
+
+
 #### lambda expression  
 
 (lambda(\<param1>\<param2>…)\<body>)  

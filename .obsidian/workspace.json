@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/SICP/未命名.md",
+                "file": "NJU-notes/SICP/Scheme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Scheme"
             }
           }
         ],
@@ -227,7 +227,7 @@
   "active": "792ddd149b9a9a06",
   "lastOpenFiles": [
     "NJU-notes/SICP/SICP.md",
-    "NJU-notes/SICP/未命名.md",
+    "NJU-notes/SICP/Scheme.md",
     "NJU-notes/SICP/SQL/SQL.md",
     "NJU-notes/SICP/SQL/Aggregation.md",
     "NJU-notes/SICP/OOP/OOP.md",

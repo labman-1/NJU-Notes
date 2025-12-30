@@ -268,4 +268,11 @@ Object + Function= Bound Method
 >>> tom_account.deposit(1021) 
 2021
 ```
-通过instance.method的方式invoke就是method，使用class.sth就是function，后者需要显示传入对象作为self参数。 
+通过instance.method的方式invoke就是method，使用class.sth就是function，前者无需知道对谁操作，实现了很好的**封装**；后者需要显示传入对象作为self参数，接收方必须知道对哪个对象操作。 
+
+## Looking Up Attributes by Name . 
+To evaluate a dot expression: 
+1. Evaluate the to the left of the dot, which yields the object of the dot expression 
+2. is matched against the instance attributes of that object; if an attribute with that name exists, its value is returned 
+3. If not, is looked up in the class, which yields a class attribute value (if no such class attribute exists, an AttributeError is reported) 
+4. That value is returned unless it is a function, in which case a bound method is returned instead

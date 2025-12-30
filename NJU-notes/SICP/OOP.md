@@ -162,7 +162,7 @@ make_sound(Human())
 ```
 ## Ploymorphism
 
-#### Ad Hoc Polymorphism
+#### 特设多态 Ad-Hoc Polymorphism
 
 - polymorphic function(`__str__,__repr__ )
 - operator overloading（` __add__）

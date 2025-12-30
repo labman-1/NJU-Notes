@@ -167,10 +167,11 @@ make_sound(Human())
 - polymorphic function(`__str__,__repr__ )
 - operator overloading（` __add__）
 
-Parametric Polymorphism
-e.g., Generic functions: Template T foo(T x, T y) { return (x > y) ? x : y; }
+#### Parametric Polymorphism
+e.g., Generic functions: 
+`Template T foo(T x, T y) { return (x > y) ? x : y; }
 
-Inclusion Polymorphism
+#### Inclusion Polymorphism
 
 ### Polymorphic Function
 
@@ -243,3 +244,11 @@ True
 True
 """
 ```
+
+| 特性           | Overloading (重载)         | Overriding (覆写)           |
+| ------------ | ------------------------ | ------------------------- |
+| **发生范围**     | 同一个类中                    | 父子类之间 (继承关系)              |
+| **函数签名**     | 函数名相同，**参数必须不同**         | 函数名、参数**必须完全相同**          |
+| **绑定时间**     | **编译时** (Static Binding) | **运行时** (Dynamic Binding) |
+| **多态类型**     | 静态多态 (Compile-time)      | 动态多态 (Run-time)           |
+| **Python支持** | **不支持** (用默认参数模拟)        | **天然支持**                  |

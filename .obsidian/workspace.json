@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/SICP/OOP.md",
+                "file": "NJU-notes/SICP/OOP/OOP.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,8 +226,11 @@
   },
   "active": "792ddd149b9a9a06",
   "lastOpenFiles": [
-    "NJU-notes/SICP/OOP.md",
+    "NJU-notes/SICP/OOP/Methods and Functions.md",
+    "NJU-notes/SICP/OOP/OOP.md",
     "NJU-notes/SICP/SICP.md",
+    "NJU-notes/SICP/OOP",
+    "NJU-notes/SICP/OOP/Polymorphic function.md",
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "README.md",
@@ -241,7 +244,6 @@
     "NJU-notes/c++ and algorithm/数据结构/图.md",
     "NJU-notes/SICP/Tail Recursion.md",
     "NJU-notes/SICP/SQL/ai有话说.md",
-    "NJU-notes/SICP/Polymorphic function.md",
     "NJU-notes/SICP/SQL",
     "NJU-notes/SICP/大学，学什么.md",
     "NJU-notes/数学/线性代数/伽马函数.md",
@@ -257,12 +259,10 @@
     "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "Test.md",
-    "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "NJU-notes/assets/未命名",
     "未命名",
     "NJU-notes/assets",
     "NJU-notes",
-    "NJU-notes/c++ and algorithm/数据结构",
-    "NJU-notes/c++ and algorithm/贪心"
+    "NJU-notes/c++ and algorithm/数据结构"
   ]
 }

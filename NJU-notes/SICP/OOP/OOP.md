@@ -252,3 +252,20 @@ True
 | **绑定时间**     | **编译时** (Static Binding) | **运行时** (Dynamic Binding) |
 | **多态类型**     | 静态多态 (Compile-time)      | 动态多态 (Run-time)           |
 | **Python支持** | **不支持** (用默认参数模拟)        | **天然支持**                  |
+
+## Methods and Functions
+Python distinguishes between: 
+• **Functions**, which we have been creating since the beginning of the course, and 
+• **Bound methods** , which couple together a function and the object on which that method will be invoked 
+Object + Function= Bound Method 
+```
+>>> type(Account.deposit)
+<class 'function'>
+>>> type(tom_account.deposit) 
+<class 'method'>
+>>> Account.deposit(tom_account, 1000) 
+1000
+>>> tom_account.deposit(1021) 
+2021
+```
+通过instance.method的方式invoke就是method，使用class.sth就是function，后者需要显示传入对象作为self参数。 

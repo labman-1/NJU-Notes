@@ -32,9 +32,9 @@ class Rational:
     def __repr__(self):
         return f'Rational({self.numerator},{self.denominator})'
 ```
-## [The myths ofprint()](https://sicp.pascal-lab.net/2025/labs/lab07/2_1.html#the-myths-of-print)
+## The myths ofprint()
 
-In [lab01](https://sicp.pascal-lab.net/2025/labs/lab01/2_1.html#212-return-and-print) we have learnt that, when dealing with string values, `print` and `return` behaves differently for the same string. For example:
+We have learnt that, when dealing with string values, `print` and `return` behaves differently for the same string. For example:
 ```python
 >>> def using_print():
 ...     print('hello')

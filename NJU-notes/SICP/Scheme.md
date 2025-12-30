@@ -2,6 +2,15 @@
 
 Everything in scheme is expression  
 ## expression  
+#### 标准求值规则 (Standard Evaluation Rule)
+
+对于普通的函数调用（比如 +, *, list, car），解释器遵循以下步骤：
+
+1. **先求值操作符 (Operator)**：拿到函数对象。
+    
+2. **再求值所有操作数 (Operands)**：计算出具体的参数值。
+    
+3. **应用 (Apply)**：将函数应用到参数值上。
 
 ### Atomic expressions  
 
@@ -19,7 +28,11 @@ How to evaluate call expressions:
 2Evaluate all operands left to right to get the arguments.  
 3Apply the procedure to the arguments.  
 ### some special expression  
-
+特殊之处:
+- **不求值**某些参数。
+- **延迟求值**某些参数。
+- **改变求值顺序**。
+- **修改环境**（Environment）。
 #### define  
 
 1(define\<name>\<expression>)  

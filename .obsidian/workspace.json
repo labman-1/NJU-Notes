@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
+                "file": "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFS（广度优先搜索）"
+              "title": "最短路径算法"
             }
           }
         ]
@@ -211,9 +211,10 @@
   },
   "active": "b92d653ab7d2a58e",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
+    "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/图论",
@@ -239,7 +240,6 @@
     "NJU-notes/c++ and algorithm/数据结构/图.md",
     "NJU-notes/SICP/Tail Recursion.md",
     "NJU-notes/SICP/SQL",
-    "NJU-notes/SICP/大学，学什么.md",
     "NJU-notes/数学/线性代数",
     "NJU-notes/数学/微积分",
     "NJU-notes/数学",

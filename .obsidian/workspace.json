@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wa调试焚决"
+              "title": "[模板]最长上升子序列"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "b92d653ab7d2a58e",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
     "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
@@ -219,7 +220,6 @@
     "NJU-notes/c++ and algorithm/小焚决/高精度.md",
     "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
-    "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
     "NJU-notes/SICP/SQL/ai有话说.md",
     "NJU-notes/SICP/OOP/Polymorphic function.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",

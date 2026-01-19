@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拓扑排序"
+              "title": "[模板]最长上升子序列"
             }
           }
         ]
@@ -211,10 +211,10 @@
   },
   "active": "b92d653ab7d2a58e",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/图的连通性.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
-    "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",

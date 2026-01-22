@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
+                "file": "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "格式化输入输出"
+              "title": "复杂条件判断：解耦"
             }
           }
         ]
@@ -211,6 +211,9 @@
   },
   "active": "1d2c3986807de773",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
+    "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
+    "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/SICP/OOP/Inheritance.md",
     "NJU-notes/assets/Pasted image 20260122195016.png",
@@ -238,8 +241,6 @@
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
     "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
-    "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
-    "NJU-notes/c++ and algorithm/小焚决/高精度.md",
     "NJU-notes/c++ and algorithm/图论",
     "NJU-notes/SICP/OOP",
     "NJU-notes/SICP/SQL",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/线性/最长公共子序列LCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[模板]最长上升子序列"
+              "title": "最长公共子序列LCP"
             }
           }
         ],
@@ -226,6 +226,9 @@
   },
   "active": "5028e8d8bd2c9336",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
+    "NJU-notes/c++ and algorithm/动态规划/线性/最长公共子序列LCP.md",
+    "NJU-notes/c++ and algorithm/动态规划/线性/未命名",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
     "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
@@ -235,7 +238,6 @@
     "NJU-notes/SICP/OOP/OOP.md",
     "NJU-notes/SICP/OOP/Polymorphic function.md",
     "NJU-notes/SICP/SICP.md",
-    "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/背包问题.md",
     "NJU-notes/personal learning/crash course computer science.md",
     "NJU-notes/assets/crash course computer science_202601201913.png",
@@ -255,7 +257,6 @@
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
     "NJU-notes/c++ and algorithm/小焚决/memset.md",
-    "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
     "NJU-notes/c++ and algorithm/图论",
     "NJU-notes/SICP/OOP",
     "NJU-notes/SICP/SQL",
@@ -265,7 +266,6 @@
     "NJU-notes/assets/大学，学什么_202512220034.jpg",
     "NJU-notes/assets/树状数组.png",
     "NJU-notes/assets/未命名",
-    "未命名",
-    "NJU-notes/assets"
+    "未命名"
   ]
 }

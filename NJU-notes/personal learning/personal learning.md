@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[未命名]]
+- **[[cs61b]]**
 - [[crash course computer science]]
 
 %% End Waypoint %%

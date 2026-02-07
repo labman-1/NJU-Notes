@@ -5,5 +5,6 @@
 - [[4. References, Recursion, and Lists]]
 - [[git 入门]]
 - [[Learn to use the terminal]]
+- [[Project0 2048]]
 
 %% End Waypoint %%

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/personal learning/cs61b/Project0 2048.md",
+                "file": "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project0 2048"
+              "title": "8. Inheritance, Implements"
             }
           }
         ]
@@ -212,6 +212,7 @@
   "active": "8c4fad829c08e6e5",
   "lastOpenFiles": [
     "NJU-notes/personal learning/cs61b/cs61b.md",
+    "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
     "NJU-notes/personal learning/cs61b/Project0 2048.md",
     "NJU-notes/personal learning/cs61b/3.Testing.md",
     "NJU-notes/personal learning/cs61b/4. References, Recursion, and Lists.md",
@@ -242,7 +243,6 @@
     "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "NJU-notes/personal learning",
     "README.md",
-    "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/图论",
     "NJU-notes/SICP/OOP",
     "NJU-notes/SICP/SQL",

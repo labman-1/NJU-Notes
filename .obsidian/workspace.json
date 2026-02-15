@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -213,10 +212,11 @@
   },
   "active": "8c4fad829c08e6e5",
   "lastOpenFiles": [
+    "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
+    "NJU-notes/personal learning/cs61b/4. References, Recursion, and Lists.md",
     "NJU-notes/personal learning/cs61b/Project1 GuitarHero.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/personal learning/cs61b/3.Testing.md",
-    "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
     "NJU-notes/SICP/Scheme.md",
     "NJU-notes/SICP/Tail Recursion.md",
     "NJU-notes/SICP/SQL/Selecting From Tables.md",
@@ -225,7 +225,6 @@
     "NJU-notes/SICP/OOP/Polymorphic function.md",
     "NJU-notes/SICP/OOP/Inheritance.md",
     "NJU-notes/personal learning/cs61b/Project0 2048.md",
-    "NJU-notes/personal learning/cs61b/4. References, Recursion, and Lists.md",
     "NJU-notes/personal learning/cs61b/2.Helper function.md",
     "NJU-notes/personal learning/cs61b/git 入门.md",
     "NJU-notes/personal learning/cs61b/1.Intro to Java.md",

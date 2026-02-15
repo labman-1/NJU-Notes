@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/personal learning/cs61b/3.Testing.md",
+                "file": "NJU-notes/personal learning/cs61b/Project1 GuitarHero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Testing"
+              "title": "Project1 GuitarHero"
             }
           }
         ]
@@ -213,6 +213,9 @@
   },
   "active": "8c4fad829c08e6e5",
   "lastOpenFiles": [
+    "NJU-notes/personal learning/cs61b/Project1 GuitarHero.md",
+    "NJU-notes/personal learning/cs61b/cs61b.md",
+    "NJU-notes/personal learning/cs61b/3.Testing.md",
     "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
     "NJU-notes/SICP/Scheme.md",
     "NJU-notes/SICP/Tail Recursion.md",
@@ -221,9 +224,7 @@
     "NJU-notes/SICP/SQL/ai有话说.md",
     "NJU-notes/SICP/OOP/Polymorphic function.md",
     "NJU-notes/SICP/OOP/Inheritance.md",
-    "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/personal learning/cs61b/Project0 2048.md",
-    "NJU-notes/personal learning/cs61b/3.Testing.md",
     "NJU-notes/personal learning/cs61b/4. References, Recursion, and Lists.md",
     "NJU-notes/personal learning/cs61b/2.Helper function.md",
     "NJU-notes/personal learning/cs61b/git 入门.md",
@@ -240,7 +241,6 @@
     "NJU-notes/c++ and algorithm/动态规划/线性/未命名",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
-    "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
     "NJU-notes/assets/Pasted image 20260122195016.png",
     "NJU-notes/assets/crash course computer science_202601201913.png",
     "NJU-notes/assets/crash course computer science_202601201900.png",

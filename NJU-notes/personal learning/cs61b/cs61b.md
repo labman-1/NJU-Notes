@@ -7,5 +7,6 @@
 - [[git 入门]]
 - [[Learn to use the terminal]]
 - [[Project0 2048]]
+- [[Project1 GuitarHero]]
 
 %% End Waypoint %%

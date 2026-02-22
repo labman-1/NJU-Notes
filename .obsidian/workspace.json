@@ -11,17 +11,28 @@
             "id": "8c4fad829c08e6e5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "56a5fb127bf64ceb",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
+                "file": "NJU-notes/c++ and algorithm/排序/归并排序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Inheritance, Implements"
+              "title": "归并排序"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -211,10 +221,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c4fad829c08e6e5",
+  "active": "56a5fb127bf64ceb",
   "lastOpenFiles": [
-    "NJU-notes/personal learning/cs61b/Project1 GuitarHero.md",
+    "未命名.md",
+    "NJU-notes/c++ and algorithm/排序/归并排序.md",
+    "NJU-notes/c++ and algorithm/排序/排序.md",
     "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
+    "NJU-notes/personal learning/cs61b/Project1 GuitarHero.md",
     "NJU-notes/personal learning/cs61b/4. References, Recursion, and Lists.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/personal learning/cs61b/3.Testing.md",
@@ -237,10 +250,7 @@
     "NJU-notes/SICP/SICP.md",
     "NJU-notes/personal learning/crash course computer science.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/最长公共子序列LCP.md",
-    "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/未命名",
-    "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
-    "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
     "NJU-notes/assets/Pasted image 20260122195016.png",
     "NJU-notes/assets/crash course computer science_202601201913.png",
     "NJU-notes/assets/crash course computer science_202601201900.png",

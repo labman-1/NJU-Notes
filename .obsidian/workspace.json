@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/排序/归并排序.md",
+                "file": "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "归并排序"
+              "title": "8. Inheritance, Implements"
             }
           }
         ],
@@ -223,14 +223,15 @@
   },
   "active": "56a5fb127bf64ceb",
   "lastOpenFiles": [
-    "未命名.md",
-    "NJU-notes/c++ and algorithm/排序/归并排序.md",
-    "NJU-notes/c++ and algorithm/排序/排序.md",
-    "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
     "NJU-notes/personal learning/cs61b/Project1 GuitarHero.md",
+    "NJU-notes/personal learning/cs61b/8. Inheritance, Implements.md",
     "NJU-notes/personal learning/cs61b/4. References, Recursion, and Lists.md",
-    "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/personal learning/cs61b/3.Testing.md",
+    "NJU-notes/personal learning/cs61b/2.Helper function.md",
+    "NJU-notes/c++ and algorithm/排序/归并排序.md",
+    "未命名.md",
+    "NJU-notes/c++ and algorithm/排序/排序.md",
+    "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/SICP/Scheme.md",
     "NJU-notes/SICP/Tail Recursion.md",
     "NJU-notes/SICP/SQL/Selecting From Tables.md",
@@ -239,7 +240,6 @@
     "NJU-notes/SICP/OOP/Polymorphic function.md",
     "NJU-notes/SICP/OOP/Inheritance.md",
     "NJU-notes/personal learning/cs61b/Project0 2048.md",
-    "NJU-notes/personal learning/cs61b/2.Helper function.md",
     "NJU-notes/personal learning/cs61b/git 入门.md",
     "NJU-notes/personal learning/cs61b/1.Intro to Java.md",
     "NJU-notes/personal learning/cs61b/Learn to use the terminal.md",

@@ -4,6 +4,7 @@
 - [[3.Testing]]
 - [[4. References, Recursion, and Lists]]
 - [[8. Inheritance, Implements]]
+- [[9.Extends, Casting, Higher Order Functions]]
 - [[git 入门]]
 - [[Learn to use the terminal]]
 - [[Project0 2048]]

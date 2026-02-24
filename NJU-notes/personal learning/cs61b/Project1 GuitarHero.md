@@ -25,3 +25,8 @@ contexts. Given the requirement to either use the full canonical name or to use 
 - long: Long
     
 - etc. 
+## the Karplus-Strong algorithm
+The two primary components that make the Karplus-Strong algorithm work are the ring buffer feedback mechanism and the averaging operation.
+
+- **The ring buffer feedback mechanism**. The ring buffer models the medium (a string tied down at both ends) in which the energy travels back and forth. The length of the ring buffer determines the fundamental frequency of the resulting sound. Sonically, the feedback mechanism reinforces only the fundamental frequency and its harmonics (frequencies at integer multiples of the fundamental). The energy decay factor (.996 in this case) models the slight dissipation in energy as the wave makes a round trip through the string.
+- **The averaging operation**. The averaging operation serves as a gentle low-pass filter (which removes higher frequencies while allowing lower frequencies to pass, hence the name). Because it is in the path of the feedback, this has the effect of gradually attenuating the higher harmonics while keeping the lower ones, which corresponds closely with how a plucked guitar string sounds.

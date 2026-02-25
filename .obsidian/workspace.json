@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
+                "file": "NJU-notes/personal learning/cs61b/git 入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树状数组"
+              "title": "git 入门"
             }
           }
         ]
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -213,10 +212,10 @@
   },
   "active": "56a5fb127bf64ceb",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "NJU-notes/personal learning/cs61b/11. Exceptions, Iterators, Object Methods.md",
     "NJU-notes/personal learning/cs61b/4. References, Recursion, and Lists.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
-    "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/c++ and algorithm/数据结构/图.md",
     "NJU-notes/c++ and algorithm/贪心/接水问题.md",

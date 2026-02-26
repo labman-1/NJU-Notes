@@ -1,0 +1,16 @@
+/* 修改阅读模式 (Reading View) 下的代码注释颜色 */
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+    color: #50fa7b !important;  /* 这里的颜色代码可以改 */
+    font-style: italic;         /* 加上斜体，更有代码感 */
+    font-weight: bold;          /* 加粗，让它更显眼 */
+}
+
+/* 修改编辑模式/即时预览 (Live Preview) 下的代码注释颜色 */
+.cm-comment {
+    color: #50fa7b !important;  /* 保持和上面一致 */
+    font-style: italic;
+    font-weight: bold;
+}

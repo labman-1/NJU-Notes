@@ -173,3 +173,36 @@ int main() {
 2.  **断环为链数组大小**：一定要开 $2N$！
 3.  **前缀和**：`cost` 一定是 `s[j] - s[i-1]`，别写错下标。
 4.  **初始化**：求 `min` 时，`dp` 数组必须初始化为极大值，否则 `min` 永远是 0。
+
+同理，不难得出下一道题的解法。[P1063 [NOIP 2006 提高组] 能量项链 - 洛谷](https://www.luogu.com.cn/problem/P1063)
+```c++
+#include<bits/stdc++.h>
+#define MAX 205
+using namespace std;
+int n,e=0;
+int a[MAX];
+int energy[MAX][MAX];
+int main() {
+	ios::sync_with_stdio(false);cin.tie(0);
+	cin >> n;
+	for (int i = 1;i <= n;i++) {
+		cin >> a[i];
+		a[i + n] = a[i];
+	}
+	a[2 * n + 1] = a[1];
+	for (int len = 2;len <= n;len++) {
+		for (int i = 1;i + len - 1 <= 2 * n;i++) {
+			int j = i + len - 1;
+			for (int k = i; k < j;k++) {
+				int cost = a[i] * a[k+1] * a[j+1];
+				energy[i][j] = max(energy[i][j], energy[i][k] + energy[k + 1][j] + cost);
+			}
+		}
+	}
+	for (int i = 1;i <= n;i++) {
+		e = max(e, energy[i][i + n-1]);
+	}
+	cout << e;
+	return 0;
+}
+```

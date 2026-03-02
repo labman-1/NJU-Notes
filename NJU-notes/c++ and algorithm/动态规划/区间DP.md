@@ -1,3 +1,4 @@
+## 区间DP引入及例题
 区间DP是线性DP的扩展。
 学弟，欢迎来到 DP 家族中最优雅、最具有几何美感的分支——**区间 DP**。
 
@@ -173,8 +174,8 @@ int main() {
 2.  **断环为链数组大小**：一定要开 $2N$！
 3.  **前缀和**：`cost` 一定是 `s[j] - s[i-1]`，别写错下标。
 4.  **初始化**：求 `min` 时，`dp` 数组必须初始化为极大值，否则 `min` 永远是 0。
-
-同理，不难得出下一道题的解法。[P1063 [NOIP 2006 提高组] 能量项链 - 洛谷](https://www.luogu.com.cn/problem/P1063)
+## 题2 [P1063 [NOIP 2006 提高组] 能量项链 - 洛谷](https://www.luogu.com.cn/problem/P1063)
+同理，不难得出下一道题的解法。
 ```c++
 #include<bits/stdc++.h>
 #define MAX 205
@@ -206,3 +207,108 @@ int main() {
 	return 0;
 }
 ```
+## 题3[P1005 [NOIP 2007 提高组] 矩阵取数游戏 - 洛谷](https://www.luogu.com.cn/problem/P1005)
+```c++
+#include<bits/stdc++.h>
+#define MAX 90
+using namespace std;
+class BigInt {
+public:
+	int digit = 0;
+	int number[100] = {0}; 
+	BigInt() {};
+	BigInt(int num) {
+		while (num > 0) {
+			digit++;
+			number[digit] = num % 10;
+			num /= 10;
+		}
+	}
+	BigInt operator +(const BigInt& other) const {
+		BigInt a;
+		int carry = 0;
+		int i = 1;
+		int maxDigit = max(this->digit, other.digit);
+		for (; i <= maxDigit; ++i) {
+			int sum = this->number[i] + other.number[i] + carry;
+			a.number[i] = sum % 10;
+			carry = sum / 10;
+		}
+		if (carry) {
+			a.number[i++] = carry;
+		}
+		a.digit = i - 1;
+		return a;
+	}
+	BigInt operator +(int other) const {
+		return *this + BigInt(other);
+	}
+	BigInt operator* (int other) const {
+		BigInt result = *this;
+		int carry = 0;
+		for (int i = 1; i <= result.digit; i++) {
+			int temp = result.number[i] * other + carry;
+			result.number[i] = temp % 10;
+			carry = temp / 10;
+		}
+		int i = result.digit;
+		while (carry) {
+			result.number[++i] = carry % 10;
+			carry /= 10;
+		}
+		result.digit = i;
+		return result;
+	}
+	bool operator >(const BigInt& other) const {
+		if (other.digit != this->digit) return this->digit > other.digit;
+		for (int i = this->digit; i >= 1; --i) {
+			if (this->number[i] != other.number[i])
+				return this->number[i] > other.number[i];
+		}
+		return false;
+	}
+	bool operator <(const BigInt& other) const {
+		return other > *this;
+	}
+};
+BigInt p2[MAX];
+int n, m;
+void initPower() {
+	p2[0] = BigInt(1);
+	for (int i = 1; i <= m; i++) {
+		p2[i] = p2[i - 1] * 2; // 用前一个乘 2 得到下一个
+	}
+}
+int matrix[MAX][MAX];
+BigInt dp[MAX][MAX] ;
+int main() {
+	ios::sync_with_stdio(false);cin.tie(0);
+	cin >> n >> m;
+	BigInt ans;
+	for (int row = 1;row <= n;row++) {
+		for (int col = 1;col <= m;col++) {
+			cin >> matrix[row][col];
+		}
+	}
+	initPower();
+	for (int row = 1;row <= n;row++) {
+		//初始化长度为1的区间作为基础
+		for (int x = 1;x <= m;x++) {
+			dp[x][x] = p2[m]*matrix[row][x];
+		}
+		for (int len = 2;len <= m;len++) {
+			for (int i = 1;i + len - 1 <= m;i++) {
+				int j = i + len - 1;
+				dp[i][j] = max(dp[i + 1][j] + p2[m - len + 1] * matrix[row][i],
+					dp[i][j - 1] + p2[m - len + 1] * matrix[row][j]);
+			}
+		}
+		ans =ans+ dp[1][m];
+	}
+	do{
+		cout << ans.number[ans.digit--];
+	} while (ans.digit > 0);
+	return 0;
+}
+```
+这道题由于高精度加区间DP我写了一个小时多一些（悲），花了10分钟才发现dp\[x]\[x]里面要乘上最后的2的m次方，这个挺难找的。还有几个点，一是刚开始没有注意

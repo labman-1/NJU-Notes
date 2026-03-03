@@ -11,4 +11,8 @@ language is what we hear, culture is how we understand.
 2. culture is the ways we do things
 3. Parameters: 1.perception of time (punctual);2. direct:say what they mean, rely content;preserve the relationship;3.
 AACB BBD
-B
+BDAB CCBA
+CD
+
+CACD BBA
+BDAB

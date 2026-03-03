@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
+                "file": "NJU-notes/English/Listening and speaking/Class A1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "区间DP"
+              "title": "Class A1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "English"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,15 +210,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dade9e2bd5352b6",
+  "active": "56a5fb127bf64ceb",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
+    "NJU-notes/English/Listening and speaking/Class A1.md",
+    "NJU-notes/English/Listening and speaking",
+    "NJU-notes/English",
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
     "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
     "NJU-notes/c++ and algorithm/小焚决/高精度.md",
     "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
-    "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
     "NJU-notes/DLCO/Lesson 1 计算机是如何工作的.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
     "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
@@ -240,7 +242,6 @@
     "NJU-notes/personal learning/cs61b/4. References, Recursion, and Lists.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
-    "NJU-notes/c++ and algorithm/数据结构/图.md",
     "NJU-notes/assets/9.Extends, Casting, Higher Order Functions_202602241840.png",
     "NJU-notes/assets/Pasted image 20260224182927.png",
     "NJU-notes/personal learning/cs61b",
@@ -252,8 +253,6 @@
     "NJU-notes/c++ and algorithm/图论",
     "NJU-notes/SICP/OOP",
     "NJU-notes/SICP/SQL",
-    "NJU-notes/数学/线性代数",
-    "NJU-notes/数学/微积分",
     "NJU-notes/assets/大学，学什么_202512220034.jpg",
     "NJU-notes/assets/树状数组.png"
   ]

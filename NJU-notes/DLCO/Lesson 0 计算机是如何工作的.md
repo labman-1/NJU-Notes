@@ -1,4 +1,5 @@
 ## 计算机是如何工作的
+[[crash course computer science_202601201913.png]]
 开始执行程序后：自动取出指令连续执行，无需人为干预。
 一下步骤在控制器的协调下完成
 1. 根据PC（program counter）取指令

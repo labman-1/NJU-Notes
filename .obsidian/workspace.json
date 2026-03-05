@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/微积分/极限.md",
+                "file": "NJU-notes/c++ and algorithm/二分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "极限"
+              "title": "二分"
             }
           }
         ]
@@ -212,10 +212,10 @@
   },
   "active": "56a5fb127bf64ceb",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/二分.md",
-    "NJU-notes/数学/微积分/极限.md",
-    "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/数学/微积分/极限.md",
+    "NJU-notes/c++ and algorithm/二分.md",
+    "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
     "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/DLCO/Lesson 1.md",

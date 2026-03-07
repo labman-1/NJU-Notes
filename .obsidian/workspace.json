@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/二分.md",
+                "file": "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二分"
+              "title": "差分数组与前缀和数组"
             }
           }
         ]
@@ -212,9 +212,10 @@
   },
   "active": "56a5fb127bf64ceb",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/数据结构/并查集.md",
+    "NJU-notes/c++ and algorithm/二分.md",
     "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
     "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
-    "NJU-notes/c++ and algorithm/二分.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
     "NJU-notes/DLCO/Lesson 1 语言与进制.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
@@ -237,7 +238,6 @@
     "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/数学/微积分/极限.md",
     "NJU-notes/assets/crash course computer science_202601201913.png",
     "NJU-notes/English/Listening and speaking",
     "NJU-notes/English",

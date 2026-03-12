@@ -22,4 +22,4 @@ p & q & p\land q &\neg (p\land q)&\neg p&\neg q&\neg p\lor\neg q\\
 0 & 0 & 0 & 1 & 1 & 1 & 1\\
 \end{array}$$
 # Problem 2
-a)记p为“2+2=5”
+a)记p为“2+2=5”，q为“1+1=3“

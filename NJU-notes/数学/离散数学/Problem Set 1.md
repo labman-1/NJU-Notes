@@ -78,4 +78,19 @@ $$\begin{align*}
 &\equiv [(\neg p\land \neg q)\lor (p\land \neg r)\lor (q\land \neg r)]\lor r\\
 
 \end{align*}$$
-显然，当r为真时，上式为真；当r
+显然，当r为真时，上式为真；当r为假时，$\neg r$为真，记s为$(\neg p\land \neg q)\lor (p\land \neg r)\lor (q\land \neg r)$
+作出有关s的真值表
+$$
+\begin{array}{c|c|c|c|c|c|c|c|c}
+\neg r&p & q & \neg p\land \neg q &p \land \neg r& q\land \neg r&\neg p&\neg q&s\\
+\hline 
+1&1 & 1 & 0 & 1 & 1 & 0 & 0&1\\
+1&1 & 0 & 0 & 1 & 0 & 1 & 1&1\\
+1&0 & 1 & 0 & 0 & 1 & 0 & 0&1\\
+1&0 & 0 & 1 & 0 & 0 & 1 & 1&1\\
+\end{array}$$
+$\therefore$当r为假时，原式为真，故原式为永真式
+
+# Problem 9
+a) $r \land \neg p$
+b)$$

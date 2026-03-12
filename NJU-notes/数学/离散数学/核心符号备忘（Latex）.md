@@ -5,10 +5,8 @@
 
 在 Obsidian 中制作带数学符号的真值表，最完美的方式是结合 **Markdown 表格** 和 **LaTeX 公式**。
 
-这里为你准备了一份“保姆级”指南，包含符号速查、两种制表方案以及效率提速技巧。
-
 ---
-
+# 符号备忘
 ### 第一步：离散数学核心符号“速查小抄”
 
 在表头写公式时，你需要用到 LaTeX 语法。把这些符号记下来（或者复制到你的笔记里存着）：
@@ -82,3 +80,25 @@ $$
 *   离散数学里敲 `\rightarrow` 太长了。装了这个插件后，你只需要敲 `->`，它瞬间自动变成 `\rightarrow`；敲 `&&`，它自动变成 `\land`。
 *   这会让你做离散数学笔记的速度**超越手写**！
 
+# Latex 制表
+
+$$
+\begin{array}{|c|c|c|c|}
+\hline
+% 这一行是跨列居中的大表头
+\multicolumn{4}{|c|} {\text{德·摩根定律真值表验证: } \neg(p \land q) \leftrightarrow (\neg p \lor \neg q)} \\
+\hline
+% 这是列名
+p & q & \neg(p \land q) & \neg p \lor \neg q \\
+\hline
+% 下面是数据行，每行之间加 \hline 画横线
+T & T & F & F \\
+\hline
+T & F & T & T \\
+\hline
+F & T & T & T \\
+\hline
+F & F & T & T \\
+\hline
+\end{array}
+$$

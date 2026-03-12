@@ -35,3 +35,8 @@ $\therefore \neg p\to (q\to r)\equiv p \lor (\neg q \lor r)$
 又$\because q\to (p\lor r)\equiv \neg q \lor(p\lor r)$
 $\therefore \neg p\to (q\to r)\equiv q\to (p\lor r)$
 # Problem 5
+证明：$\because q\to r \equiv \neg q \lor r$ 
+$\therefore p\to (q\to r)\equiv p\to(\neg q \lor r)$
+$\therefore p\to (q\to r)\equiv \neg p \lor (\neg q \lor r)$
+又$\because p \land q \to r \equiv \neg(p\land q) \lor r$
+$\therefore \neg p\to (q\to r)\equiv q\to (p\lor r)$

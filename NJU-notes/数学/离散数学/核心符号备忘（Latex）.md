@@ -85,13 +85,10 @@ $$
 $$
 \begin{array}{|c|c|c|c|}
 \hline
-% 这一行是跨列居中的大表头
-\multicolumn{4}{|c|} {\text{德·摩根定律真值表验证: } \neg(p \land q) \leftrightarrow (\neg p \lor \neg q)} \\
+\multicolumn{4}{c}{\text{德·摩根定律真值表验证: } \neg(p \land q) \leftrightarrow (\neg p \lor \neg q)} \\
 \hline
-% 这是列名
 p & q & \neg(p \land q) & \neg p \lor \neg q \\
 \hline
-% 下面是数据行，每行之间加 \hline 画横线
 T & T & F & F \\
 \hline
 T & F & T & T \\

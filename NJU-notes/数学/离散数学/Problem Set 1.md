@@ -39,8 +39,20 @@ $\therefore \neg p\to (q\to r)\equiv q\to (p\lor r)$
 $\therefore p\to (q\to r)\equiv p\to(\neg q \lor r)$
 $\therefore p\to (q\to r)\equiv \neg p \lor (\neg q \lor r)$
 $$\begin{align*}
-\because p\land q \to r 
+\therefore p\land q \to r 
 &\equiv \neg(p\land q) \lor r\\
-&\equiv \neg p \lor \neg q \lor r
+&\equiv \neg p \lor \neg q \lor r\\
+&\equiv p \to(q\to r)
 \end{align*}
 $$
+# Problem 6
+$$\begin{align*}
+\because (p\to q)\to(r\to s)
+&\equiv (\neg p \lor q)\to(\neg r \lor   s) \\
+&\equiv \neg(\neg p \lor q)\lor (\neg r \lor s)\\
+& \equiv (p\land \neg q)\lor (\neg r \lor s)\\
+(p\to r)\to (q\to s)
+&\equiv (\neg p \lor r)\to(\neg q \lor   s) \\
+&\equiv \neg(\neg p \lor r)\lor (\neg q \lor s)\\
+& \equiv (p\land \neg r)\lor (\neg q \lor s)\\
+\end{align*}$$

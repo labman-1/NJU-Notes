@@ -93,4 +93,5 @@ $\therefore$当r为假时，原式为真，故原式为永真式
 
 # Problem 9
 a) $r \land \neg p$
-b)$$
+b)$\neg p \land q \land r$
+c)$$

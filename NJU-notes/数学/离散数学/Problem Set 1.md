@@ -65,6 +65,7 @@ $$\begin{align*}
 &\equiv p\lor\neg(p\to q)\lor \neg q\\
 &\equiv p\lor\neg(\neg p \lor q)\lor \neg q\\
 &\equiv p\lor( p \land \neg q)\lor \neg q\\
+&\equiv p\lor \neg q
 \end{align*}
 $$
 当p为假，q为真时，上式的真值为假，故该式不是永真式
@@ -93,5 +94,9 @@ $\therefore$当r为假时，原式为真，故原式为永真式
 
 # Problem 9
 a) $r \land \neg p$
-b)$\neg p \land q \land r$
-c)$$
+b) $\neg p \land q \land r$
+c) $r\to (q \leftrightarrow p)$
+d) $\neg q \land \neg p \land r$
+e) $(\neg r \land \neg p)\to q$
+f) $(p \land r)\to \neg q$
+# Problem 10

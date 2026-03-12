@@ -11,14 +11,14 @@
             "id": "76ead26011a0ab8b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
-                "bFile": "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
-                "aRef": ""
+                "file": "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 核心符号备忘（Latex）"
+              "icon": "lucide-file",
+              "title": "核心符号备忘（Latex）"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Problem Set 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +224,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76ead26011a0ab8b",
+  "active": "434617cc4f8b8648",
   "lastOpenFiles": [
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/离散数学/Problem Set 1.md",

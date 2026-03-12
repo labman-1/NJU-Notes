@@ -82,5 +82,3 @@ $$
 *   离散数学里敲 `\rightarrow` 太长了。装了这个插件后，你只需要敲 `->`，它瞬间自动变成 `\rightarrow`；敲 `&&`，它自动变成 `\land`。
 *   这会让你做离散数学笔记的速度**超越手写**！
 
-**小作业：**
-去你的 Obsidian 里新建一篇叫 `Discrete_Math.md` 的笔记，用**方案 A** 试着画一个求证德·摩根定律（De Morgan's laws） $\neg(p \land q) \leftrightarrow (\neg p \lor \neg q)$ 的真值表吧！如果表格乱了，记得检查哪里漏了 `|`。

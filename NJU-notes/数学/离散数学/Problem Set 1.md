@@ -25,7 +25,7 @@ p & q & p\land q &\neg (p\land q)&\neg p&\neg q&\neg p\lor\neg q\\
 a)记p为“2+2=5”，q为“1+1=3“，则原命题为$p\leftrightarrow q$。因为p为假，所以命题 $p\to q$为真；因为q为假，所以命题$q\to p$为真，所以$p\leftrightarrow q$为真
 b)记p为“1+1=2”，q为“2+2=5”，则原命题为$p\to q$。因为p为真，q为假，所以命题$p\to q$为假
 c）记p为“1+1=3”，q为“2+2=5”，则原命题为$p\to q$。因为p为假，q为假，所以命题$p\to q$为真
-d）记p为“0>1”，q为“2>1”，则原命题为$p\to q$。因为p为假，q为假，所以命题$p\to q$为真
+d）记p为“0>1”，q为“2>1”，则原命题为$p\to q$。因为p为假，q为真，所以命题$p\to q$为真
 # Problem 3
 $g\to (r\land \neg m \land \neg b)$
 # Problem 4
@@ -97,6 +97,6 @@ a) $r \land \neg p$
 b) $\neg p \land q \land r$
 c) $r\to (q \leftrightarrow p)$
 d) $\neg q \land \neg p \land r$
-e) $(\neg r \land \neg p)\to q$
+e) $q\to (\neg r \land \neg p)$
 f) $(p \land r)\to \neg q$
 # Problem 10

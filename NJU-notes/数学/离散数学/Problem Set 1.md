@@ -65,7 +65,17 @@ $$\begin{align*}
 &\equiv p\lor\neg(p\to q)\lor \neg q\\
 &\equiv p\lor\neg(\neg p \lor q)\lor \neg q\\
 &\equiv p\lor( p \land \neg q)\lor \neg q\\
-&\equiv( p\lor p) \land( p \lor \neg q )\lor \neg q\\
-&\equiv p\land ( p \lor \neg q )\lor \neg q\\
 \end{align*}
 $$
+当p为假，q为真时，上式的真值为假，故该式不是永真式
+
+# Problem 8
+证明：
+$$\begin{align*}
+[(p\lor q)\land (p\to r)\land (q\to r)]\to r
+&\equiv \neg[(p\lor q)\land (\neg p\lor r)\land(\neg q\lor r)]\lor r\\
+&\equiv [\neg(p\lor q)\lor \neg(\neg p\lor r)\lor \neg(\neg q\lor r)]\lor r\\
+&\equiv [(\neg p\land \neg q)\lor (p\land \neg r)\lor (q\land \neg r)]\lor r\\
+
+\end{align*}$$
+显然，当r为真时，上式为真；当r

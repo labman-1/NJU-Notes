@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a654a77c46b9fc72",
+            "id": "76ead26011a0ab8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
-                "mode": "source",
-                "source": false
+                "aFile": "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+                "bFile": "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "核心符号备忘（Latex）"
+              "icon": "diff",
+              "title": "Diff: 核心符号备忘（Latex）"
             }
           },
           {
-            "id": "76ead26011a0ab8b",
+            "id": "434617cc4f8b8648",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a654a77c46b9fc72",
+  "active": "76ead26011a0ab8b",
   "lastOpenFiles": [
-    "NJU-notes/数学/离散数学/Problem Set 1.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+    "NJU-notes/数学/离散数学/Problem Set 1.md",
     "NJU-notes/数学/离散数学",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",

@@ -85,7 +85,7 @@ $$
 $$
 \begin{array}{|c|c|c|c|}
 \hline
-\multicolumn{4}{c}{\text{德·摩根定律真值表验证: } \neg(p \land q) \leftrightarrow (\neg p \lor \neg q)} \\
+\multicolumn{4}{|c|}{\text{德·摩根定律真值表验证: } \neg(p \land q) \leftrightarrow (\neg p \lor \neg q)} \\
 \hline
 p & q & \neg(p \land q) & \neg p \lor \neg q \\
 \hline

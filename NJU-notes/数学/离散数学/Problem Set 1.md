@@ -60,3 +60,12 @@ $$\begin{align*}
 \end{align*}$$
 若p为假，q为真，s为假，r为假，则$(p\to q)\to(r\to s)$为真，$(p\to r)\to (q\to s)$为假，此时二者不具有相同真值，说明二式非逻辑等价
 # Problem 7
+$$\begin{align*}
+(\neg p\land (p\to q))\to \neg q&\equiv \neg(\neg p\land (p\to q))\lor \neg q\\
+&\equiv p\lor\neg(p\to q)\lor \neg q\\
+&\equiv p\lor\neg(\neg p \lor q)\lor \neg q\\
+&\equiv p\lor( p \land \neg q)\lor \neg q\\
+&\equiv( p\lor p) \land( p \lor \neg q )\lor \neg q\\
+&\equiv p\land ( p \lor \neg q )\lor \neg q\\
+\end{align*}
+$$

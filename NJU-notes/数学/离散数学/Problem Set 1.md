@@ -51,8 +51,12 @@ $$\begin{align*}
 &\equiv (\neg p \lor q)\to(\neg r \lor   s) \\
 &\equiv \neg(\neg p \lor q)\lor (\neg r \lor s)\\
 & \equiv (p\land \neg q)\lor (\neg r \lor s)\\
+&\equiv p\lor (\neg r \lor s)\land (\neg q \lor \neg r \lor s )\\\\
 (p\to r)\to (q\to s)
 &\equiv (\neg p \lor r)\to(\neg q \lor   s) \\
 &\equiv \neg(\neg p \lor r)\lor (\neg q \lor s)\\
 & \equiv (p\land \neg r)\lor (\neg q \lor s)\\
+&\equiv p\lor (\neg q \lor s)\land (\neg r \lor \neg q \lor s )
 \end{align*}$$
+若p为假，q为真，s为假，r为假，则$(p\to q)\to(r\to s)$为真，$(p\to r)\to (q\to s)$为假，此时二者不具有相同真值，说明二式非逻辑等价
+# Problem 7

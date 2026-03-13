@@ -102,4 +102,8 @@ f) $(p \land r)\to \neg q$
 # Problem 10
 证明：
 a) 依据析取范式理论，任意一个复合命题都对应一个真值表，任何一个真值表都可以提取出结果为真的行。每一行写成一个合取式（用$\neg$和$\land$），然后把这些行用$\lor$连接起来，故{$\neg , \land , \lor$}可以表示任何逻辑，即$\neg , \land , \lor$构成一个逻辑运算符的功能完备集。
-b) 对于任意的一个析取式$p\lor q$，其逻辑等价于$\neg(\neg )$
+b) 依据德·摩根律，对于任意的一个析取式$p\lor q$，其逻辑等价于$\neg(\neg p \land \neg q)$，所以$\lor$可以由$\neg , \land$表示，又因为$\neg , \land , \lor$构成一个逻辑运算符的功能完备集，所以$\neg , \land$也构成一个逻辑运算符的功能完备集。
+c) 同理，依据德·摩根律，$p\land q \equiv \neg(\neg p \lor \neg q)$，所以$\land$可以由$\neg , \lor$表示，又因为$\neg , \land , \lor$构成一个逻辑运算符的功能完备集，所以$\neg , \lor$也构成一个逻辑运算符的功能完备集。
+# Problem 11
+a）令p为0，q为0，注意到此时$p\lor \neg q$为真，$\neg p \lor q$为真，$\neg p \lor \neg q$为真，故原复合命题为真，则原复合命题是可满足的。
+b）

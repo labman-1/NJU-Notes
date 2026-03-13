@@ -100,3 +100,6 @@ d) $\neg q \land \neg p \land r$
 e) $q\to (\neg r \land \neg p)$
 f) $(p \land r)\to \neg q$
 # Problem 10
+证明：
+a) 依据析取范式理论，任意一个复合命题都对应一个真值表，任何一个真值表都可以提取出结果为真的行。每一行写成一个合取式（用$\neg$和$\land$），然后把这些行用$\lor$连接起来，故{$\neg , \land , \lor$}可以表示任何逻辑，即$\neg , \land , \lor$构成一个逻辑运算符的功能完备集。
+b) 对于任意的一个析取式$p\lor q$，其逻辑等价于$\neg(\neg )$

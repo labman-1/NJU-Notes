@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -225,7 +224,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "434617cc4f8b8648",
+  "active": "6a429540b28ae1c9",
   "lastOpenFiles": [
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/离散数学/Problem Set 1.md",

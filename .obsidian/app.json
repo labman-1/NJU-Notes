@@ -2,5 +2,12 @@
   "promptDelete": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "NJU-notes/assets"
+  "attachmentFolderPath": "NJU-notes/assets",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

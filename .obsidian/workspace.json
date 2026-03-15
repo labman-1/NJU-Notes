@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "NJU-notes/c++ and algorithm/分治.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "分治"
             }
           },
           {
@@ -226,6 +226,7 @@
   },
   "active": "434617cc4f8b8648",
   "lastOpenFiles": [
+    "README.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/排序/排序.md",
     "NJU-notes/c++ and algorithm/分治.md",
@@ -255,7 +256,6 @@
     "NJU-notes/c++ and algorithm/贪心/贪心.md",
     "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
-    "NJU-notes/c++ and algorithm/小焚决/高精度.md",
     "NJU-notes/assets/crash course computer science_202601201913.png",
     "NJU-notes/English/Listening and speaking",
     "NJU-notes/English",

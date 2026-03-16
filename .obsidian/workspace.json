@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/Lesson 4.md",
+                "file": "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4"
+              "title": "Lesson 4 数字逻辑基础"
             }
           },
           {
@@ -226,8 +226,10 @@
   },
   "active": "434617cc4f8b8648",
   "lastOpenFiles": [
+    "NJU-notes/personal learning/crash course computer science.md",
+    "NJU-notes/personal learning/cs61b/cs61b.md",
+    "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
     "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
-    "NJU-notes/DLCO/Lesson 4.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
     "NJU-notes/c++ and algorithm/分治.md",
     "README.md",
@@ -254,8 +256,6 @@
     "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
     "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/贪心/重叠线段问题.md",
-    "NJU-notes/c++ and algorithm/贪心/贪心.md",
-    "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/assets/crash course computer science_202601201913.png",
     "NJU-notes/English/Listening and speaking",
     "NJU-notes/English",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/贪心/推销员（累加与极值并存）.md",
+                "file": "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "推销员（累加与极值并存）"
+              "title": "wa调试焚决"
             }
           },
           {
@@ -226,8 +226,10 @@
   },
   "active": "434617cc4f8b8648",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/贪心/贪心.md",
+    "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/贪心/推销员（累加与极值并存）.md",
+    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+    "NJU-notes/c++ and algorithm/贪心/贪心.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
     "NJU-notes/personal learning/crash course computer science.md",
@@ -242,7 +244,6 @@
     "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
     "NJU-notes/数学/离散数学/Problem Set 1.md",
-    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/离散数学",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "NJU-notes/assets/Lesson 1、2、3 语言与进制_202603111442.png",
@@ -255,7 +256,6 @@
     "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
-    "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
     "NJU-notes/assets/crash course computer science_202601201913.png",
     "NJU-notes/English/Listening and speaking",
     "NJU-notes/English",

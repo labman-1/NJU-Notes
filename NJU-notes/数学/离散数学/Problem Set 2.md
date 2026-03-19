@@ -3,6 +3,6 @@
 $$
 \begin{align*}
 (p\to q)\land(q\to r)\to(p\to r)
-&\equiv 
+&\equiv (\neg p\lor \neg q)\land (\neg q \to)
 \end{align*}
 $$

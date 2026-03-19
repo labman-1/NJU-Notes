@@ -20,3 +20,12 @@ $$
 （c）体现了假言推理
 （d）体现了附加
 （e）体现了假言三段论
+# Problem 3
+有效。理由如下：
+$$
+\begin{align*}
+p\to r \equiv \neg p\lor r \\
+q\to r \equiv \neg q \lor r
+
+\end{align*}
+$$

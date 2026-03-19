@@ -25,7 +25,7 @@ $$
 $$
 \begin{align*}
 p\to r \equiv \neg p\lor r \\
-q\to r \equiv \neg q \lor r
-
+q\to r \equiv \neg q \lor r\\
+\neg(p\lor q)\equiv \neg p\land \neg q
 \end{align*}
 $$

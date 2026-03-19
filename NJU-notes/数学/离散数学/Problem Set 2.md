@@ -29,3 +29,5 @@ q\to r \equiv \neg q \lor r\\
 \neg(p\lor q)\equiv \neg p\land \neg q
 \end{align*}
 $$
+对于这一种指派：p=0，q=0，r=1，可以通过逐条检验验证三个前提均为真，但此时结论为假，故该论证无效。
+# Problem 4

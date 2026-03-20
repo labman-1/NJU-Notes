@@ -29,4 +29,7 @@ $\therefore \exists x\neg P(x)$，则原命题成立
 (c)$\exists x \neg M(x)\land \neg G_3(x)$。该命题为真
 (d)$\forall x G_2(x)\lor C(x)$。该命题为假（存在两个数学专业的三年级学生）
 (e)$((\exists xM(x)\land G_1(x))\land(\exists xM(x)\land G_2(x))\land(\exists xM(x)\land G_3(x))\land(\exists xM(x)\land G_4(x)))\lor((\exists xM(x)\land G_1(x))\land(\exists xC(x)\land G_2(x))\land(\exists xC(x)\land G_3(x))\land(\exists xC(x)\land G_4(x)))$
-该命题为假
+该命题为假。
+# Problem 5
+令P(x)为谓词“x是正整数”。设论域为全体整数$\mathbb{Z}$。
+$\exists x\,P(x)\land (\forall y_1,y_2,y_3\,\,y_1^2+y_2^2+y_3^2\ne x)$

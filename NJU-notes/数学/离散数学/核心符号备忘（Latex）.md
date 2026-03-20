@@ -1,8 +1,3 @@
-
-
-
-离散数学（Discrete Mathematics）是 CS 专业的灵魂课程，而**真值表（Truth Table）**更是前几章的核心。
-
 在 Obsidian 中制作带数学符号的真值表，最完美的方式是结合 **Markdown 表格** 和 **LaTeX 公式**。
 
 ---

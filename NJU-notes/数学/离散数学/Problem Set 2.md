@@ -40,10 +40,14 @@ $$
 证明：
 $$
 \begin{align}
-(1)r\to s
-(2)\neg s \to \neg r
-(3)\neg s
-(4)\neg r
-(5)\neg p \lor \neg q \to r \land t
+&(1)r\to s\\
+&(2)\neg s \to \neg r\\
+&(3)\neg s\\
+&(4)\neg r\\
+&(5)\neg p \lor \neg q \to r \land t\\
+&(6)\neg r \lor \neg t \to p\land q\\
+&(7)\neg r \lor \neg t\\
+&(8)p\land q\\
+&(9)p
 \end{align}
 $$

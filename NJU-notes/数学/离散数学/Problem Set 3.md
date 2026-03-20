@@ -1,11 +1,11 @@
 # Problem 1
-(a)$\exists x \,C(x)\land D(x)\land F(x)$
-(b)$\forall x\, C(x)\lor D(x)\lor F(x)$
-(c)$\exists x\, C(x)\land F(x)\land \neg D(x)$
-(d)$\forall x\, \neg C(x)\lor\neg D(x)\lor \neg F(x)$
-(e)$\exists x\, C(x)\land\exists x\, D(x)\land\exists x\, F(x)$
+(a)$\exists x \,(C(x)\land D(x)\land F(x))$
+(b)$\forall x\,( C(x)\lor D(x)\lor F(x))$
+(c)$\exists x\, (C(x)\land F(x)\land \neg D(x))$
+(d)$\forall x\, (\neg C(x)\lor\neg D(x)\lor \neg F(x))$
+(e)$\exists x\, (C(x)\land\exists x\, D(x)\land\exists x\, F(x))$
 # Problem 2
-（a）当x=2时，$x^2=2$，则原命题为真
+（a）当x=$\sqrt{2}$时，$x^2=2$，则原命题为真
 （b）$\because \forall x(x^2>=0)$
 $\therefore \forall x(x^2\ne-1)$
 即原命题为假
@@ -32,13 +32,13 @@ $\therefore \exists x\neg P(x)$，则原命题成立
 该命题为假。
 # Problem 5
 令P(x)为谓词“x是正整数”。设论域为全体整数$\mathbb{Z}$。
-$\exists x\,P(x)\land (\forall y_1,y_2,y_3\,\,y_1^2+y_2^2+y_3^2\ne x)$
+$\exists x\,(P(x)\land (\forall y_1,y_2,y_3\,\,y_1^2+y_2^2+y_3^2\ne x))$
 # Problem 6
 证明：
 $$
 \begin{align*}
 &(1)\forall x(P(x)\land R(x))(前提)\\
-&(2)\forall x\, P(x)（化简）\\
+&(2)P(a)\land R(a)(全称例示\,自(1))\\
 &(3)\forall x(P(x)\to(Q(x)\land S(x)))(前提)\\
 &(4)\forall x Q(x)\land S(x)(假言推理 自(2)(3))\\
 &(5)\forall x S(x)(化简)\\
@@ -64,4 +64,4 @@ $$
 \end{align*}
 $$
 # Problem 8
-$(\exists xP(x))\land(\forall y\,P(y)\to y=x)$
+$\exists x(P(x)\land(\forall y\,P(y)\to y=x))$

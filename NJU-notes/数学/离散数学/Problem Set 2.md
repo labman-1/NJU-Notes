@@ -58,6 +58,17 @@ $\neg p\lor \neg q$
 证明：
 $$\begin{align*}
 &(1)\neg p\lor \neg q\Rightarrow \neg(p\land q)\\
-&(2)
+&(2)\neg(p\land q)，(p\land q)\lor(\neg p\land \neg q)\Rightarrow \neg p\land \neg q\\
+&(3)\neg p\land \neg q\Rightarrow \neg p,\neg q
+\end{align*}
+$$
+即两个孩子都在说谎。
+
+# Problem 7
+自然语言：假设甲会游泳，则甲说真话，乙说假话，又因为只有一个人说假话，所以丙和丁都说真话，那么乙不会游泳，且甲、丙、丁都会游泳。假设甲不会游泳，则甲说假话，那么乙、丙、丁都应该说真话，则乙不会游泳，此时至多有两个人会游泳，与丁说的矛盾，则假设不成立。综上，甲说真话，乙说假话，丙和丁都说真话，乙不会游泳，甲、丙、丁都会游泳。
+命题逻辑：
+$$
+\begin{align*}
+
 \end{align*}
 $$

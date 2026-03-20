@@ -52,5 +52,12 @@ $$
 \end{align}
 $$
 # Problem 6
-建立命题变元p：黑发孩子是男孩。q：金发孩子是男孩。s：黑发孩子说谎。t：金发孩子说谎。
-则这个谜题的前提
+建立命题变元p：黑发孩子是男孩。q：金发孩子是女孩。
+则这个谜题的前提为$(p\land q)\lor(\neg p\land \neg q)$
+$\neg p\lor \neg q$
+证明：
+$$\begin{align*}
+&(1)\neg p\lor \neg q\Rightarrow \neg(p\land q)\\
+&(2)
+\end{align*}
+$$

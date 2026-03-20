@@ -23,8 +23,10 @@ $\therefore \exists x_0,x_1\, P(x_0),P(x_1)$
 （c）$\because \neg \forall xP(x)\equiv \exists x \neg P(x),\exists! x\neg P(s)$
 $\therefore \exists x\neg P(x)$，则原命题成立
 # Problem 4
-令M(x)为谓词“x是数学专业的”，C(x)为谓词“x是计算机专业的”，$G_2$(x)为谓词“x是二年级学生”，$G_3$(x)为谓词“x是三年级学生”，$G_4$(x)为谓词“x是四年级学生”。设论域为离散数学班上的学生。
+令M(x)为谓词“x是数学专业的”，C(x)为谓词“x是计算机专业的”，$G_1$为谓词“x是新生”，$G_2$(x)为谓词“x是二年级学生”，$G_3$(x)为谓词“x是三年级学生”，$G_4$(x)为谓词“x是四年级学生”。设论域为离散数学班上的学生。
 (a)$\exists x\,G_3(x)$。该命题为真
 (b)$\forall x\, C(x)$。该命题为假($\because \exists x M(x)$)
 (c)$\exists x \neg M(x)\land \neg G_3(x)$。该命题为真
-(d)$\forall x G_2($
+(d)$\forall x G_2(x)\lor C(x)$。该命题为假（存在两个数学专业的三年级学生）
+(e)$((\exists xM(x)\land G_1(x))\land(\exists xM(x)\land G_2(x))\land(\exists xM(x)\land G_3(x))\land(\exists xM(x)\land G_4(x)))\lor((\exists xM(x)\land G_1(x))\land(\exists xC(x)\land G_2(x))\land(\exists xC(x)\land G_3(x))\land(\exists xC(x)\land G_4(x)))$
+该命题为假

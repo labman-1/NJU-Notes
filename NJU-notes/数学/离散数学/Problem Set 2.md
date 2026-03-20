@@ -69,6 +69,6 @@ $$
 命题逻辑：建立命题变元P：甲会游泳。q：乙会游泳。r：丙会游泳。s：丁会游泳。
 $$
 \begin{align*}
-(1)p \neg p \neg q 
+(1)(p \neg p \neg q )
 \end{align*}
 $$

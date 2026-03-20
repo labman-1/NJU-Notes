@@ -33,4 +33,17 @@ $$
 # Problem 4
 
 # Problem 5
-建立命题变元p：天下雨。q：天起雾。r：帆船比赛举行。s：没有颁发奖杯。
+建立命题变元p：天下雨。q：天起雾。r：帆船比赛举行。s：颁发奖杯。t：救生表演如期举行。
+则有三个前提：1、$\neg p \lor \neg q \to r \land t$
+2、$r\to s$
+3、$\neg s$
+证明：
+$$
+\begin{align}
+(1)r\to s
+(2)\neg s \to \neg r
+(3)\neg s
+(4)\neg r
+(5)\neg p \lor \neg q \to r \land t
+\end{align}
+$$

@@ -3,4 +3,5 @@
 (b)$\forall x\, C(x)\lor D(x)\lor F(x)$
 (c)$\exists x\, C(x)\land F(x)\land \neg D(x)$
 (d)$\forall x\, \neg C(x)\lor\neg D(x)\lor \neg F(x)$
-(e)$$
+(e)$\exists x\, C(x)\land\exists x\, D(x)\land\exists x\, F(x)$
+# Problem 2

@@ -35,3 +35,9 @@ $\therefore \exists x\neg P(x)$，则原命题成立
 $\exists x\,P(x)\land (\forall y_1,y_2,y_3\,\,y_1^2+y_2^2+y_3^2\ne x)$
 # Problem 6
 证明：
+$$
+\begin{align*}
+&(1)\forall x(P(x)\land R(x))(前提)\\
+&(2)\forall x\, P(x)\\
+\end{align*}
+$$

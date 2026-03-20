@@ -28,7 +28,7 @@ $\therefore \exists x\neg P(x)$，则原命题成立
 (b)$\forall x\, C(x)$。该命题为假($\because \exists x M(x)$)
 (c)$\exists x (\neg M(x)\land \neg G_3(x))$。该命题为真
 (d)$\forall x (G_2(x)\lor C(x))$。该命题为假（存在两个数学专业的三年级学生）
-(e)$((\exists x(M(x)\land G_1(x)))\land(\exists x(M(x)\land G_2(x)))\land(\exists x(M(x)\land G_3(x)))\land(\exists x(M(x)\land G_4(x))))\lor((\exists x(M(x)\land G_1(x)))\land(\exists x(v))\land(\exists xC(x)\land G_3(x))\land(\exists xC(x)\land G_4(x)))$
+(e)$((\exists x(M(x)\land G_1(x)))\land(\exists x(M(x)\land G_2(x)))\land(\exists x(M(x)\land G_3(x)))\land(\exists x(M(x)\land G_4(x))))\lor((\exists x(M(x)\land G_1(x)))\land(\exists x(C(x)\land G_2(x)))\land(\exists x(C(x)\land G_3(x)))\land(\exists x(C(x)\land G_4(x))))$
 该命题为假。
 # Problem 5
 令P(x)为谓词“x是正整数”。设论域为全体整数$\mathbb{Z}$。
@@ -42,8 +42,8 @@ $$
 &(3)P(a)(化简)\\
 &(4)R(a)(化简)\\
 &(5)\forall x(P(x)\to (Q(x)\land S(x)))(前提)\\
-&(6)P(a)\to(Q(a)\land S(a))(全称例示)\\
-&(7)Q(a)\land S(a)(假言推理)\\
+&(6)P(a)\to(Q(a)\land S(a))(全称例示 自(5))\\
+&(7)Q(a)\land S(a)(假言推理 自(3)(6))\\
 &(8)S(a)(化简)\\
 &(9)R(a)\land S(a)(合取引入)\\
 &(10)\forall x(R(x)\land S(x))(全称生成)\\
@@ -59,13 +59,13 @@ $$
 &(4)P(a)\lor Q(a)(全称例示)\\
 &(5)Q(a)(析取三段论\, 自(2)(4))\\
 &(6)\forall x(\neg Q(x)\lor S(x))(前提)\\
-&(7)\neg Q(a)\lor S(a))(全称例示)\\
+&(7)\neg Q(a)\lor S(a)(全称例示)\\
 &(8)S(a)(析取三段论\,\,自(5)(7))\\
 &(9)\forall x(R(x)\to\neg S(x))(前提)\\
-&(10)R(a)\to\neg S(a)(存在例示)\\
+&(10)R(a)\to\neg S(a)(全称例示)\\
 &(11)\neg R(a)(取拒式\,\,自(8)(10))\\
-&(12)\exists x \neg P(x)(存在生成)
+&(12)\exists x \neg R(x)(存在生成)
 \end{align*}
 $$
 # Problem 8
-$\exists x(P(x)\land(\forall y\,P(y)\to y=x))$
+$\exists x(P(x)\land\forall y\,(P(y)\to y=x))$

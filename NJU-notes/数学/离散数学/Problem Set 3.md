@@ -38,6 +38,21 @@ $\exists x\,P(x)\land (\forall y_1,y_2,y_3\,\,y_1^2+y_2^2+y_3^2\ne x)$
 $$
 \begin{align*}
 &(1)\forall x(P(x)\land R(x))(前提)\\
-&(2)\forall x\, P(x)\\
+&(2)\forall x\, P(x)（化简）\\
+&(3)\forall x(P(x)\to(Q(x)\land S(x)))(前提)\\
+&(4)\forall x Q(x)\land S(x)(假言推理 自(2)(3))\\
+&(5)\forall x S(x)(化简)\\
+&(6)\forall x R(x)(化简 自(1))\\
+&(7)\forall x (R(x)\land(S(x))(合取引入)
+\end{align*}
+$$
+# Problem 7
+证明：
+$$
+\begin{align*}
+&(1)\exists x\neg P(x)(前提)\\
+&(2)\neg P(a)(存在例示 自(1))\\
+&(3)\forall x(P(x)\lor Q(x))(前提)\\
+&(4)\forall x(\neg Q(x)\lor S(x))
 \end{align*}
 $$

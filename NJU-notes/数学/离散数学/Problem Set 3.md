@@ -41,7 +41,12 @@ $$
 &(2)P(a)\land R(a)(全称例示\,自(1))\\
 &(3)P(a)(化简)\\
 &(4)R(a)(化简)\\
-&(5)
+&(5)\forall x(P(x)\to (Q(x)\land S(x)))(前提)\\
+&(6)P(a)\to(Q(a)\land S(a))(全称例示)\\
+&(7)Q(a)\land S(a)(假言推理)\\
+&(8)S(a)(化简)\\
+&(9)R(a)\land S(a)(合取引入)\\
+&(10)\forall x(R(x)\land S(x))(全称生成)\\
 \end{align*}
 $$
 # Problem 7

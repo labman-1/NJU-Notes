@@ -33,3 +33,5 @@ $\therefore \exists x\neg P(x)$，则原命题成立
 # Problem 5
 令P(x)为谓词“x是正整数”。设论域为全体整数$\mathbb{Z}$。
 $\exists x\,P(x)\land (\forall y_1,y_2,y_3\,\,y_1^2+y_2^2+y_3^2\ne x)$
+# Problem 6
+证明：

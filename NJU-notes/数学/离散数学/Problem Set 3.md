@@ -39,11 +39,9 @@ $$
 \begin{align*}
 &(1)\forall x(P(x)\land R(x))(前提)\\
 &(2)P(a)\land R(a)(全称例示\,自(1))\\
-&(3)\forall x(P(x)\to(Q(x)\land S(x)))(前提)\\
-&(4)\forall x Q(x)\land S(x)(假言推理 自(2)(3))\\
-&(5)\forall x S(x)(化简)\\
-&(6)\forall x R(x)(化简 自(1))\\
-&(7)\forall x (R(x)\land(S(x))(合取引入)
+&(3)P(a)(化简)\\
+&(4)R(a)(化简)\\
+&(5)
 \end{align*}
 $$
 # Problem 7

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+                "file": "NJU-notes/数学/离散数学/Problem Set 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "核心符号备忘（Latex）"
+              "title": "Problem Set 3"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "76ead26011a0ab8b",
   "lastOpenFiles": [
+    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/离散数学/Problem Set 3.md",
     "NJU-notes/数学/离散数学/Problem Set 2.md",
     "NJU-notes/数学/离散数学/Problem Set 1.md",
@@ -222,7 +223,6 @@
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/贪心/推销员（累加与极值并存）.md",
-    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/c++ and algorithm/贪心/贪心.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",

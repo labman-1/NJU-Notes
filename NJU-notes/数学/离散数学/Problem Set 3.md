@@ -14,3 +14,10 @@ $\therefore \forall x(x^2+2>=1)$
 即原命题为真
 （d）当x=1时，$x^2=x$，则原命题为假。
 # Problem 3
+（a）$\because \exists! xP(x)$
+$\therefore \exists x_0 P(x_0),即\exists x P(x)$
+则原命题为真
+（b）$\because \forall xP(s)$
+$\therefore \exists x_0,x_1\, P(x_0),P(x_1)$
+则$\exists! xP(x)$为假，原命题为假
+（c）

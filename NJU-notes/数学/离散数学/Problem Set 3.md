@@ -56,8 +56,10 @@ $$
 &(1)\exists x\neg P(x)(前提)\\
 &(2)\neg P(a)(存在例示\,\,自(1))\\
 &(3)\forall x(P(x)\lor Q(x))(前提)\\
-&(4)\forall x(\neg Q(x)\lor S(x))(前提)\\
-&(5)\forall x(P(x)\lor S(x))(消解)\\
+&(4)P(a)\lor Q(a)(全称例示)\\
+&(5)Q(a)(析取三段论\, 自(2)(4))\\
+&(6)\forall x(\neg Q(x)\lor S(x))(前提)\\
+&(7)P(a)\lor S(a))()\\
 &(6)P(a)\lor S(x)(全称例示)\\
 &(7)S(a)(析取三段论\,\,自(2)(5))\\
 &(8)\forall x(R(x)\to\neg S(x))(前提)\\

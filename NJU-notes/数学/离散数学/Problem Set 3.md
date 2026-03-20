@@ -51,8 +51,17 @@ $$
 $$
 \begin{align*}
 &(1)\exists x\neg P(x)(前提)\\
-&(2)\neg P(a)(存在例示 自(1))\\
+&(2)\neg P(a)(存在例示\,\,自(1))\\
 &(3)\forall x(P(x)\lor Q(x))(前提)\\
-&(4)\forall x(\neg Q(x)\lor S(x))
+&(4)\forall x(\neg Q(x)\lor S(x))(前提)\\
+&(5)\forall x(P(x)\lor S(x))(消解)\\
+&(6)P(a)\lor S(x)(全称例示)\\
+&(7)S(a)(析取三段论\,\,自(2)(5))\\
+&(8)\forall x(R(x)\to\neg S(x))(前提)\\
+&(9)R(a)\to\neg S(a)(存在例示)\\
+&(10)\neg R(a)(取拒式\,\,自(7)(9))\\
+&(11)\exists x \neg P(x)(存在生成)
 \end{align*}
 $$
+# Problem 8
+$(\exists xP(x))\land(\forall y\,P(y)\to y=x)$

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+                "file": "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c++ and algorithm"
+              "title": "差分数组与前缀和数组"
             }
           }
         ],
@@ -227,6 +227,9 @@
   },
   "active": "f0c53e6fef37b137",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/分治.md",
+    "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/离散数学/Problem Set 3.md",
     "NJU-notes/数学/离散数学/Problem Set 2.md",
@@ -236,7 +239,6 @@
     "NJU-notes/SICP/SICP.md",
     "NJU-notes/SICP/OOP/Inheritance.md",
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
-    "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/贪心/推销员（累加与极值并存）.md",
     "NJU-notes/c++ and algorithm/贪心/贪心.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
@@ -245,9 +247,7 @@
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
-    "NJU-notes/c++ and algorithm/分治.md",
     "README.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/排序/排序.md",
     "NJU-notes/assets/分治_202603141221.png",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",

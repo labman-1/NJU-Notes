@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/离散数学/Problem Set 3.md",
+                "file": "NJU-notes/c++ and algorithm/c++ and algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem Set 3"
+              "title": "c++ and algorithm"
             }
           }
         ],
@@ -227,9 +227,9 @@
   },
   "active": "f0c53e6fef37b137",
   "lastOpenFiles": [
-    "NJU-notes/数学/离散数学/Problem Set 2.md",
-    "NJU-notes/数学/离散数学/Problem Set 3.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+    "NJU-notes/数学/离散数学/Problem Set 3.md",
+    "NJU-notes/数学/离散数学/Problem Set 2.md",
     "NJU-notes/数学/离散数学/Problem Set 1.md",
     "trifles/陈湘宇-251870092-2-1 小蓝鲸与矩阵.md",
     "NJU-notes/SICP/OOP/Polymorphic function.md",

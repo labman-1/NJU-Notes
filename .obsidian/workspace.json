@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
+                "file": "NJU-notes/数学/离散数学/Problem Set 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS（深度优先搜索）"
+              "title": "Problem Set 2"
             }
           }
         ],
@@ -227,6 +227,7 @@
   },
   "active": "f0c53e6fef37b137",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/数据结构/图.md",
     "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
@@ -252,7 +253,6 @@
     "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
     "NJU-notes/personal learning/crash course computer science.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
-    "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
     "NJU-notes/assets/分治_202603141221.png",
     "NJU-notes/数学/离散数学",
     "Lesson 1、2、3 语言与进制_202603121037.base",

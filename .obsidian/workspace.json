@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
+                "file": "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[模板]最长上升子序列"
+              "title": "DFS（深度优先搜索）"
             }
           }
         ],
@@ -227,10 +227,14 @@
   },
   "active": "f0c53e6fef37b137",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/数据结构/图.md",
+    "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
+    "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
+    "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
     "NJU-notes/c++ and algorithm/分治.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
@@ -249,14 +253,10 @@
     "NJU-notes/personal learning/crash course computer science.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
-    "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
-    "README.md",
-    "NJU-notes/c++ and algorithm/排序/排序.md",
     "NJU-notes/assets/分治_202603141221.png",
     "NJU-notes/数学/离散数学",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "NJU-notes/assets/Lesson 1、2、3 语言与进制_202603111442.png",
-    "NJU-notes/c++ and algorithm/动态规划/背包问题/背包问题.md",
     "NJU-notes/assets/crash course computer science_202601201913.png",
     "NJU-notes/English/Listening and speaking",
     "NJU-notes/English",

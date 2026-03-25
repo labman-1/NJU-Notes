@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/小焚决/memset.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memset"
+              "title": "[模板]最长上升子序列"
             }
           }
         ]
@@ -212,13 +212,14 @@
   },
   "active": "cc733aebeec953fd",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
+    "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "trifles/English.md",
-    "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
     "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "NJU-notes/DLCO/组合逻辑电路.md",
     "NJU-notes/DLCO/卡诺图与蕴含项.md",
@@ -237,7 +238,6 @@
     "NJU-notes/数学/离散数学/Problem Set 1.md",
     "trifles/陈湘宇-251870092-2-1 小蓝鲸与矩阵.md",
     "NJU-notes/SICP/OOP/Polymorphic function.md",
-    "NJU-notes/SICP/SICP.md",
     "NJU-notes/assets/分治_202603141221.png",
     "NJU-notes/数学/离散数学",
     "Lesson 1、2、3 语言与进制_202603121037.base",

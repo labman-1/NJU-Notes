@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trifles/评议.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "评议"
+              "title": "[模板]最长上升子序列"
             }
           }
         ]
@@ -211,8 +211,8 @@
   },
   "active": "cc733aebeec953fd",
   "lastOpenFiles": [
-    "README.md",
     "trifles/评议.md",
+    "README.md",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "NJU-notes/personal learning/cs61b/ADT.md",
     "trifles/语雀团队协作.md",

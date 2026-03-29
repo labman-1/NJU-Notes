@@ -1,0 +1,1 @@
+**Abstract data types are defined in terms of operations not implementation.**

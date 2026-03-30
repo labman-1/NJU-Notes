@@ -3,6 +3,7 @@
 - 一定是二叉树
 - spinly versus bushy
 # B-Tree
+Perfect balance!
 - All leaves must be the same distance from the source
 - A non-leaf node with k items must have exactly k+1 children
 ## 2-3 Tree

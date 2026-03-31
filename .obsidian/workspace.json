@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/微积分/二重积分的计算.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二重积分的计算"
+              "title": "[模板]最长上升子序列"
             }
           }
         ]
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -211,10 +212,11 @@
   },
   "active": "cc733aebeec953fd",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
+    "NJU-notes/数学/微积分/二重积分的计算.md",
     "NJU-notes/数学/离散数学/Problem Set 3.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
-    "NJU-notes/数学/微积分/二重积分的计算.md",
     "NJU-notes/c++ and algorithm/面向对象/虚函数、虚基类、多重继承.md",
     "NJU-notes/assets/Pasted image 20260331090335.png",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
@@ -222,7 +224,6 @@
     "NJU-notes/personal learning/cs61b/B-Trees.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
-    "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
     "NJU-notes/c++ and algorithm/二分.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",

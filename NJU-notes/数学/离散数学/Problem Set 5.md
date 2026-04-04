@@ -1,2 +1,3 @@
-$\iint_De^{-x^2-y^2}d\sigma=\pi(1-e^{-a^2})$
-$\int_0^{+\infty}e^{-x^2}dx$
+$$
+\iiint_\Omega e^{\lvert z\rvert}dxdydz，其中\Omega为球体x^2+y^2+z^2\leq1 
+$$

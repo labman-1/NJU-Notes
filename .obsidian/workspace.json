@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
+                "file": "NJU-notes/数学/微积分/三重积分的计算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex常用数学公式与符号"
+              "title": "三重积分的计算"
             }
           }
         ]
@@ -211,12 +211,12 @@
   },
   "active": "cc733aebeec953fd",
   "lastOpenFiles": [
-    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/微积分/二重积分的计算.md",
-    "NJU-notes/数学/微积分/极限.md",
-    "NJU-notes/数学/微积分/三重积分的计算.md",
     "NJU-notes/数学/离散数学/Problem Set 5.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
+    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+    "NJU-notes/数学/微积分/极限.md",
+    "NJU-notes/数学/微积分/三重积分的计算.md",
     "trifles/时间规划.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",

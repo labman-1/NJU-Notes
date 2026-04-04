@@ -35,17 +35,17 @@ LaTeX 数学公式分为**行内公式**（`$...$`）和**独立公式**（`\[..
 ---
 
 ## 2. 关系运算符
-| 符号 | 代码 | 符号 | 代码 |
-|------|------|------|------|
-| ≤ | `\le` 或 `\leq` | ≥ | `\ge` 或 `\geq` |
-| ≠ | `\ne` 或 `\neq` | ≈ | `\approx` |
-| ≡ | `\equiv` | ∝ | `\propto` |
-| ∼ | `\sim` | ≅ | `\cong` |
-| ⊂ | `\subset` | ⊆ | `\subseteq` |
-| ⊃ | `\supset` | ⊇ | `\supseteq` |
-| ∈ | `\in` | ∋ | `\ni` |
-| ∀ | `\forall` | ∃ | `\exists` |
-| → | `\to` | ↔ | `\leftrightarrow` |
+| 符号  | 代码             | 符号  | 代码                |     |
+| --- | -------------- | --- | ----------------- | --- |
+| ≤   | `\le` 或 `\leq` | ≥   | `\ge` 或 `\geq`    |     |
+| ≠   | `\ne` 或 `\neq` | ≈   | `\approx`         |     |
+| ≡   | `\equiv`       | ∝   | `\propto`         |     |
+| ∼   | `\sim`         | ≅   | `\cong`           |     |
+| ⊂   | `\subset`      | ⊆   | `\subseteq`       |     |
+| ⊃   | `\supset`      | ⊇   | `\supseteq`       |     |
+| ∈   | `\in`          | ∋   | `\ni`             |     |
+| ∀   | `\forall`      | ∃   | `\exists`         |     |
+| →   | `\to`          | ↔   | `\leftrightarrow` |     |
 
 ---
 

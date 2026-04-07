@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
+                "file": "NJU-notes/数学/微积分/二重积分的计算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS（深度优先搜索）"
+              "title": "二重积分的计算"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "cc733aebeec953fd",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
@@ -238,7 +239,6 @@
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/最长公共子序列LCP.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
-    "NJU-notes/数学/线性代数/伽马函数.md",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "NJU-notes/assets/第二章课后习题_202603271812.png",
     "NJU-notes/assets/第二章课后习题_202603271809.png",

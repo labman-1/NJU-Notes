@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -212,15 +211,15 @@
   },
   "active": "cc733aebeec953fd",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/第二章课后习题.md",
+    "NJU-notes/DLCO/第三章课后习题.md",
     "NJU-notes/assets/第三章课后习题_202604072318.png",
     "NJU-notes/assets/Pasted image 20260407222444.png",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/离散数学/Problem Set 1.md",
-    "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/DLCO/LaTex.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
-    "NJU-notes/DLCO/第三章课后习题.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/数学/微积分/二重积分的计算.md",
     "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
@@ -254,7 +253,6 @@
     "NJU-notes/DLCO",
     "NJU-notes/c++ and algorithm/动态规划/区间DP",
     "NJU-notes/assets/9.Extends, Casting, Higher Order Functions_202602241840.png",
-    "NJU-notes/assets/Pasted image 20260224182927.png",
     "NJU-notes/personal learning/cs61b",
     "NJU-notes/c++ and algorithm/动态规划/线性/未命名",
     "NJU-notes/personal learning"

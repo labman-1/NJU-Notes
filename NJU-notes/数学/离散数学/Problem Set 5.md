@@ -45,4 +45,43 @@ $$
  
 同理（利用对称性），可证 **$B \subseteq A$**。 
 因此，$A = B$。证毕。
+# Problem 6
 
+**1. 证明必要性 ($\implies$)：**
+*   **假设**：$A \subseteq B$。
+*   **证明**：
+    设任意元素 $x \in \bar{B}$。
+    根据补集定义，可知 $x \in U$ 且 **$x \notin B$**。
+    由于已知 $A \subseteq B$，根据包含关系的定义（若在 $A$ 中必在 $B$ 中），其**逆否逻辑**为：若不在 $B$ 中，则必不在 $A$ 中。
+    既然 $x \notin B$，那么必然有 **$x \notin A$**。
+    根据补集定义，可知 $x \in \bar{A}$。
+    故 $\bar{B} \subseteq \bar{A}$ 成立。
+
+**2. 证明充分性 ($\impliedby$)：**
+*   **同理**：设 $x \in A$，则 $x \notin \bar{A}$。因为 $\bar{B} \subseteq \bar{A}$，若 $x$ 不在 $\bar{A}$ 中，则必不在 $\bar{B}$ 中（逆否）。由于 $x \notin \bar{B}$，得 $x \in B$。
+*   **结论**：双向成立，原命题得证。
+
+# Problem 7
+#### (a) 证明 $A \oplus A = \emptyset$
+$A \oplus A = (A - A) \cup (A - A)$
+因为 $A - A = \emptyset$，所以 $原式=\emptyset \cup \emptyset = \emptyset$。
+#### (b) 证明 $A \oplus U = \bar{A}$
+$A \oplus U = (A - U) \cup (U - A)$
+
+1. 因为 $A \subseteq U$，所以 $A$ 里面没有任何元素不在 $U$ 里，即 $A - U = \emptyset$。
+2. $U - A$ 根据定义就是 $\bar{A}$（绝对补集）。
+3. $\therefore A \oplus U=\emptyset \cup \bar{A} = \bar{A}$。
+
+#### (c) 证明 $(A \oplus B) \oplus B = A$
+看元素 $x$ 对 $A$ 和 $B$ 的所属情况（1代表属于，0代表不属于）：
+
+| $x \in A$ | $x \in B$ | $x \in A \oplus B$ | $x \in (A \oplus B) \oplus B$ |     |
+| :-------- | :-------- | :----------------- | :---------------------------- | --- |
+| 0         | 0         | 0                  | **0**                         |     |
+| 0         | 1         | 1                  | **0**                         |     |
+| 1         | 0         | 1                  | **1**                         |     |
+| 1         | 1         | 0                  | **1**                         |     |
+
+注意到最后一列的结果和第一列 $x \in A$的结果相同
+$\therefore$根据外延公理，这两个集合相等。
+# Problem 8

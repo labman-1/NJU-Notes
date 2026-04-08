@@ -1,6 +1,6 @@
 # Problem 1
 (a) 真
-(b)真
+(b)假
 (c)假
 (d)假
 (e)真
@@ -94,44 +94,24 @@ $\bigcup_{i=1}^n A_i=A_n=\{ x \in \mathbb{Z} \mid x \le n \}$
 $\bigcap_{i=1}^n A_i=A_1=\{ x \in \mathbb{Z} \mid x \le 1 \}$ 
 
 # Problem 9
-**核心定义复习：** 集合 $x$ 的后继 $x^+ = x \cup \{x\}$。
-**学姐心法**：把原集合的所有元素抄一遍，然后再把“原集合整体”作为一个新元素扔进去。
-
 #### (a) $\{1, 2, 3\}$ 之后继
-*   第一步（抄元素）：$1, 2, 3$
-*   第二步（扔整体）：$\{1, 2, 3\}$
-*   **满分答案**：**$\{1, 2, 3, \{1, 2, 3\}\}$**
+$\{1, 2, 3, \{1, 2, 3\}\}$
 
 #### (b) $\emptyset$ 之后继
-*   这是数字 0 到 1 的跨越。
-*   $x^+ = \emptyset \cup \{\emptyset\}$
-*   **满分答案**：**$\{\emptyset\}$** （这就是数字 1）
+$\emptyset^+ = \emptyset \cup \{\emptyset\}=\{\emptyset\}$
 
 #### (c) $\{\emptyset\}$ 之后继
-*   这是数字 1 到 2 的跨越。
-*   $x^+ = \{\emptyset\} \cup \{\{\emptyset\}\}$
-*   **满分答案**：**$\{\emptyset, \{\emptyset\}\}$** （这就是数字 2）
-
+  $\emptyset^+ = \{\emptyset\} \cup \{\{\emptyset\}\}=\{\emptyset, \{\emptyset\}\}$
 #### (d) $\{\emptyset, \{\emptyset\}\}$ 之后继
-*   这是数字 2 到 3 的跨越。
-*   $x^+ = \{\emptyset, \{\emptyset\}\} \cup \{\{\emptyset, \{\emptyset\}\}\}$
-*   **满分答案**：**$\{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}$** （这就是数字 3）
-
----
-
-### 🏆 Problem 10：最后的综合证明题（Venn图的代数化）
-
-这题要求证明：$A \cup B \cup C = (A - B) \cup (B - C) \cup (C - A) \cup (A \cap B \cap C)$
-
-**教授的建议证明路径：**
-这题用“成员隶属法”最稳妥。
-
-1.  **左 $\subseteq$ 右**：
+$\emptyset^+ = \{\emptyset, \{\emptyset\}\} \cup \{\{\emptyset, \{\emptyset\}\}\}=\{\emptyset, \{\emptyset\}, \{\emptyset, \{\emptyset\}\}\}$
+# Problem 10
+证明：
+1.  左 $\subseteq$ 右：
     设任意 $x \in A \cup B \cup C$。
     *   若 $x$ 属于且仅属于其中一个集合（比如仅属于 A），则 $x \in A-B$，属于右边第一项。
     *   若 $x$ 同时属于两个集合（比如 $x \in A \cap B$ 但 $x \notin C$），则 $x \in B-C$（因为 $x$ 在 B 但不在 C），属于右边第二项。
     *   若 $x$ 同时属于三个集合，则 $x \in A \cap B \cap C$，属于右边第四项。
-    *   **结论**：所有情况都在右边。
+    *   结论：所有情况都在右边。
 
-2.  **右 $\subseteq$ 左**：
-    显然，右边每一项都是 $A, B, C$ 运算出来的子集，合并后必然属于 $A \cup B \cup C$。
+2.  右 $\subseteq$ 左：
+    由于 (A−B),(B−C),(C−A),(A∩B∩C)分别都是 A,B,C 的子集，它们的并集自然包含A∪B∪C 中。得证

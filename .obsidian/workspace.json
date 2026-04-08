@@ -78,14 +78,10 @@
             "id": "0b29cf9a5fb314a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "English"
+              "title": "新标签页"
             }
           }
         ]

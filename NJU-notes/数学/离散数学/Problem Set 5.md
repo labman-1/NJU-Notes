@@ -24,3 +24,5 @@ $$\begin{align*}
 &=A\cap\overline B\cap C
 \end{align*}
 $$
+左边有 (A−B) 这么大一块，右边却要求必须还在 C 里面。显然左边比右边大得多。所以这个等式**也不成立**。
+# Problem 5

@@ -15,5 +15,6 @@
 (b)$\mathbb{Z}-\{0,1\}$
 (c)$\emptyset$
 # Problem 4
-a)$(A\cup B\cup C)-(A\cup B)=$
-b)
+a)令A={1}，C={1}，B={1}，则左式=$\emptyset\neq C$，原式不成立
+b)$左式=A\cap\overline{(B\cap \overline C)}=A\cap(\overline B\cup C)=(A\cap\overline B)\cup(A\cap C)$
+$右式=(A\cap \overline B)\cap\overline{A\cap \overline C}=$

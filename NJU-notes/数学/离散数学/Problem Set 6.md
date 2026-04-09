@@ -39,7 +39,10 @@ $\therefore R_1\cap R_2=\{(a,b)|a\equiv b(mod\, 12)\}$
 (a)共有$2^{3*5}=2^{15}$个不同的从A到B的二元关系
 (b)共有$2^{3*5-1-1}=2^{13}$个从A到B的包含有序对(a,b)但是不包含(b,c)的二元关系
 # P9
-(a)
+(a)根据复合关系的定义$S\circ R=\{(a,c)|\exists b((a,b)\in R\land(b,c)\in S)\}$
+$$
+1\xrightarrow{R}3\xrightarrow{S}1
+$$
 (b)
 (c)
 (d)

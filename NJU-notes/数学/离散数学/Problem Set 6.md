@@ -31,4 +31,7 @@ $R1=\{(a,b)|a-b=3k,k\in \mathbb{Z}\},R2=\{(a,b)|a-b=4k,k\in\mathbb{Z}\}$
 $\therefore R_1\cap R_2=\{(a,b)|a\equiv b(mod\, 12)\}$
 (c)$R_1-R_2=\{(a,b)|a\equiv b(mod\,3)\land a\not\equiv b(mod\,4)\}$
 (d)$R_2-R_1=\{(a,b)|a\equiv b(mod\,4)\land a\not\equiv b(mod\,3)\}$
-(e)$R_1\oplus R_2=R_1\cup R_2-R_1\cap R_2$
+(e)$R_1\oplus R_2=R_1\cup R_2-R_1\cap R_2=\{(a,b)|(a\equiv b(mod\, 3)\lor a\equiv b(mod\, 4))\land a\not\equiv b(mod\, 12)\}$
+# P7
+(a)共有$2^{16}$个不同的二元关系
+(b)共有$2^15$个二元关系包含有序对

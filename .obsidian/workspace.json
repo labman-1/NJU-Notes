@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -207,6 +208,8 @@
   },
   "active": "cf9578eae1138940",
   "lastOpenFiles": [
+    "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
+    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/离散数学/Problem Set 6.md",
     "NJU-notes/assets/Screenshot_2026-04-09-16-43-23-140_com.onyx.galax.jpg",
     "NJU-notes/数学/离散数学/Problem Set 4.md",
@@ -225,8 +228,6 @@
     "NJU-notes/assets/第三章课后习题_202604081714.png",
     "NJU-notes/assets/第三章课后习题_202604081829.png",
     "NJU-notes/personal learning/personal learning.md",
-    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
-    "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/DLCO/LaTex.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",

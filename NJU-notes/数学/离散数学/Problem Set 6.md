@@ -40,9 +40,38 @@ $\therefore R_1\cap R_2=\{(a,b)|a\equiv b(mod\, 12)\}$
 (b)共有$2^{3*5-1-1}=2^{13}$个从A到B的包含有序对(a,b)但是不包含(b,c)的二元关系
 # P9
 (a)根据复合关系的定义$S\circ R=\{(a,c)|\exists b((a,b)\in R\land(b,c)\in S)\}$
+$$\begin{align*}
+1\xrightarrow{R}3\xrightarrow{S}1\Rightarrow (1,1)\\
+1\xrightarrow{R}3\xrightarrow{S}3\Rightarrow (1,3)\\
+2\xrightarrow{R}1\xrightarrow{S}4\Rightarrow (2,4)\\
+2\xrightarrow{R}2\xrightarrow{S}1\Rightarrow (2,1)\\
+3\xrightarrow{R}2\xrightarrow{S}1\Rightarrow (3,1)\\
+4\xrightarrow{R}3\xrightarrow{S}1\Rightarrow (4,1)\\
+4\xrightarrow{R}3\xrightarrow{S}3\Rightarrow (4,3)\\
+\end{align*}
 $$
-1\xrightarrow{R}3\xrightarrow{S}1
+整理得$S\circ R=\{(1,1),(1,3),(2,4),(2,1),(3,1),(4,1),(4,3)\}$
+(b)$R\circ S=\{(a,c)|\exists b((a,b)\in S\land(b,c)\in R)\}$
+$$\begin{align*}
+1\xrightarrow{S}4\xrightarrow{R}3\Rightarrow (1,3)\\
+2\xrightarrow{S}1\xrightarrow{R}3\Rightarrow (2,3)\\
+3\xrightarrow{S}1\xrightarrow{R}3\Rightarrow (3,3)\\
+3\xrightarrow{S}3\xrightarrow{R}2\Rightarrow (3,2)\\
+4\xrightarrow{S}2\xrightarrow{R}1\Rightarrow (4,1)\\
+4\xrightarrow{S}2\xrightarrow{R}2\Rightarrow (4,2)
+\end{align*}
 $$
-(b)
-(c)
+整理得$R\circ S=\{(1,3),(2,3),(3,3),(3,2),(4,1),(4,2)\}$
+(c)$R\circ R=\{(a,c)|\exists b((a,b)\in R\land(b,c)\in R)\}$
+$$\begin{align*}
+1\xrightarrow{R}3\xrightarrow{R}2\Rightarrow (1,2)\\
+2\xrightarrow{R}1\xrightarrow{R}3\Rightarrow (2,3)\\
+2\xrightarrow{R}2\xrightarrow{R}1\Rightarrow (2,1)\\
+2\xrightarrow{R}2\xrightarrow{R}2\Rightarrow (2,2)\\
+3\xrightarrow{R}2\xrightarrow{R}1\Rightarrow (3,1)\\
+3\xrightarrow{R}2\xrightarrow{R}2\Rightarrow (3,2)\\
+4\xrightarrow{R}3\xrightarrow{R}2\Rightarrow (4,2)\\
+\end{align*}
+$$
+整理得$R\circ R=\{(1,3),(2,3),(3,3),(3,2),(4,1),(4,2)\}$
 (d)

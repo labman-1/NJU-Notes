@@ -73,17 +73,16 @@ $$\begin{align*}
 4\xrightarrow{R}3\xrightarrow{R}2\Rightarrow (4,2)\\
 \end{align*}
 $$
-整理得$R\circ R=\{(1,3),(2,3),(3,3),(3,2),(4,1),(4,2)\}$
+整理得$R\circ R=\{(1,2),(2,3),(2,1),(2,2),(3,1),(3,2),(4,2)\}$
 (d)
 $S\circ S=\{(a,c)|\exists b((a,b)\in S\land(b,c)\in S)\}$
 $$\begin{align*}
-1\xrightarrow{R}3\xrightarrow{R}2\Rightarrow (1,2)\\
-2\xrightarrow{R}1\xrightarrow{R}3\Rightarrow (2,3)\\
-2\xrightarrow{R}2\xrightarrow{R}1\Rightarrow (2,1)\\
-2\xrightarrow{R}2\xrightarrow{R}2\Rightarrow (2,2)\\
-3\xrightarrow{R}2\xrightarrow{R}1\Rightarrow (3,1)\\
-3\xrightarrow{R}2\xrightarrow{R}2\Rightarrow (3,2)\\
-4\xrightarrow{R}3\xrightarrow{R}2\Rightarrow (4,2)\\
+1\xrightarrow{S}4\xrightarrow{S}2\Rightarrow (1,2)\\
+2\xrightarrow{S}1\xrightarrow{S}4\Rightarrow (2,4)\\
+3\xrightarrow{S}1\xrightarrow{S}4\Rightarrow (3,4)\\
+3\xrightarrow{S}3\xrightarrow{S}1\Rightarrow (3,1)\\
+3\xrightarrow{S}3\xrightarrow{S}3\Rightarrow (3,3)\\
+4\xrightarrow{S}2\xrightarrow{S}1\Rightarrow (4,1)\\
 \end{align*}
 $$
-整理得$R\circ R=\{(1,3),(2,3),(3,3),(3,2),(4,1),(4,2)\}$
+整理得$S\circ S=\{(1,2),(2,4),(3,4),(3,1),(3,3),(4,1)\}$

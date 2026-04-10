@@ -32,4 +32,4 @@
 (e)不是
 # P7
 证明：
-考虑$\left|A\right|\geq\left|f(A)\right|$,若f是单射，则$\left|f(A)$
+考虑$\left|A\right|\geq\left|f(A)\right|$,若f是单射，则$\left|f(A)\right|=\left|A\right|$,又因为$\left|A\right|=\left|B\right|$,所以$\left|f(A)\right|=\left|B\right|$,又因为$f$

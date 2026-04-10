@@ -41,6 +41,10 @@
 # P9
 证明：
 $$
-\beg
-\forall x\in f^{-1}(\overline S),f(x)\in\overline S,则f(x)\in B-S
+\begin{align*}
+\forall x\in f^{-1}(\overline S)\Leftrightarrow f(x)\in\overline S\Leftrightarrow f(x)\not\in S\Leftrightarrow\neg(f(x)\in S)\Leftrightarrow\neg(x\in f^{-1}(S))\Leftrightarrow x\not\in f^{-1}(S)\Leftrightarrow x\in\overline{f^{-1}(S)}
+\end{align*}
 $$
+则$f^{-1}(\overline S)=\overline{f^{-1}(S)}$
+# P10
+证明：

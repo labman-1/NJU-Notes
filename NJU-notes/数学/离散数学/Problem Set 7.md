@@ -37,4 +37,10 @@
 综上，f是单射当且仅当它是满射。
 # P8
 证明：
-假设f不是单射，则$\exists x,y\in A,x\neq y,f(x)=f(y)$,所以$g(f(x))=g(f(y))$，
+假设f不是单射，则$\exists x,y\in A,x\neq y,f(x)=f(y)$,由函数性质知$g(f(x))=g(f(y))$，这与$g\circ f$为单射矛盾，故假设不成立，f为单射。
+# P9
+证明：
+$$
+\beg
+\forall x\in f^{-1}(\overline S),f(x)\in\overline S,则f(x)\in B-S
+$$

@@ -50,3 +50,10 @@ $$
 证明：
 要证$(f\circ g)^{-1}=g^{-1}\circ f^{-1}$，只需证$(g^{-1}\circ f^{-1})\circ(f\circ g)=I$
 $(g^{-1}\circ f^{-1})\circ(f\circ g)=g^{-1}\circ (f^{-1}\circ f)\circ g=g^{-1}\circ g=I$,则原式得证。
+$$
+ \nabla \times \vec{F} = \begin{vmatrix}  
+\mathbf{i} & \mathbf{j} & \mathbf{k} \  
+\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \  
+y & z & x  
+\end{vmatrix}
+$$

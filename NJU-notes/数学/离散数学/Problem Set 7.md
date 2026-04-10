@@ -48,3 +48,5 @@ $$
 则$f^{-1}(\overline S)=\overline{f^{-1}(S)}$
 # P10
 证明：
+要证$(f\circ g)^{-1}=g^{-1}\circ f^{-1}$，只需证$(g^{-1}\circ f^{-1})\circ(f\circ g)=I$
+$(g^{-1}\circ f^{-1})\circ(f\circ g)=g^{-1}\circ (f^{-1}\circ f)\circ g=g^{-1}\circ g=I$,则原式得证。

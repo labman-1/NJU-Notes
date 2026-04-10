@@ -32,4 +32,9 @@
 (e)不是
 # P7
 证明：
-考虑$\left|A\right|\geq\left|f(A)\right|$,若f是单射，则$\left|f(A)\right|=\left|A\right|$,又因为$\left|A\right|=\left|B\right|$,所以$\left|f(A)\right|=\left|B\right|$,又因为$f$
+由于A和B是有限集，若f是单射，则$\left|f(A)\right|=\left|A\right|$,又因为$\left|A\right|=\left|B\right|$,所以$\left|f(A)\right|=\left|B\right|$,又因为$f(A)\subseteq B$，所以$f(A)=B$，即f为满射。
+若f是满射，假设f不是单射，则$\exists a_1,a_2\in A,a_1\neq a_2,f(a_1)=f(a_2)$, 所以$\left|f(A)\right|<\left|A\right|=\left|B\right|$,则$f(A)\neq B$，这与满射矛盾，故假设不成立，f为单射。
+综上，f是单射当且仅当它是满射。
+# P8
+证明：
+假设f不是单射，则$\exists x,y\in A,x\neq y,f(x)=f(y)$,所以$g(f(x))=g(f(y))$，

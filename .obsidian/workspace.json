@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
+                "file": "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFS（广度优先搜索）"
+              "title": "拓扑排序"
             }
           }
         ]
@@ -207,6 +207,8 @@
   },
   "active": "cf9578eae1138940",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/图的连通性.md",
+    "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/DLCO/第四章课后习题.md",
@@ -225,7 +227,6 @@
     "未命名.md",
     "g.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
-    "NJU-notes/c++ and algorithm/图论/图的连通性.md",
     "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/c++ and algorithm/排序/明明的随机数.md",
     "NJU-notes/c++ and algorithm/排序/奖学金.md",
@@ -238,7 +239,6 @@
     "NJU-notes/数学/离散数学/Problem Set 3.md",
     "NJU-notes/数学/离散数学/Problem Set 1.md",
     "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
-    "NJU-notes/DLCO/第三章课后习题.md",
     "NJU-notes/assets/第三章课后习题_202604072318.png",
     "NJU-notes/assets/第二章课后习题_202603271812.png",
     "NJU-notes/assets/第二章课后习题_202603271736.png",

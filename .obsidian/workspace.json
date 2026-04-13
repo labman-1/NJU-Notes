@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/第四章课后习题.md",
+                "file": "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第四章课后习题"
+              "title": "BFS（广度优先搜索）"
             }
           }
         ]
@@ -207,8 +207,10 @@
   },
   "active": "cf9578eae1138940",
   "lastOpenFiles": [
-    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
+    "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/DLCO/第四章课后习题.md",
+    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/assets/第四章课后习题_202604130925.png",
     "NJU-notes/assets/第四章课后习题_202604122356.png",
     "NJU-notes/assets/第四章课后习题_202604122355.png",
@@ -227,7 +229,6 @@
     "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/c++ and algorithm/排序/明明的随机数.md",
     "NJU-notes/c++ and algorithm/排序/奖学金.md",
-    "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/数学/离散数学/Problem Set 7.md",
     "NJU-notes/数学/离散数学/Problem Set 6.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",

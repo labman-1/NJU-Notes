@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
+                "file": "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拓扑排序"
+              "title": "SPFA检测负环"
             }
           }
         ]
@@ -207,9 +207,12 @@
   },
   "active": "cf9578eae1138940",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
+    "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
+    "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/图论/图的连通性.md",
     "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
-    "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
@@ -223,7 +226,6 @@
     "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
-    "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "未命名.md",
     "g.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
@@ -237,8 +239,6 @@
     "NJU-notes/数学/离散数学/Problem Set 4.md",
     "NJU-notes/数学/离散数学/Problem Set 5.md",
     "NJU-notes/数学/离散数学/Problem Set 3.md",
-    "NJU-notes/数学/离散数学/Problem Set 1.md",
-    "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/assets/第三章课后习题_202604072318.png",
     "NJU-notes/assets/第二章课后习题_202603271812.png",
     "NJU-notes/assets/第二章课后习题_202603271736.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/第四章课后习题.md",
+                "file": "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第四章课后习题"
+              "title": "核心符号备忘（Latex）"
             }
           }
         ]
@@ -207,10 +207,10 @@
   },
   "active": "cf9578eae1138940",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/assets/第四章课后习题_202604130925.png",
     "NJU-notes/assets/第四章课后习题_202604122356.png",
     "NJU-notes/assets/第四章课后习题_202604122355.png",
-    "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/assets/第四章课后习题_202604122259.png",
     "NJU-notes/DLCO/时序逻辑电路.md",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg",
@@ -242,7 +242,6 @@
     "NJU-notes/assets/第二章课后习题_202603271812.png",
     "NJU-notes/assets/第二章课后习题_202603271736.png",
     "NJU-notes/assets/第三章课后习题_202604081029.png",
-    "NJU-notes/assets/第三章课后习题_202604081638.png",
     "NJU-notes/c++ and algorithm/面向对象",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "NJU-notes/数学/离散数学",

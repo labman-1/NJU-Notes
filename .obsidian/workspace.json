@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
+                "file": "trifles/English.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPFA检测负环"
+              "title": "English"
             }
           }
         ]
@@ -207,8 +207,8 @@
   },
   "active": "cf9578eae1138940",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
+    "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/图论/图的连通性.md",

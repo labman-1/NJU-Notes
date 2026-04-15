@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/实验一 实验报告.md",
+                "file": "NJU-notes/数学/微积分/三重积分的计算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验一 实验报告"
+              "title": "三重积分的计算"
             }
           }
         ]
@@ -207,8 +207,9 @@
   },
   "active": "cf9578eae1138940",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
     "NJU-notes/DLCO/实验一 实验报告.md",
+    "NJU-notes/数学/微积分/未命名.md",
+    "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
     "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
@@ -239,7 +240,6 @@
     "NJU-notes/数学/离散数学/Problem Set 6.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/assets/Screenshot_2026-04-09-16-43-23-140_com.onyx.galax.jpg",
-    "NJU-notes/数学/离散数学/Problem Set 4.md",
     "NJU-notes/assets/第三章课后习题_202604072318.png",
     "NJU-notes/assets/第二章课后习题_202603271812.png",
     "NJU-notes/assets/第二章课后习题_202603271736.png",

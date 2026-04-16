@@ -18,7 +18,8 @@ $$
 &\therefore f(a_1)=f(a_2),g(b_1)=g(b_2)\\
 &又\because f,g为单射\\
 &\therefore a_1=a_2,b_1=b_2,则h也为单射.\\
-2.
+&2.证明h是满射\\
+&
 \end{align*}
 $$
 # P3

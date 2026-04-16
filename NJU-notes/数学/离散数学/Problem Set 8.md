@@ -22,10 +22,11 @@ $$
 &对于陪域(C\times D)中任意一个元素(c,d),由于f和g均为满射\\
 &\therefore \exists a\in A,f(a)=c,\exists b\in B,g(b)=d\\
 &\therefore \exists(a,b)\in A\times B,h(a,b)=(f(a),g(b))=(c,d).\\
-&\therefore 
+&\therefore h是满射\\
+&由于h:(A\times B)\to(C\times D)为双射函数，所以\left|A\times B\right|=\left|C\times D\right|.
 \end{align*}
 $$
 # P3
 (1)证明：
-
+1. 若A、
 (2)

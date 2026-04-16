@@ -9,8 +9,8 @@
 $$
 \begin{align*}
 &\because \left|A\right|=\left|C\right|,\left|B\right|=\left|D\right|\\
-&\therefore \exists双射函数f:A\to C,双射函数g:B\to D
-
+&\therefore \exists双射函数f:A\to C,双射函数g:B\to D\\ 
+&要证\left|A\times B\right|=\left|C\times D\right|
 \end{align*}
 $$
 # P3

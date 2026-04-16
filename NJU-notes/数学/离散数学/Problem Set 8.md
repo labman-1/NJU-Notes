@@ -19,7 +19,8 @@ $$
 &又\because f,g为单射\\
 &\therefore a_1=a_2,b_1=b_2,则h也为单射.\\
 &2.证明h是满射\\
-&
+&对于陪域(C\times D)中任意一个元素(c,d),由于f和g均为满射\\
+&\therefore \exists a\in A,f(a)=c,\exists b\in 
 \end{align*}
 $$
 # P3

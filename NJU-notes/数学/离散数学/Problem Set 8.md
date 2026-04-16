@@ -13,7 +13,7 @@ $$
 &要证\left|A\times B\right|=\left|C\times D\right|,只需构造一个函数h:(A\times B)\to(C\times D),并证明h为双射函数。\\
 &定义h(a,b)=(f(a),g(b)),其中a\in A,b\in B.\\
 &1.证明h是单射\\
-&
+&假设h()
 \end{align*}
 $$
 # P3

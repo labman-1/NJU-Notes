@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
+                "file": "NJU-notes/数学/离散数学/Problem Set 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验2、组合逻辑部件设计 实验报告"
+              "title": "Problem Set 8"
             }
           }
         ],
@@ -222,23 +222,24 @@
   },
   "active": "6181e7597d054f87",
   "lastOpenFiles": [
+    "NJU-notes/数学/离散数学/Problem Set 7.md",
+    "NJU-notes/数学/离散数学/Problem Set 8.md",
+    "NJU-notes/数学/离散数学/未命名.md",
+    "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202604161735.png",
     "NJU-notes/DLCO/实验3.md",
-    "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/组合逻辑电路.md",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161655-1.png",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161655.png",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161646.png",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
-    "NJU-notes/数学/离散数学/未命名.md",
     "NJU-notes/assets/Pasted image 20260416162626.png",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161306.png",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161305-2.png",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161305-1.png",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161305.png",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161304.png",
-    "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604161303.png",
     "NJU-notes/DLCO/第三章课后习题.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/数学/微积分/三重积分的计算.md",
@@ -258,7 +259,6 @@
     "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
-    "未命名.md",
     "NJU-notes/c++ and algorithm/面向对象",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "NJU-notes/数学/离散数学",

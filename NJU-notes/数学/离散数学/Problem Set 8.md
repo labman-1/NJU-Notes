@@ -6,6 +6,11 @@
 (5)$2^{\aleph_0}$
 # P2
 证明：
+$$
+\begin{align*}
+
+\end{align*}
+$$
 # P3
 (1)证明：
 

@@ -56,4 +56,4 @@ $$
 证明：对于A的任意一个子集$S\in\mathcal{P}(A)$,令它对应一个函数$f_S$,$$f_S(x)=\begin{cases}1,x\in S\\ 0,x\not\in S \end{cases}$$.下面证明这个构造为双射。
 先证明该函数为单射。假设有两个不同的子集$S_1,S_2\in\mathcal{P}$，则不妨假设$\exists x\in S_1,x\not\in S_2$,则$f_{S_1}(x)=1,f_{S_2}(x)=0$,，则$f_{S_1}与f_{S_2}$不是同一个函数，单射成立。
 再证明满射。
-
+$\forall h\in\{0,1\}^A,令S=\{x\in A|h(x)=1\}$,显然S是A的子集且

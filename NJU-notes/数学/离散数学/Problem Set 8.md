@@ -71,4 +71,20 @@ $\forall h\in\{0,1\}^A,令S=\{x\in A|h(x)=1\}$,显然S是A的子集且S对应的
     $S_i = \{a_{i1}, a_{i2}, a_{i3}, \dots\}$
 在上面所有$S_i$的元素构成的矩阵中，为下标为(m,n)的元素分配编号$f(m,n)=\frac{(m+n+1)(m+n)}{2}+m$,则对于每一个f(m,n)，都有唯一的$a_{mn}$与之对应，所以f为满射。所以$\cup^{\infty}_{i=1}S_i$是可列集。
 # P11
-证明：因为$B\approx C$，所以存在双射函数$h:B\to C$。构建函数$g:(A\cup B)\to(A\cup C)$,$$g(x)=\begin{cases}x,x\in A\\ h(x),x\in B\end{cases}$$,则$\forall y\in A\cup C$,若$y\in A$，则
+证明：因为$B\approx C$，所以存在双射函数$h:B\to C$。构建函数$g:(A\cup B)\to(A\cup C)$,$$g(x)=\begin{cases}x,x\in A\\ h(x),x\in B\end{cases}$$
+
+因为 $A \cap B = \emptyset$，所以对于任何 $x \in A \cup B$，它要么只属于 $A$，要么只属于 $B$。这保证了函数 $g$ 的定义是唯一的。
+当 $x \in A$ 时，$g(x) \in A$；当 $x \in B$ 时，$g(x) \in C$。所以 $g$ 的值域确实包含在 $A \cup C$ 中。
+下证 $g$ 是单射：
+    *   假设 $g(x_1) = g(x_2)$。
+    *   如果 $g(x_1) \in A$，那么 $x_1, x_2$ 必都在 $A$ 中（因为 $h(B)=C$ 且 $A \cap C = \emptyset$）。由于在 $A$ 上 $g(x)=x$，所以 $x_1 = x_2$。
+    *   如果 $g(x_1) \in C$，那么 $x_1, x_2$ 必都在 $B$ 中。由于 $h$ 是双射（单射），所以 $h(x_1) = h(x_2) \Rightarrow x_1 = x_2$。
+    *   **结论**：$g$ 是单射。
+
+3.  **证明 $g$ 是满射**：
+    *   对于任意 $z \in A \cup C$：
+    *   若 $z \in A$，取 $x = z \in A \cup B$，则 $g(x) = z$。
+    *   若 $z \in C$，由于 $h: B \to C$ 是双射（满射），必存在 $x \in B \subseteq A \cup B$ 使得 $h(x) = z$，即 $g(x) = z$。
+    *   **结论**：$g$ 是满射。
+
+**终极结论**：既然 $g$ 是双射，则 $A \cup B \approx A \cup C$。

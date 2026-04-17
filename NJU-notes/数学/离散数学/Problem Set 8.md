@@ -51,3 +51,4 @@ $$
 (c)令$A=\{a|a\in[0,1]\},B=\{a|a\in[0,3]\}$,则$A\cap B=A$为不可列集。
 # P7
 证明：
+由于A是可列集，所以$\exists \text{双射}g:\mathbb{N}\to A$,

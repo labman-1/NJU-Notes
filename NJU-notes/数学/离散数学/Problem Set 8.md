@@ -39,5 +39,5 @@ $$
 (b)可列无限集。记奇负数集合为S，构建$f:\mathbb{N}\to S,f(n)=-(2n+1)$,显然f为双射。
 (c)有限集。
 (d)不可列集。
-(e)可列无限集。构建$f:\mathbb{N}\to A\times\mathbb{Z^+}$,$$f(n)=\begin{cases}(2,\frac{n}{2}+1),n为偶数\\(3,)\end{cases}$$
+(e)可列无限集。构建$f:\mathbb{N}\to A\times\mathbb{Z^+}$,$$f(n)=\begin{cases}(2,\frac{n}{2}+1),n为偶数\\(3,\frac{}{2})\end{cases}$$
 (f)可列无限集。

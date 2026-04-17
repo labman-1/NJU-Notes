@@ -54,4 +54,4 @@ $$
 由于A是可列集，所以$\exists \text{双射}g:\mathbb{N}\to A$。若存在一个从A到B的满射函数f，则$\forall b\in B,\exists a\in A,f(a)=b$，所以$\forall b\in B,\exists n\in\mathbb{N},f(g(n))=f(a)=b$,令h(n)=f(g(n))，则h为满射函数。对于B中的每一个元素b，其原像集$h^{-1}(b)$显然非空，在每个原像集中选择最小的自然数，定义$k:B\to \mathbb{N},k(b)=min\{n\in\mathbb{N}|h(n)=b\}$，显然不同的b对应不同的最小自然数，所以k是一个单射。所以$B\approx range(k)\subseteq\mathbb{N}$，B为可列集。
 # P8
 证明：对于A的任意一个子集$S\in\mathcal{P}(A)$,令它对应一个函数$f_S$,$$f_S(x)=\begin{cases}1,x\in S\\ 0,x\not\in S \end{cases}$$.下面证明该函数为双射。
-先证明该函数为单射。假设有两个不同的子集$S_1,S_2\in\mathcal{P}$，则不妨假设$\exists x\in S_1,x\not\in S_2$,则
+先证明该函数为单射。假设有两个不同的子集$S_1,S_2\in\mathcal{P}$，则不妨假设$\exists x\in S_1,x\not\in S_2$,则$f_{S_1}()$

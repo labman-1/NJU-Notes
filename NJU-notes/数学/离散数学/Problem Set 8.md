@@ -51,4 +51,4 @@ $$
 (c)令$A=\{a|a\in[0,1]\},B=\{a|a\in[0,3]\}$,则$A\cap B=A$为不可列集。
 # P7
 证明：
-由于A是可列集，所以$\exists \text{双射}g:\mathbb{N}\to A$,
+由于A是可列集，所以$\exists \text{双射}g:\mathbb{N}\to A$。若存在一个从A到B的满射函数f，则$\forall b\in B,\exists a\in A,f(a)=b$，所以$\forall b\in B,\exists n\in\mathbb{N},f(g(n))=f(a)=b$,令h(n)=f(g(n))，则h为满射函数。则B为可列集。

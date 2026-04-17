@@ -52,3 +52,5 @@ $$
 # P7
 证明：
 由于A是可列集，所以$\exists \text{双射}g:\mathbb{N}\to A$。若存在一个从A到B的满射函数f，则$\forall b\in B,\exists a\in A,f(a)=b$，所以$\forall b\in B,\exists n\in\mathbb{N},f(g(n))=f(a)=b$,令h(n)=f(g(n))，则h为满射函数。对于B中的每一个元素b，其原像集$h^{-1}(b)$显然非空，在每个原像集中选择最小的自然数，定义$k:B\to \mathbb{N},k(b)=min\{n\in\mathbb{N}|h(n)=b\}$，显然不同的b对应不同的最小自然数，所以k是一个单射。所以$B\approx range(k)\subseteq\mathbb{N}$，B为可列集。
+# P8
+证明：

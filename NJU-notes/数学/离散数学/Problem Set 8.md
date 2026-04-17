@@ -35,7 +35,7 @@ $$
 (2)
 先证明$\mathbb{N}\times\mathbb{N}$是可列的。按“坐标之和”排列$\mathbb{N}\times\mathbb{N}$中的元素，对于序偶(m,n),分配编号$f(m,n)=\frac{(m+n+1)(m+n)}{2}+m$,f为双射。由于$A\approx\mathbb{N},B\approx \mathbb{N}$,所以$A\times B\approx \mathbb{N}\times\mathbb{N}\approx\mathbb{N}$,故$A\times B$是可列集。
 # P4
-(a)可列无限集。记集合S={11,12,13,…},
+(a)可列无限集。记集合S={11,12,13,…},构建$f:\mathbb{N}\to S,f(n)=n+11$,显然f是双射
 (b)
 (c)
 (d)

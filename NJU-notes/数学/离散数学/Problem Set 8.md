@@ -71,4 +71,4 @@ $\forall h\in\{0,1\}^A,令S=\{x\in A|h(x)=1\}$,显然S是A的子集且S对应的
     $S_i = \{a_{i1}, a_{i2}, a_{i3}, \dots\}$
 在上面所有$S_i$的元素构成的矩阵中，为下标为(m,n)的元素分配编号$f(m,n)=\frac{(m+n+1)(m+n)}{2}+m$,则对于每一个f(m,n)，都有唯一的$a_{mn}$与之对应，所以f为满射。所以$\cup^{\infty}_{i=1}S_i$是可列集。
 # P11
-证明：因为$B\approx C$，所以存在双射函数$h:B\to C$。构建函数$g:(A\cup B)\to(A\cup C),g(x)=$
+证明：因为$B\approx C$，所以存在双射函数$h:B\to C$。构建函数$g:(A\cup B)\to(A\cup C)$,$$g(x)=\begin{cases}x,x\in A\\ h(x),x\in B\end{cases}$$,则$\forall y\in A\cup C$,若$y\in A$，则

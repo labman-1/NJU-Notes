@@ -33,4 +33,10 @@ $$
 3. 若A、B均为无穷可列集，令$B_1=B\textbackslash A$,因为B可列，所以子集$B_1$可列。而$B_1\cap A=\emptyset$且$B_1\cup A=A\cup B$。A的第一个元素对应0，第二个元素对应2，第n个元素对应2(n-1)，$B_1$的第一个元素对应1，第二个元素对应3，第n个元素对应2n-1.这样就把这两个无限集塞进了一个自然数序列。
 综上，$A\cup B$是可列集。
 (2)
-先证明$\mathbb{N}\times\mathbb{N}$是可列的。按“坐标之和”排列$\mathbb{N}\times\mathbb{N}$中的元素，对于序偶(m,n),分配编号$f(m,n)=\frac{(m+n+1)(m+n)}{2}+m$,f为双射。由于$A\approx\mathbb{N},B\approx \mathbb{N}$,所以$A\times$
+先证明$\mathbb{N}\times\mathbb{N}$是可列的。按“坐标之和”排列$\mathbb{N}\times\mathbb{N}$中的元素，对于序偶(m,n),分配编号$f(m,n)=\frac{(m+n+1)(m+n)}{2}+m$,f为双射。由于$A\approx\mathbb{N},B\approx \mathbb{N}$,所以$A\times B\approx \mathbb{N}\times\mathbb{N}\approx\mathbb{N}$,故$A\times B$是可列集。
+# P4
+(a)
+(b)
+(c)
+(d)
+(e)

@@ -42,5 +42,6 @@ $$
 (e)可列无限集。构建$f:\mathbb{N}\to A\times\mathbb{Z^+}$,$$f(n)=\begin{cases}(2,\frac{n}{2}+1),n为偶数\\(3,\frac{n+1}{2}),n为奇数\end{cases}$$
 (f)可列无限集。记10的整数倍的数的集合为S，构建$f:\mathbb{N}\to S$,$$f(n)=\begin{cases}5n,n为偶数\\-5(n+1),n为奇数\end{cases}$$
 # P5
-(a)令$A=\{a|a\in[0,1]\}\cup\{2\}$,B
-(b)
+(a)令$A=\{a|a\in[0,1]\}\cup\{2\}$,$B=\{a|a\in[0,1]\}$,则A，B均为不可列集合，且$A-B=\{2\}$为有限集。
+(b)令$A=\mathbb{R}$,$B=\mathbb{R}-\mathbb{Q}$
+(c)

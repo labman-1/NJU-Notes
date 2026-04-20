@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
+                "file": "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex常用数学公式与符号"
+              "title": "实验2、组合逻辑部件设计 实验报告"
             }
           },
           {
@@ -211,8 +211,8 @@
   },
   "active": "6181e7597d054f87",
   "lastOpenFiles": [
-    "NJU-notes/数学/离散数学/Problem Set 8.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
+    "NJU-notes/数学/离散数学/Problem Set 8.md",
     "NJU-notes/数学/离散数学/Problem Set 7.md",
     "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",

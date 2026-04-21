@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/二分.md",
+                "file": "NJU-notes/c++ and algorithm/数据结构/并查集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二分"
+              "title": "并查集"
             }
           },
           {
@@ -225,6 +225,7 @@
   },
   "active": "6181e7597d054f87",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/二分.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
@@ -260,7 +261,6 @@
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
     "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
     "NJU-notes/数学/离散数学/未命名.md",
-    "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",
     "Lesson 1、2、3 语言与进制_202603121037.base",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/第六章课后习题.md",
+                "file": "NJU-notes/数学/微积分/拉格朗日乘数法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章课后习题"
+              "title": "拉格朗日乘数法"
             }
           },
           {
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -226,13 +225,18 @@
   },
   "active": "6181e7597d054f87",
   "lastOpenFiles": [
+    "NJU-notes/数学/微积分/二重积分的计算.md",
+    "NJU-notes/数学/微积分/拉格朗日乘数法.md",
+    "NJU-notes/数学/微积分/极限.md",
+    "NJU-notes/数学/微积分/三重积分的计算.md",
+    "NJU-notes/DLCO/第六章课后习题.md",
+    "NJU-notes/assets/第六章课后习题_202604231114.jpg",
     "NJU-notes/assets/第六章课后习题_202604231103.jpg",
     "NJU-notes/assets/第六章课后习题_202604231033.png",
     "NJU-notes/assets/第六章课后习题_202604230103.jpg",
     "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/DLCO/LaTex.md",
-    "NJU-notes/DLCO/第六章课后习题.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
     "NJU-notes/c++ and algorithm/图论/图的连通性.md",
@@ -252,17 +256,12 @@
     "NJU-notes/c++ and algorithm/贪心/接水问题.md",
     "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
-    "NJU-notes/c++ and algorithm/图论/图论.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/assets/实验3 同步时序部件设计_202604212013.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202604212012.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202604202044.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202604201811.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202604201806.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202604201750.png",
-    "NJU-notes/assets/Pasted image 20260420174956.png",
-    "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202604201529.png",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",
     "Lesson 1、2、3 语言与进制_202603121037.base",

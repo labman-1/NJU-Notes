@@ -1,8 +1,8 @@
 # P1
 (a)记A为正奇数集合。奠基：$1\in A$. 归纳：$\forall x\in A,x+2\in A$
-(b)记B为整系数多项式集合。基础步骤：
-(c)
-# P2
+(b)记B为整系数多项式集合。基础步骤：$1\in B$. 归纳步骤：$\forall a,b\in B,a+b\in B,a-b\in B;\forall a\in b,a*x\in b$
+(c)记C为3的正整数次幂的集合。基础步骤：$3\in C$. 归纳步骤：$\forall x\in C,3x\in C$
+# P2 
 # P3
 
 # P4

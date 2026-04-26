@@ -1,5 +1,5 @@
 # P1
-(a)
+(a)记A为正奇数集合。奠基：$1\in A$. 归纳：$\forall x\in A,x+2\in A$
 (b)
 (c)
 # P2

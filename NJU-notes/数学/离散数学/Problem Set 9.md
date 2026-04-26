@@ -1,12 +1,12 @@
 # P1
-(a)记A为正奇数集合。奠基：$1\in A$. 归纳：$\forall x\in A,x+2\in A$
-(b)记B为整系数多项式集合。基础步骤：$1\in B$. 归纳步骤：$\forall a,b\in B,a+b\in B,a-b\in B;\forall a\in b,a*x\in b$
-(c)记C为3的正整数次幂的集合。基础步骤：$3\in C$. 归纳步骤：$\forall x\in C,3x\in C$
+(a)记A为正奇数集合。奠基：$1\in A$. 递归步骤：$\forall x\in A,x+2\in A$
+(b)记B为整系数多项式集合。基础步骤：$1\in B$. 递归步骤：$\forall a,b\in B,a+b\in B,a-b\in B;\forall a\in b,a*x\in b$
+(c)记C为3的正整数次幂的集合。基础步骤：$3\in C$. 递归步骤：$\forall x\in C,3x\in C$
 # P2 
 证明：
-令n=m-1，则$n^3+(n+1)^3+(n+2)^3=(m-1)^3+m^3+(n+1)^3=3m^3+6m$
+令n=m-1，则$n^3+(n+1)^3+(n+2)^3=(m-1)^3+m^3+(m+1)^3=3m^3+6m$
 下面讨论m对3取余的情况。
-
+若$m\equiv 0(mod 3)$,则m为3的倍数，上式可变为$3m(m^2+2)$，因为3m为9的倍数，所以上式可被9整除；若$m\equiv 1(mod 3)$,则$m^3+2m\equiv 0(mod 3)$,则$m^3+2m$为3的倍数，又因为上式可化为$3(m^3+2m)$，故上式可被9整除；若$m\equiv 2(mod 3)$,则$m^3+2m\equiv (2)^3+2*2\equiv 0(mod 3)$,则$m^3+2m$为3的倍数，又因为上式可化为$3(m^3+2m)$，故上式可被9整除. 综上，当n为非负整数时，$n^3+(n+1)^3+(n+2)^3$可被9整除。
 # P3
 
 # P4

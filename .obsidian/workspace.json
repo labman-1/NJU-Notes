@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/微积分/三重积分的计算.md",
+                "file": "NJU-notes/数学/离散数学/Problem Set 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三重积分的计算"
+              "title": "Problem Set 9"
             }
           },
           {
@@ -225,14 +225,15 @@
   },
   "active": "6181e7597d054f87",
   "lastOpenFiles": [
-    "NJU-notes/数学/微积分/二重积分的计算.md",
-    "NJU-notes/数学/离散数学/Problem Set 9.md",
     "NJU-notes/数学/离散数学/Problem Set 8.md",
+    "NJU-notes/数学/离散数学/Problem Set 10.md",
+    "NJU-notes/数学/离散数学/Problem Set 9.md",
+    "NJU-notes/数学/微积分/三重积分的计算.md",
+    "NJU-notes/数学/微积分/二重积分的计算.md",
     "NJU-notes/数学/离散数学/Problem Set 2.md",
     "NJU-notes/DLCO/第六章课后习题.md",
     "NJU-notes/数学/微积分/拉格朗日乘数法.md",
     "NJU-notes/数学/微积分/极限.md",
-    "NJU-notes/数学/微积分/三重积分的计算.md",
     "NJU-notes/assets/第六章课后习题_202604231114.jpg",
     "NJU-notes/assets/第六章课后习题_202604231103.jpg",
     "NJU-notes/assets/第六章课后习题_202604231033.png",
@@ -255,7 +256,6 @@
     "NJU-notes/c++ and algorithm/小焚决/高精度.md",
     "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
     "NJU-notes/c++ and algorithm/小焚决/欧拉线性筛与bitset针对1e8素数.md",
-    "NJU-notes/c++ and algorithm/小焚决/memset.md",
     "NJU-notes/assets/实验3 同步时序部件设计_202604212013.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202604212012.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202604202044.png",

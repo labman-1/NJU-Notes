@@ -41,7 +41,7 @@
 # P4
 (a)证明：由拆分的定义知，对于m的任意一个拆分，此和式中的任意一项一定为正整数，则其大小不大于m。因此，若$n\geq m$, $\forall x((x\leq n\land x\in \mathbb{N}_+\land x>m)\to x不能构成m的拆分的项)$，则$P_{m,n}=P_m$
 (b)证明：
-由(a)知当$n\geq m$时, 
+由(a)知当$n\geq m$时, $P_{m,n}=P_m=P_{m,m}$，则$P_{1,n}=P_$
 (c)
 # P5
 

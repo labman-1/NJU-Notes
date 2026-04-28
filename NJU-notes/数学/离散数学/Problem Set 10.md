@@ -5,8 +5,10 @@
 (d)假。反例：$6\mid 9*4,6\nmid9,6\nmid 4$.
 # P2
 证明：
-$p^2-1=(p+1)(p-1)$, 因为p是大于3的素数，所以p为奇数，$p\equiv1或2(mod 3)$, 则p+1、p-1为两个连续的偶数，$$$p+2\equiv0(mod 3)$或$p+1\equiv 0(mod 3)$，所以$4\mid p+1$或$4\mid p-1$。所以$(p+1)(p-1)\equiv 0(mod3), (p+1)(p-1)\equiv 0(mod 8)$
+$p^2-1=(p+1)(p-1)$.
+因为p是大于3的素数，所以p为奇数，$p\equiv1或2(mod 3)$, 则p+1、p-1为两个连续的偶数，$2\mid p+1, 2\mid p-1$, $p+2\equiv0(mod 3)$或$p+1\equiv 0(mod 3)$，所以$4\mid p+1$或$4\mid p-1$。所以$(p+1)(p-1)\equiv 0(mod3), (p+1)(p-1)\equiv 0(mod 8)$. 所以$(p+1)(p-1)\equiv0(mod 24)$, 即$p^2-1$是24的倍数。
 # P3
+
 
 # P4
 

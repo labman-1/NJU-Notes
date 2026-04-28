@@ -20,8 +20,10 @@ $p^2-1=(p+1)(p-1)$.
 综上，如果$2^n-1$是素数，则n也为素数。
 # P5
 证明：
-(a)因为$d\mid m$, 所以
-(b)
+(a)因为$d\mid m$, 所以$\exists k\in \mathbb{N}_+, m=kd$. 
+不妨设$a\ge b$, 
+因为$a\equiv b(mod\,m)$, 所以$\exists t\in \mathbb{N}_+, a=b+tm=b+tkd$, 所以$a\equiv b(mod\, d)$. 
+(b)因为$a\equiv b(mod\, m)$, 所以$m\mid(a-b)$, 由整除的性质知$dm\mid d(a-b)$, 所以$da\equiv db (mod \,dm)$
 (c)
 # P6
 

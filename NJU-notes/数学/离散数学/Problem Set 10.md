@@ -28,8 +28,14 @@ $p^2-1=(p+1)(p-1)$.
 (ii)因为$da\equiv db (mod \,dm)$, 所以$\exists k\in\mathbb{Z}, d(a-b)=kdm$, 所以a-b=km, 所以$a\equiv b(mod \,m)$.
 (c)
 若$a\equiv b(mod\, m)$, 则$m\mid(a-b)$, 所以$m\mid c(a-b)$, 所以$ca\equiv cb(mod\, m)$.
-若$ca\equiv cb(mod\, m)$, 则$m\mid c(a-b)$, 
+若$ca\equiv cb(mod\, m)$, 则$m\mid c(a-b)$, 由欧几里得引理知$m\mid c$或$m\mid (a-b)$, 又因为c与m互素，所以$m\mid (a-b)$, 即$a\equiv b(mod\, m)$.
 # P6
+证明：
+进行质因数分解，$42=3*2*7$.
+(i)证明$7\mid (n^7-n)$.
+
+(ii)证明$3\mid (n^7-n)$.
+(iii)证明$2\mid (n^7-n)$.
 
 # P7
 

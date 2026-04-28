@@ -61,6 +61,10 @@ $p^4-1=(p-1)(p+1)(p^2+1)$
 证明：
 因为gcd(a,n)=1,所以由裴蜀定理知$\exists s,t\in\mathbb{N}_+,as+nt=1$. 所以$as\equiv 1(mod \,n)$. 
 令$s=qn+r(q,r\in\mathbb{Z}, 0\leq r< n)$, 取b=r，则b小于n。
-因为$as\equiv 1(mod \,n)$, 所以$\exists u\in\mathbb{N}_+,as-1=un, n\nmid s, b\neq 0$. 则b为正整数。
-假设gcd(b,n)>1, 记gcd(b,n)=y， 则$y\mid (ab), y\mid n$
+因为$as\equiv 1(mod \,n)$, 所以$n\nmid s, b\neq 0,\exists u\in\mathbb{N}_+,as-1=un$. 则b为正整数。
+假设gcd(b,n)>1, 记gcd(b,n)=y， 则$y\mid (ab), y\mid n$. 所以$y\mid(as-un)$, 即$y\mid 1$. 不可能。故假设不成立，即gcd(b,n)=1.则b与n互素。
+综上, 对于任意小于 $n$ 且与 $n$ 互素的正整数 $a$ ，存在一个小于 $n$ 且与 $n$ 互素的正整数 $b$ ，使得 $a b \equiv 1$ (mod n).
 # P10
+证明：
+若p是素数，假设$\sqrt p$是有理数，则$\exists m,n\in\mathbb{N}_+,\sqrt{p}=\frac{m}{n}$. 
+因此$m^2=p\cdot n^2$, 则$p\mid m^2$.  又因为p是素数，所以$p\mid m$. 

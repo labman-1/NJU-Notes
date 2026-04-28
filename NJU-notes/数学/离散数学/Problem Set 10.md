@@ -23,8 +23,12 @@ $p^2-1=(p+1)(p-1)$.
 (a)因为$d\mid m$, 所以$\exists k\in \mathbb{N}_+, m=kd$. 
 不妨设$a\ge b$, 
 因为$a\equiv b(mod\,m)$, 所以$\exists t\in \mathbb{N}_+, a=b+tm=b+tkd$, 所以$a\equiv b(mod\, d)$. 
-(b)因为$a\equiv b(mod\, m)$, 所以$m\mid(a-b)$, 由整除的性质知$dm\mid d(a-b)$, 所以$da\equiv db (mod \,dm)$
+(b)
+(i)因为$a\equiv b(mod\, m)$, 所以$m\mid(a-b)$, 由整除的性质知$dm\mid d(a-b)$, 所以$da\equiv db (mod \,dm)$.
+(ii)因为$da\equiv db (mod \,dm)$, 所以$\exists k\in\mathbb{Z}, d(a-b)=kdm$, 所以a-b=km, 所以$a\equiv b(mod \,m)$.
 (c)
+若$a\equiv b(mod\, m)$, 则$m\mid(a-b)$, 所以$m\mid c(a-b)$, 所以$ca\equiv cb(mod\, m)$.
+若$ca\equiv cb(mod\, m)$, 则$m\mid c(a-b)$, 
 # P6
 
 # P7

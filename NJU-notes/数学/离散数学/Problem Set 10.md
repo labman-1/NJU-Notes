@@ -53,3 +53,7 @@ $p^4-1=(p-1)(p+1)(p^2+1)$
 综上，因为$3\mid (p^4-1),5\mid (p^4-1),16\mid (p^4-1)$, 所以$240\mid(p^4-1)$.
 # P8
 证明：
+若m与n互素，要证$m ^ { \phi ( n ) } + n ^ { \phi ( m ) } \equiv 1 (mod\,mn)$, 等价于证$mn\mid(m ^ { \phi ( n ) }+n ^ { \phi ( m ) }-1)$.
+因为$m\mid m^{\phi(n)},n\mid n^{\phi(m)}$, 所以$m^{\phi(n)}\equiv 0(mod\, m), n^{\phi(m)}\equiv 0(mod\, n)$. 
+因为gcd(m,n)=1,所以$m^{\phi(n)}\equiv1(mod\,n), n^{\phi(m)}\equiv 1(mod m)$.
+所以$m^{\phi(n)}+n^{\phi(m)}\equiv1(mod\, n),m^{\phi(n)}+n^{\phi(m)}\equiv1(mod\, m)$, 即$n\mid(m^{\phi(n)}+n^{\phi(m)}-1),m\mid(m^{\phi(n)}+n^{\phi(m)}-1)$, 又因为gcd(m,n)=

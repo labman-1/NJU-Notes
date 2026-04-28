@@ -60,4 +60,7 @@ $p^4-1=(p-1)(p+1)(p^2+1)$
 # P9
 证明：
 因为gcd(a,n)=1,所以由裴蜀定理知$\exists s,t\in\mathbb{N}_+,as+nt=1$. 所以$as\equiv 1(mod \,n)$. 
+令$s=qn+r(q,r\in\mathbb{Z}, 0\leq r< n)$, 取b=r，则b小于n。
+因为$as\equiv 1(mod \,n)$, 所以$\exists u\in\mathbb{N}_+,as-1=un, n\nmid s, b\neq 0$. 则b为正整数。
+假设gcd(b,n)>1, 记gcd(b,n)=y， 则$y\mid (ab), y\mid n$
 # P10

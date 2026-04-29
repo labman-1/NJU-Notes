@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/第六章课后习题.md",
+                "file": "NJU-notes/DLCO/ISA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章课后习题"
+              "title": "ISA"
             }
           },
           {
@@ -211,6 +211,8 @@
   },
   "active": "0f0995cf454779c2",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/第六章课后习题.md",
+    "NJU-notes/DLCO/ISA.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/assets/实验3 同步时序部件设计_202604291157-1.png",
@@ -234,7 +236,6 @@
     "NJU-notes/数学/微积分/三重积分的计算.md",
     "NJU-notes/数学/微积分/二重积分的计算.md",
     "NJU-notes/数学/离散数学/Problem Set 2.md",
-    "NJU-notes/DLCO/第六章课后习题.md",
     "NJU-notes/数学/微积分/拉格朗日乘数法.md",
     "NJU-notes/数学/微积分/极限.md",
     "NJU-notes/DLCO/第四章课后习题.md",
@@ -246,7 +247,6 @@
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/c++ and algorithm/二分.md",
     "NJU-notes/c++ and algorithm/小焚决/离散化.md",
-    "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

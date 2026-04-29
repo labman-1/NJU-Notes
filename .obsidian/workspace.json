@@ -35,8 +35,7 @@
               "title": "第二章课后习题"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,8 +209,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ff3eab3b70a5427",
+  "active": "0f0995cf454779c2",
   "lastOpenFiles": [
+    "NJU-notes/assets/实验3 同步时序部件设计_202604300015.png",
+    "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/DLCO/第三章课后习题.md",
     "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
@@ -246,8 +247,6 @@
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
     "NJU-notes/c++ and algorithm/图论/图的连通性.md",
     "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
-    "NJU-notes/c++ and algorithm/数据结构/并查集.md",
-    "NJU-notes/c++ and algorithm/二分.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

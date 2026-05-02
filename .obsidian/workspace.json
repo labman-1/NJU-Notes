@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+                "file": "NJU-notes/数学/离散数学/P11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c++ and algorithm"
+              "title": "P11"
             }
           }
         ]
@@ -197,6 +197,18 @@
   },
   "active": "0f0995cf454779c2",
   "lastOpenFiles": [
+    "NJU-notes/数学/离散数学/P1.md",
+    "NJU-notes/数学/离散数学/P10.md",
+    "NJU-notes/数学/离散数学/P9.md",
+    "NJU-notes/数学/离散数学/P8.md",
+    "NJU-notes/数学/离散数学/P7.md",
+    "NJU-notes/数学/离散数学/P6.md",
+    "NJU-notes/数学/离散数学/P5.md",
+    "NJU-notes/数学/离散数学/P4.md",
+    "NJU-notes/数学/离散数学/P3.md",
+    "NJU-notes/数学/离散数学/P2.md",
+    "NJU-notes/数学/离散数学/P11.md",
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/assets/实验3 同步时序部件设计_202604302258.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202604302255.png",
@@ -219,19 +231,8 @@
     "NJU-notes/assets/实验3 同步时序部件设计_202604291156.png",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/数学/离散数学/Problem Set 10.md",
-    "NJU-notes/数学/离散数学/Problem Set 9.md",
-    "NJU-notes/数学/离散数学/Problem Set 8.md",
     "NJU-notes/数学/微积分/三重积分的计算.md",
     "NJU-notes/数学/微积分/二重积分的计算.md",
-    "NJU-notes/数学/离散数学/Problem Set 2.md",
-    "NJU-notes/数学/微积分/拉格朗日乘数法.md",
-    "NJU-notes/数学/微积分/极限.md",
-    "NJU-notes/DLCO/LaTex.md",
-    "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
-    "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
-    "NJU-notes/c++ and algorithm/图论/图的连通性.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
+                "file": "NJU-notes/DLCO/实验3 同步时序部件设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验2、组合逻辑部件设计 实验报告"
+              "title": "实验3 同步时序部件设计"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -209,6 +208,8 @@
   },
   "active": "c60639516f2a6b01",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
+    "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605052333.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605051718.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605051637.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605051611.png",
@@ -218,12 +219,9 @@
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605051604.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605051558.png",
     "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605051523.png",
-    "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605051521.png",
-    "NJU-notes/assets/实验2、组合逻辑部件设计 实验报告_202605051433.png",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/数学/离散数学/未命名.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
-    "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/数学/离散数学/P1.md",
     "P11_202605041030.base",
     "NJU-notes/数学/离散数学/P11.md",

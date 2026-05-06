@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/实验3 同步时序部件设计.md",
+                "file": "NJU-notes/数学/离散数学/关系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验3 同步时序部件设计"
+              "title": "关系"
             }
           }
         ]
@@ -208,17 +208,18 @@
   },
   "active": "c60639516f2a6b01",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
+    "NJU-notes/数学/离散数学/关系.md",
+    "NJU-notes/assets/实验3 同步时序部件设计_202605060944.png",
+    "NJU-notes/assets/实验3 同步时序部件设计_202605060944.png",
+    "NJU-notes/assets/实验3 同步时序部件设计_202605060941.png",
+    "NJU-notes/assets/实验3 同步时序部件设计_202605060940.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605060939.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605060935-1.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605060935.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605060934-1.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605060934.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605060933.png",
-    "NJU-notes/assets/实验3 同步时序部件设计_202605060903.png",
-    "NJU-notes/assets/实验3 同步时序部件设计_202605060015-2.png",
-    "NJU-notes/assets/实验3 同步时序部件设计_202605060015-1.png",
-    "NJU-notes/assets/实验3 同步时序部件设计_202605060015.png",
-    "NJU-notes/assets/实验3 同步时序部件设计_202605060012-1.png",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/数学/离散数学/未命名.md",
@@ -237,7 +238,6 @@
     "NJU-notes/数学/离散数学/P3.md",
     "NJU-notes/数学/离散数学/P2.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "未命名 1.md",
     "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/第二章课后习题.md",

@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -223,6 +224,9 @@
   },
   "active": "0158d0a086010f6e",
   "lastOpenFiles": [
+    "NJU-notes/assets/实验3 同步时序部件设计_202605061155-1.png",
+    "NJU-notes/assets/实验3 同步时序部件设计_202605061155.png",
+    "NJU-notes/assets/实验3 同步时序部件设计_202605061154.png",
     "NJU-notes/数学/离散数学/关系.md",
     "NJU-notes/数学/离散数学/未命名.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
@@ -239,8 +243,6 @@
     "NJU-notes/assets/实验3 同步时序部件设计_202605060935-1.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605060935.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605060934-1.png",
-    "NJU-notes/assets/实验3 同步时序部件设计_202605060934.png",
-    "NJU-notes/assets/实验3 同步时序部件设计_202605060933.png",
     "NJU-notes/数学/离散数学/P1.md",
     "P11_202605041030.base",
     "NJU-notes/数学/离散数学/P11.md",
@@ -259,7 +261,6 @@
     "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/DLCO/第三章课后习题.md",
     "NJU-notes/DLCO/第四章课后习题.md",
-    "NJU-notes/DLCO/ISA.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

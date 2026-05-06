@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/实验4、.md",
+                "file": "NJU-notes/DLCO/实验3 同步时序部件设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验4、"
+              "title": "实验3 同步时序部件设计"
             }
           }
         ],
@@ -223,8 +223,8 @@
   },
   "active": "0158d0a086010f6e",
   "lastOpenFiles": [
-    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/DLCO/实验4、.md",
+    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/数学/离散数学/关系.md",

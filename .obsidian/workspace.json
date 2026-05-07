@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/English/Listening and speaking/draft.md",
+                "file": "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "最小生成树（MST）"
             }
           }
         ]
@@ -208,8 +208,10 @@
   },
   "active": "0158d0a086010f6e",
   "lastOpenFiles": [
-    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
+    "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/English/Listening and speaking/draft.md",
+    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/assets/实验3 同步时序部件设计_202605062048.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605062040.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605061959.png",
@@ -240,11 +242,9 @@
     "NJU-notes/数学/离散数学/P4.md",
     "NJU-notes/数学/离散数学/P3.md",
     "NJU-notes/数学/离散数学/P2.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "未命名 1.md",
     "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/DLCO/第三章课后习题.md",
-    "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

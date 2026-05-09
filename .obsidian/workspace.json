@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/离散数学/P12.md",
+                "file": "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P12"
+              "title": "最小生成树（MST）"
             }
           }
         ]
@@ -208,6 +208,9 @@
   },
   "active": "0158d0a086010f6e",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/数学/离散数学/P12.md",
     "NJU-notes/assets/P12_202605091114.png",
     "NJU-notes/assets/P12_202605091041.jpg",
     "NJU-notes/数学/离散数学/P1.md",
@@ -215,13 +218,10 @@
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/数学/离散数学/核心符号备忘（Latex）.md",
     "NJU-notes/数学/离散数学/关系.md",
-    "NJU-notes/数学/离散数学/P12.md",
     "NJU-notes/assets/P12_202605091016.jpg",
     "NJU-notes/assets/P12_202605091004.jpg",
     "NJU-notes/assets/P12_202605090958.png",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
-    "NJU-notes/c++ and algorithm/图论/图论.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/数学/离散数学/P11.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
@@ -236,7 +236,6 @@
     "NJU-notes/assets/实验3 同步时序部件设计_202605061959.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605061948.png",
     "NJU-notes/assets/实验3 同步时序部件设计_202605061917-1.png",
-    "NJU-notes/assets/实验3 同步时序部件设计_202605061917.png",
     "NJU-notes/DLCO/实验4、.md",
     "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",

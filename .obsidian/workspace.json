@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
+                "file": "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最小生成树（MST）"
+              "title": "实验5、存储器及数据通路设计"
             }
           }
         ]
@@ -208,11 +208,11 @@
   },
   "active": "08448bd0273b7f37",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
+    "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/图的连通性.md",
-    "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/DLCO/实验4、运算部件设计.md",

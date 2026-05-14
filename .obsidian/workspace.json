@@ -35,7 +35,8 @@
               "title": "实验5、存储器及数据通路设计"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +221,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08448bd0273b7f37",
+  "active": "31be558f7e8145a4",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141121.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049.png",
@@ -230,7 +232,6 @@
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605131913.jpg",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605131906.jpg",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605131851.png",
-    "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605131839-1.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605131839.png",
     "NJU-notes/DLCO/第7章课后习题.md",

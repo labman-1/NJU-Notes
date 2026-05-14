@@ -35,8 +35,7 @@
               "title": "实验5、存储器及数据通路设计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,11 +220,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31be558f7e8145a4",
+  "active": "08448bd0273b7f37",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141121.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049.png",
-    "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141117.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049-1.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605131913.jpg",
@@ -253,7 +252,6 @@
     "NJU-notes/c++ and algorithm/面向对象/虚函数、虚基类、多重继承.md",
     "未命名 1.md",
     "NJU-notes/assets/实验4、运算部件设计_202605111431.png",
-    "NJU-notes/assets/实验4、运算部件设计_202605111149-1.png",
     "NJU-notes/DLCO/卡诺图与蕴含项.md",
     "NJU-notes/DLCO/第六章课后习题.md",
     "NJU-notes/DLCO/第四章课后习题.md",

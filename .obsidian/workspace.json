@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/数据结构/图.md",
+                "file": "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图"
+              "title": "最小生成树（MST）"
             }
           }
         ],
@@ -223,6 +223,13 @@
   },
   "active": "31be558f7e8145a4",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
+    "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
+    "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
+    "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
+    "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/数据结构/bitset备忘.md",
+    "NJU-notes/c++ and algorithm/数据结构/图.md",
     "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
@@ -243,22 +250,15 @@
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/DLCO/ISA.md",
     "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
-    "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/DLCO/实验6.md",
     "NJU-notes/c++ and algorithm/图论/拓扑排序.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
-    "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/图的连通性.md",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/c++ and algorithm/面向对象/内存安全.md",
     "NJU-notes/c++ and algorithm/面向对象/虚函数、虚基类、多重继承.md",
     "未命名 1.md",
-    "NJU-notes/DLCO/卡诺图与蕴含项.md",
-    "NJU-notes/DLCO/第六章课后习题.md",
-    "NJU-notes/DLCO/第四章课后习题.md",
-    "NJU-notes/数学/离散数学/P12.md",
-    "NJU-notes/数学/离散数学/P1.md",
     "P11_202605041030.base",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",

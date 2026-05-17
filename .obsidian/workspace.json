@@ -35,8 +35,7 @@
               "title": "实验4、运算部件设计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53b76cf57cc5106d",
+  "active": "4d28890f40467e71",
   "lastOpenFiles": [
+    "NJU-notes/assets/实验4、运算部件设计_202605171530.png",
+    "NJU-notes/assets/实验4、运算部件设计_202605171529.png",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/DLCO/卡诺图与蕴含项.md",
@@ -251,14 +252,12 @@
     "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
-    "NJU-notes/c++ and algorithm/数据结构/图.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141121.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141305.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141117.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049-1.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605131913.jpg",
-    "NJU-notes/assets/实验5、存储器及数据通路设计_202605131906.jpg",
     "P11_202605041030.base",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",

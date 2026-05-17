@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b34356c8bda2fba3",
+        "id": "d1ee6eefa3f725a9",
         "type": "tabs",
         "children": [
           {
-            "id": "bc3cbb83472b9793",
+            "id": "fe77a6496365fb4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NJU-notes/DLCO/实验4、运算部件设计.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "实验4、运算部件设计"
             }
           }
         ]
@@ -202,13 +206,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc3cbb83472b9793",
+  "active": "fe77a6496365fb4e",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
+    "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
+    "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
+    "NJU-notes/English/Listening and speaking/Class A1.md",
+    "NJU-notes/English/Listening and speaking/draft.md",
+    "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
     "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/assets/实验4、运算部件设计_202605171614.png",
     "NJU-notes/assets/实验4、运算部件设计_202605171530.png",
     "NJU-notes/assets/实验4、运算部件设计_202605171529.png",
-    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/DLCO/卡诺图与蕴含项.md",
     "NJU-notes/assets/实验4、运算部件设计_202605171212.png",
     "NJU-notes/DLCO/第三章课后习题.md",
@@ -231,10 +240,6 @@
     "NJU-notes/c++ and algorithm/图论/LCA 与树上搜索.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
-    "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
-    "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
-    "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
-    "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141121.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141305.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049.png",

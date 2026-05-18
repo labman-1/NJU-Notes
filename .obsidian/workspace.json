@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/实验4、运算部件设计.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验4、运算部件设计"
+              "title": "0_1背包 采药"
             }
           }
         ]
@@ -208,13 +208,13 @@
   },
   "active": "fe77a6496365fb4e",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/assets/实验4、运算部件设计_202605181434.png",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/面向对象/内存安全.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/背包问题.md",
-    "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/assets/实验4、运算部件设计_202605171614.png",
     "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
@@ -243,7 +243,6 @@
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141121.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141305.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049.png",
-    "NJU-notes/assets/实验5、存储器及数据通路设计_202605141117.png",
     "P11_202605041030.base",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",

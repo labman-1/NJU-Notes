@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
+                "file": "trifles/视觉人文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1、2、3 语言与进制"
+              "title": "视觉人文"
             }
           }
         ]
@@ -208,10 +208,11 @@
   },
   "active": "fe77a6496365fb4e",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
+    "trifles/视觉人文.md",
     "NJU-notes/assets/Lesson 1、2、3 语言与进制_202605191438.png",
     "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
-    "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
     "NJU-notes/DLCO/LaTex.md",
     "NJU-notes/DLCO/ISA.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
@@ -243,7 +244,6 @@
     "NJU-notes/assets/P13_202605152048.jpg",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141121.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141305.png",
-    "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049.png",
     "P11_202605041030.base",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",

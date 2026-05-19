@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/personal learning/cs61b/git 入门.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git 入门"
+              "title": "0_1背包 采药"
             }
           }
         ]
@@ -208,12 +208,13 @@
   },
   "active": "fe77a6496365fb4e",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/personal learning/cs61b/git 入门.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/personal learning/personal learning.md",
     "NJU-notes/SICP/SICP.md",
     "NJU-notes/c++ and algorithm/面向对象/智能指针.md",
     "NJU-notes/c++ and algorithm/面向对象/智能指针.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/面向对象/内存安全.md",
     "NJU-notes/c++ and algorithm/未命名.md",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
@@ -239,7 +240,6 @@
     "NJU-notes/c++ and algorithm/数据结构/bitset备忘.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/数学/离散数学/P13.md",
-    "NJU-notes/数学/离散数学/P11.md",
     "NJU-notes/assets/P13_202605152048.jpg",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141121.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141305.png",

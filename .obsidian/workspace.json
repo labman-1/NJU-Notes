@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
+                "file": "NJU-notes/DLCO/实验4、运算部件设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "差分数组与前缀和数组"
+              "title": "实验4、运算部件设计"
             }
           }
         ]
@@ -208,11 +208,19 @@
   },
   "active": "7694cdd9c75912fd",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
+    "NJU-notes/DLCO/实验6.md",
+    "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
+    "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
+    "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
+    "NJU-notes/English/Listening and speaking/draft.md",
+    "NJU-notes/personal learning/personal learning.md",
+    "NJU-notes/SICP/SICP.md",
+    "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "trifles/视觉人文.md",
     "README.md",
-    "NJU-notes/SICP/SICP.md",
     "trifles/评议.md",
     "Test.md",
     "Lesson 1、2、3 语言与进制_202603121037.base",
@@ -222,16 +230,12 @@
     "未命名.md",
     "未命名 1.md",
     "g.md",
-    "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
     "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/DLCO/RTL.md",
     "NJU-notes/assets/RTL_202605191746.png",
-    "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
-    "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
-    "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
     "NJU-notes/assets/实验一：基本逻辑部件设计 实验报告_202604151955.png",
     "NJU-notes/assets/视觉人文_202605191456-3.png",
     "NJU-notes/assets/视觉人文_202605191456-2.png",
@@ -242,10 +246,6 @@
     "NJU-notes/assets/Lesson 1、2、3 语言与进制_202605191450.png",
     "NJU-notes/DLCO/LaTex.md",
     "NJU-notes/assets/Lesson 1、2、3 语言与进制_202605191438.png",
-    "NJU-notes/DLCO/ISA.md",
-    "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
-    "NJU-notes/personal learning/cs61b/git 入门.md",
-    "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

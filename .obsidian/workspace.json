@@ -35,7 +35,8 @@
               "title": "科学启蒙"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +221,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7694cdd9c75912fd",
+  "active": "5f329e2924c6a1cb",
   "lastOpenFiles": [
-    "trifles/科学启蒙.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
+    "trifles/科学启蒙.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605201708.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605201523.png",
     "NJU-notes/DLCO/实验4、运算部件设计.md",

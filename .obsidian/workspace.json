@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
+                "file": "NJU-notes/数学/离散数学/P14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验5、存储器及数据通路设计"
+              "title": "P14"
             }
           }
         ]
@@ -208,10 +208,13 @@
   },
   "active": "7694cdd9c75912fd",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/数学/离散数学/P12.md",
     "NJU-notes/数学/离散数学/P14.md",
-    "NJU-notes/DLCO/实验4、运算部件设计.md",
+    "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
+    "NJU-notes/DLCO/ISA.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605221510.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605212050.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605212038.png",
@@ -225,7 +228,6 @@
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605201708.png",
     "NJU-notes/DLCO/实验6.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
-    "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
     "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
     "NJU-notes/English/Listening and speaking/draft.md",
     "NJU-notes/personal learning/personal learning.md",
@@ -244,8 +246,6 @@
     "未命名 1.md",
     "g.md",
     "NJU-notes/DLCO/RTL.md",
-    "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
-    "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

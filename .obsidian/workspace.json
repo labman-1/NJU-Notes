@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
+                "file": "NJU-notes/数学/离散数学/P14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验5、存储器及数据通路设计"
+              "title": "P14"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -209,8 +208,10 @@
   },
   "active": "7694cdd9c75912fd",
   "lastOpenFiles": [
-    "NJU-notes/assets/实验5、存储器及数据通路设计_202605221510.png",
+    "NJU-notes/DLCO/实验4、运算部件设计.md",
+    "NJU-notes/数学/离散数学/P14.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
+    "NJU-notes/assets/实验5、存储器及数据通路设计_202605221510.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605212050.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605212038.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605211945-1.png",
@@ -221,7 +222,6 @@
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605202230.png",
     "trifles/科学启蒙.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605201708.png",
-    "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/DLCO/实验6.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
     "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",

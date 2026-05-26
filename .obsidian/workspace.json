@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ee6eefa3f725a9",
+        "id": "2edf7d26e8c01a68",
         "type": "tabs",
         "children": [
           {
-            "id": "b628987c6cbcad55",
+            "id": "c863d6b91b2323bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
+                "file": "NJU-notes/DLCO/实验4、运算部件设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "编译器与内存安全防御"
+              "title": "实验4、运算部件设计"
             }
           }
         ]
@@ -206,10 +206,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b628987c6cbcad55",
+  "active": "c863d6b91b2323bf",
   "lastOpenFiles": [
-    "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
+    "NJU-notes/assets/实验4、运算部件设计_202605261715-1.png",
+    "NJU-notes/assets/实验4、运算部件设计_202605261715.png",
     "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
+    "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/assets/实验4、运算部件设计_202605251158.png",
     "NJU-notes/assets/实验4、运算部件设计_202605251157.png",
@@ -220,7 +222,6 @@
     "NJU-notes/assets/实验4、运算部件设计_202605251057.png",
     "NJU-notes/assets/实验4、运算部件设计_202605251056-1.png",
     "NJU-notes/assets/实验4、运算部件设计_202605251056.png",
-    "NJU-notes/assets/实验4、运算部件设计_202605251047.png",
     "NJU-notes/数学/离散数学/P14.md",
     "NJU-notes/数学/离散数学/P12.md",
     "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
@@ -245,7 +246,6 @@
     "trifles/English.md",
     "未命名.md",
     "未命名 1.md",
-    "g.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

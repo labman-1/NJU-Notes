@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2edf7d26e8c01a68",
+        "id": "fab3926e74119501",
         "type": "tabs",
         "children": [
           {
-            "id": "c863d6b91b2323bf",
+            "id": "7f2c1abdfd6ca2b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
+                "file": "NJU-notes/DLCO/实验6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最短路径算法"
+              "title": "实验6"
             }
           }
         ]
@@ -206,10 +206,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c863d6b91b2323bf",
+  "active": "7f2c1abdfd6ca2b5",
   "lastOpenFiles": [
-    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
+    "NJU-notes/DLCO/实验7.md",
+    "NJU-notes/DLCO/实验6.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
+    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
@@ -230,7 +232,6 @@
     "NJU-notes/DLCO/Lesson 1、2、3 语言与进制.md",
     "NJU-notes/DLCO/ISA.md",
     "trifles/科学启蒙.md",
-    "NJU-notes/DLCO/实验6.md",
     "NJU-notes/DLCO/Lesson 0 计算机是如何工作的.md",
     "NJU-notes/DLCO/Lesson 4 数字逻辑基础.md",
     "NJU-notes/English/Listening and speaking/draft.md",
@@ -245,7 +246,6 @@
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "P11_202605041030.base",
     "trifles/时间规划.md",
-    "trifles/English.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

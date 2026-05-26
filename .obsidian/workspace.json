@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "最短路径算法"
             }
-          },
-          {
-            "id": "ecd3b1d3fabb75fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NJU-notes/DLCO/实验3 同步时序部件设计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "实验3 同步时序部件设计"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +206,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecd3b1d3fabb75fb",
+  "active": "c863d6b91b2323bf",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
@@ -260,7 +246,6 @@
     "P11_202605041030.base",
     "trifles/时间规划.md",
     "trifles/English.md",
-    "未命名.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/第四章课后习题_202604122049.jpg.~tmp",
     "NJU-notes/c++ and algorithm/面向对象",

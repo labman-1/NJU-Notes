@@ -206,56 +206,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "50e68f15bc8cdf47",
-    "type": "floating",
-    "children": [
-      {
-        "id": "25a134ea4ce12f18",
-        "type": "window",
-        "children": [
-          {
-            "id": "a4fb753e8c219798",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "97d5c9e28f6b6da2",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "NJU-notes/assets/实验5、存储器及数据通路设计_202605261754.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "实验5、存储器及数据通路设计_202605261754"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 341,
-        "y": 133,
-        "width": 1025,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "97d5c9e28f6b6da2",
+  "active": "c863d6b91b2323bf",
   "lastOpenFiles": [
-    "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
+    "NJU-notes/assets/实验5、存储器及数据通路设计_202605261922.png",
+    "NJU-notes/assets/实验5、存储器及数据通路设计_202605261921.png",
+    "NJU-notes/assets/实验5、存储器及数据通路设计_202605261920.png",
+    "NJU-notes/assets/实验5、存储器及数据通路设计_202605261919.png",
+    "NJU-notes/assets/实验5、存储器及数据通路设计_202605261918.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605261754.png",
+    "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141049-1.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141117.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141305.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605141121.png",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605201523.png",
-    "NJU-notes/assets/实验5、存储器及数据通路设计_202605201708.png",
-    "NJU-notes/assets/实验5、存储器及数据通路设计_202605202230.png",
-    "NJU-notes/assets/实验5、存储器及数据通路设计_202605202240.png",
-    "NJU-notes/assets/实验5、存储器及数据通路设计_202605211756.png",
     "NJU-notes/DLCO/实验4、运算部件设计.md",
     "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
     "NJU-notes/数学/离散数学/P14.md",

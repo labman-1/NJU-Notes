@@ -35,7 +35,8 @@
               "title": "P14"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,12 +221,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f2c1abdfd6ca2b5",
+  "active": "cb0f6a7f4c2e9446",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验6.md",
     "NJU-notes/数学/离散数学/P14.md",
     "NJU-notes/数学/离散数学/优势关系.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
-    "NJU-notes/DLCO/实验6.md",
     "NJU-notes/assets/实验5、存储器及数据通路设计_202605212050.png",
     "NJU-notes/DLCO/实验7.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",

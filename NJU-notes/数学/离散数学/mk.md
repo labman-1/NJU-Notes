@@ -129,6 +129,6 @@ $$c(G - S) \ge 2 > 1 = |S|$$
 方法一（反证法）：
 假设当$m>C^2_{n-1}+1$时，G不是哈密顿图。
 则$\exists u,v\in V(G),u,v不相邻$。
-因为$\forall e\in E(G)$, e有且仅有两种可能
+因为$\forall e\in E(G)$, e要么在子图G-{u,v}中，要么与u或v相邻
 
 

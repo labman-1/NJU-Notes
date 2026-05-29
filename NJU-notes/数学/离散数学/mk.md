@@ -102,10 +102,12 @@ $\forall u,v\in V(G)且(u,v)\not\in E(G), 有deg(u)+deg(v)\ge 2\delta(G)\ge V(G)
 构建如下两个集合：
 - $S=\{v_{i}|v_{i}与v_{n}相邻\}$
 - $T=\{v_{i}|v_{i+1}与v_{1}相邻\}$.
-则$|S|+|T|=d(u)+d(v)\ge n$. 因为$v_{n}\not\in S\cup T$, 所以$|S\cup T|\le n-1<n$. 所以由容斥原理有$|S\cap T|=|S|+|T|-|S\cup T|>0$，即$S\cup T$非空，记其中一个元素为$v_{j}$。则有$v_{j}$
-
-
+则$|S|+|T|=d(u)+d(v)\ge n$. 因为$v_{n}\not\in S\cup T$, 所以$|S\cup T|\le n-1<n$. 所以由容斥原理有$|S\cap T|=|S|+|T|-|S\cup T|>0$，即$S\cup T$非空，记其中一个元素为$v_{j}$。则有$v_{j}$与$v_{n}$相邻，$v_{j+1}$与$v_{1}$相邻。
+于是$C=v_{1}v_{2}v_{3}…v_{j}v_{n}v_{n-1}…v_{j+1}v_{1}$为哈密顿回路。
+所以G是哈密顿图。
 # 12
+证明：
+因为G不是2-连通图，所以G存在一个割点，记为v。
 
 # 13
 

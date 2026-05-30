@@ -79,6 +79,13 @@ for(int i=0; i<4; i++) {
 
 
 
-证明：定义如下的映射$f:S_{n}\to A_{n+2}$, $记\sigma 是S_{n}中的任意一个置换f=$
-
+证明：定义如下的映射$f:S_{n}\to A_{n+2}$, $记\sigma 是S_{n}中的任意一个置换,$
+$$
+f(\sigma)=\begin{cases}
+\sigma, &\sigma为偶置换\\ \\
+\sigma\circ(n+1,n+2), &\sigma为奇置换
+\end{cases}
+$$
+下证明f为单射。
+$\forall \sigma_{1},\sigma_{2}\in S_{n}, f(\sigma_{1})=f(\sigma_{2})$
 

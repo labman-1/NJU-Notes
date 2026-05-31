@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
+                "file": "NJU-notes/SICP/SICP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex常用数学公式与符号"
+              "title": "SICP"
             }
           }
         ],
@@ -223,8 +223,8 @@
   },
   "active": "2734d33cea264c8d",
   "lastOpenFiles": [
-    "NJU-notes/数学/离散数学/P10.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
+    "NJU-notes/数学/离散数学/P10.md",
     "NJU-notes/数学/离散数学/笔试真题.md",
     "NJU-notes/数学/离散数学/抽象代数.md",
     "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",

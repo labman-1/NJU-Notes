@@ -73,36 +73,6 @@ LaTeX 数学公式分为**行内公式**（`$...$`）和**独立公式**（`\[..
 
 ---
 
-## 5. 括号与分隔符
-| 符号 | 代码 |
-|------|------|
-| ( ) | `( )` |
-| [ ] | `[ ]` |
-| { } | `\{ \}` |
-| 自适应 | `\left( \right)` |
-| 大括号 | `\begin{cases} ... \end{cases}` |
-
----
-
-## 6. 分数与根式
-| 符号 | 代码 |
-|------|------|
-| 分数 | `\frac{分子}{分母}` |
-| 根式 | `\sqrt{表达式}` |
-| n次根 | `\sqrt[n]{表达式}` |
-
----
-
-## 7. 上下标
-| 效果 | 代码 |
-|------|------|
-| x² | `x^{2}` |
-| xᵢ | `x_{i}` |
-| x_{ij} | `x_{ij}` |
-| e^{i\pi} | `e^{i\pi}` |
-
----
-
 ## 8. 矩阵
 ```latex
 \[
@@ -116,24 +86,6 @@ c & d
 
 ---
 
-## 9. 函数名
-| 标准函数 | 代码 |
-|----------|------|
-| sin, cos | `\sin`, `\cos` |
-| log, ln | `\log`, `\ln` |
-| max, min | `\max`, `\min` |
-| arg | `\arg` |
-| det | `\det` |
-
----
-
-## 10. 箭头
-| 符号 | 代码 | 符号 | 代码 |
-|------|------|------|------|
-| ← | `\leftarrow` | → | `\rightarrow` |
-| ⇐ | `\Leftarrow` | ⇒ | `\Rightarrow` |
-| ↔ | `\leftrightarrow` | ⇔ | `\Leftrightarrow` |
-| ↑ | `\uparrow` | ↓ | `\downarrow` |
 
 ---
 
@@ -151,4 +103,169 @@ c & d
 
 ---
 
-以上是 LaTeX 数学模式中最常用的符号与结构。更多细节可查阅 `amsmath` 宏包文档。
+以下按类别整理群论和图论中常用的 LaTeX 符号代码。
+
+### 一、群论符号
+
+**1. 基本符号**
+
+| 符号 | LaTeX 代码 | 说明 |
+|------|-----------|------|
+| $\trianglelefteq$ | `\trianglelefteq` | 正规子群（也可用 `\unlhd`） |
+| $\trianglerighteq$ | `\trianglerighteq` | 包含正规子群（也可用 `\unrhd`） |
+| $\rtimes$ | `\rtimes` | 半直积 |
+| $\ltimes$ | `\ltimes` | 左半直积 |
+| $\wr$ | `\wr` | 圈积 |
+| $\cong$ | `\cong` | 同构 |
+| $\simeq$ | `\simeq` | 同构/等价 |
+| $\leqslant$ | `\leqslant` | 子群（变体） |
+| $\geqslant$ | `\geqslant` | 包含子群（变体） |
+
+**2. 群族字体**
+
+LaTeX 用黑板粗体表示常见群族：
+
+| 符号 | LaTeX 代码 | 含义 |
+|------|-----------|------|
+| $\mathbb{Z}$ | `\mathbb{Z}` | 整数加群 |
+| $\mathbb{Q}$ | `\mathbb{Q}` | 有理数加群 |
+| $\mathbb{R}$ | `\mathbb{R}` | 实数加群 |
+| $\mathbb{C}$ | `\mathbb{C}` | 复数加群 |
+| $\mathbb{Z}_n$ | `\mathbb{Z}_n` | 模 n 剩余类加群 |
+| $\mathbb{F}_q$ | `\mathbb{F}_q` | q 元有限域 |
+
+**3. 群作用与轨道**
+
+| 符号 | LaTeX 代码 | 说明 |
+|------|-----------|------|
+| $\curvearrowright$ | `\curvearrowright` | 群在集合上的右作用 |
+| $\curvearrowleft$ | `\curvearrowleft` | 群在集合上的左作用 |
+| $\circlearrowright$ | `\circlearrowright` | 作用于自身 |
+| $G \backslash X$ | `G \backslash X` | 轨道空间（右作用） |
+| $X / G$ | `X / G` | 轨道空间（左作用） |
+| $\operatorname{Orb}(x)$ | `\operatorname{Orb}(x)` | x 的轨道 |
+| $\operatorname{Stab}(x)$ | `\operatorname{Stab}(x)` | x 的稳定化子 |
+| $G_x$ | `G_x` | 稳定化子（简写） |
+| $\operatorname{Fix}(g)$ | `\operatorname{Fix}(g)` | g 的不动点集 |
+
+**4. 群构造**
+
+| 符号 | LaTeX 代码 | 说明 |
+|------|-----------|------|
+| $H \leq G$ | `H \leq G` | H 是 G 的子群 |
+| $N \trianglelefteq G$ | `N \trianglelefteq G` | N 是 G 的正规子群 |
+| $G/N$ | `G/N` | 商群 |
+| $G \times H$ | `G \times H` | 直积 |
+| $G \oplus H$ | `G \oplus H` | 直和 |
+| $N \rtimes H$ | `N \rtimes H` | 半直积 |
+| $\langle S \rangle$ | `\langle S \rangle` | S 生成的子群 |
+| $[G, G]$ | `[G, G]` | 换位子群（导群） |
+| $Z(G)$ | `Z(G)` | 中心 |
+| $C_G(x)$ | `C_G(x)` | 中心化子 |
+| $N_G(H)$ | `N_G(H)` | 正规化子 |
+| $\operatorname{Aut}(G)$ | `\operatorname{Aut}(G)` | 自同构群 |
+| $\operatorname{Inn}(G)$ | `\operatorname{Inn}(G)` | 内自同构群 |
+| $\operatorname{Out}(G)$ | `\operatorname{Out}(G)` | 外自同构群 |
+
+**5. 有限群符号**
+
+| 符号 | LaTeX 代码 | 含义 |
+|------|-----------|------|
+| $S_n$ | `S_n` | n 次对称群 |
+| $A_n$ | `A_n` | n 次交错群 |
+| $D_n$ | `D_n` | 二面体群（阶 2n） |
+| $C_n$ | `C_n` | n 阶循环群 |
+| $Q_8$ | `Q_8` | 四元数群 |
+| $|G|$ | `|G|` | 群 G 的阶 |
+| $[G : H]$ | `[G : H]` | H 在 G 中的指数 |
+
+---
+
+### 二、图论符号
+
+**1. 基本图符号**
+
+| 符号 | LaTeX 代码 | 说明 |
+|------|-----------|------|
+| $G = (V, E)$ | `G = (V, E)` | 图的定义（顶点集 V，边集 E） |
+| $|V(G)|$ | `|V(G)|` | 顶点数（阶） |
+| $|E(G)|$ | `|E(G)|` | 边数 |
+| $\operatorname{ord}(G)$ | `\operatorname{ord}(G)` | 图的阶 |
+| $e(G)$ | `e(G)` | 边数简写 |
+| $u \sim v$ | `u \sim v` | u 与 v 相邻 |
+| $uv \in E$ | `uv \in E` | 边 uv 属于边集 |
+| $N(v)$ | `N(v)` | 顶点 v 的邻域 |
+| $N[v]$ | `N[v]` | 闭邻域 |
+| $\deg(v)$ | `\deg(v)` | 顶点 v 的度 |
+| $\Delta(G)$ | `\Delta(G)` | 最大度 |
+| $\delta(G)$ | `\delta(G)` | 最小度 |
+
+**2. 常见图族字体**
+
+通常用黑板粗体或斜体表示特殊图：
+
+```latex
+K_n        % 完全图
+\overline{K}_n   % 空图（n 个独立点）
+P_n        % n 个顶点的路
+C_n        % n 个顶点的圈
+K_{m,n}    % 完全二部图
+W_n        % 轮图（n+1 个顶点）
+```
+
+**3. 图参数与不变量**
+
+| 符号 | LaTeX 代码 | 说明 |
+|------|-----------|------|
+| $\chi(G)$ | `\chi(G)` | 色数 |
+| $\chi'(G)$ | `\chi'(G)` | 边色数 |
+| $\omega(G)$ | `\omega(G)` | 团数 |
+| $\alpha(G)$ | `\alpha(G)` | 独立数 |
+| $\kappa(G)$ | `\kappa(G)` | 点连通度 |
+| $\kappa'(G)$ | `\kappa'(G)` | 边连通度 |
+| $\tau(G)$ | `\tau(G)` | 点覆盖数 |
+| $\nu(G)$ | `\nu(G)` | 匹配数 |
+| $\operatorname{diam}(G)$ | `\operatorname{diam}(G)` | 直径 |
+| $\operatorname{girth}(G)$ | `\operatorname{girth}(G)` | 围长 |
+| $\operatorname{rad}(G)$ | `\operatorname{rad}(G)` | 半径 |
+| $\operatorname{Aut}(G)$ | `\operatorname{Aut}(G)` | 自同构群 |
+
+**4. 图运算与关系**
+
+| 符号 | LaTeX 代码 | 说明 |
+|------|-----------|------|
+| $G \cong H$ | `G \cong H` | 图同构 |
+| $G \cup H$ | `G \cup H` | 图的并 |
+| $G \cap H$ | `G \cap H` | 图的交 |
+| $G \vee H$ | `G \vee H` | 图的联 (join) |
+| $G \square H$ | `G \square H` | 笛卡尔积 (Cartesian product) |
+| $G \boxtimes H$ | `G \boxtimes H` | 强积 (strong product) |
+| $G \times H$ | `G \times H` | 直积 / 张量积 |
+| $G - v$ | `G - v` | 删除顶点 v |
+| $G - e$ | `G - e` | 删除边 e |
+| $G/e$ | `G/e` | 收缩边 e |
+| $\overline{G}$ | `\overline{G}` | G 的补图 |
+| $G[X]$ | `G[X]` | X 的诱导子图 |
+
+**5. 特殊边集与子图**
+
+| 符号 | LaTeX 代码 | 说明 |
+|------|-----------|------|
+| $E(S, T)$ | `E(S, T)` | S 与 T 之间的边割 |
+| $\partial(S)$ | `\partial(S)` | S 的边边界 |
+| $K_n \square K_m$ | `K_n \square K_m` | 需要 `\square`，需 `\usepackage{amssymb}` |
+| $\boxtimes$ | `\boxtimes` | 强积符号，需 `\usepackage{amssymb}` |
+
+---
+
+### 三、常用宏包与导言区
+
+建议在导言区加入：
+
+```latex
+\usepackage{amsmath, amssymb, amsthm}   % 数学基础
+\usepackage{mathtools}                  % 增强数学排版
+\usepackage{mathrsfs}                   % \mathscr 花体字体
+```
+
+

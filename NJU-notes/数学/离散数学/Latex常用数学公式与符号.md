@@ -215,20 +215,20 @@ W_n        % 轮图（n+1 个顶点）
 
 **3. 图参数与不变量**
 
-| 符号 | LaTeX 代码 | 说明 |
-|------|-----------|------|
-| $\chi(G)$ | `\chi(G)` | 色数 |
-| $\chi'(G)$ | `\chi'(G)` | 边色数 |
-| $\omega(G)$ | `\omega(G)` | 团数 |
-| $\alpha(G)$ | `\alpha(G)` | 独立数 |
-| $\kappa(G)$ | `\kappa(G)` | 点连通度 |
-| $\kappa'(G)$ | `\kappa'(G)` | 边连通度 |
-| $\tau(G)$ | `\tau(G)` | 点覆盖数 |
-| $\nu(G)$ | `\nu(G)` | 匹配数 |
-| $\operatorname{diam}(G)$ | `\operatorname{diam}(G)` | 直径 |
-| $\operatorname{girth}(G)$ | `\operatorname{girth}(G)` | 围长 |
-| $\operatorname{rad}(G)$ | `\operatorname{rad}(G)` | 半径 |
-| $\operatorname{Aut}(G)$ | `\operatorname{Aut}(G)` | 自同构群 |
+| 符号                        | LaTeX 代码                  | 说明   |
+| ------------------------- | ------------------------- | ---- |
+| $\chi(G)$                 | `\chi(G)`                 | 色数   |
+| $\chi'(G)$                | `\chi'(G)`                | 边色数  |
+| $\omega(G)$               | `\omega(G)`               | 团数   |
+| $\alpha(G)$               | `\alpha(G)`               | 独立数  |
+| $\kappa(G)$               | `\kappa(G)`               | 点连通度 |
+| $\kappa'(G) /\lambda(G)$  | `\kappa'(G)`              | 边连通度 |
+| $\tau(G)$                 | `\tau(G)`                 | 点覆盖数 |
+| $\nu(G)$                  | `\nu(G)`                  | 匹配数  |
+| $\operatorname{diam}(G)$  | `\operatorname{diam}(G)`  | 直径   |
+| $\operatorname{girth}(G)$ | `\operatorname{girth}(G)` | 围长   |
+| $\operatorname{rad}(G)$   | `\operatorname{rad}(G)`   | 半径   |
+| $\operatorname{Aut}(G)$   | `\operatorname{Aut}(G)`   | 自同构群 |
 
 **4. 图运算与关系**
 

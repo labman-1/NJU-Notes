@@ -79,23 +79,3 @@ for(int i=0; i<4; i++) {
 
 
 
-证明：定义如下的映射$f:S_{n}\to A_{n+2}$, $记\sigma 是S_{n}中的任意一个置换,$
-$$
-f(\sigma)=\begin{cases}
-\sigma, &\sigma为偶置换\\ \\
-\sigma\circ(n+1,n+2), &\sigma为奇置换
-\end{cases}
-$$
-下证明f为单射。
-$\forall \sigma_{1},\sigma_{2}\in S_{n}\land f(\sigma_{1})=f(\sigma_{2}),下面分情况讨论。$
-当$\sigma_{1}, \sigma_{2}$中一个为奇置换，一个为偶置换时，显然$f(\sigma_{1})与f(\sigma_{2})$中一个含有对换(n+1,n+2)，另一个不含对换(n+1,n+2)，不符合条件；
-当$\sigma_{1}与\sigma_{2}$均为偶置换时，由$f(\sigma_{1})=f(\sigma_{2})$得$\sigma_{1}=\sigma_{2}$.
-当$\sigma_{1}与\sigma_{2}$均为奇置换时，由$f(\sigma_{1})=f(\sigma_{2})$得$\sigma_{1}\circ(n+1,n+2)=\sigma_{2}\circ(n+1,n+2)$, 又因为$\sigma_{1}与\sigma_{2}$中不含对换(n+1,n+2)，所以有$\sigma_{1}=\sigma_{2}$.
-所以$\forall \sigma_{1},\sigma_{2}\in S_{n},(f(\sigma_{1})=f(\sigma_{2}))\to(\sigma_{1}=\sigma_{2})$, 所以f为单射。
-下面证明f满足同态性质。
-$\forall \sigma,\gamma\in S_{n},下面分奇偶进行讨论。$
-因为$\sigma,\gamma$均未涉及元素n+1, n+2，所以$(n+1,n+2)可分别与\sigma,\gamma交换顺序$。
-当$\sigma,\gamma$中一个为奇置换，一个为偶置换时，不妨设$\sigma$为奇置换，$\gamma$为偶置换。则$f(\sigma)=\sigma\circ(n+1,n+2),f(\gamma)=\gamma$.所以$f(\sigma)f(\gamma)=\sigma \circ(n+1,n+2)\circ\gamma$，所以$f(\sigma)f(\gamma)=\sigma\circ\gamma\circ(n+1,n+2)=f(\sigma\circ\gamma)$ (显然$\sigma\circ\gamma$为奇置换)。
-当$\sigma,\gamma$均为偶置换时，显然有$f(\sigma\circ\gamma)=\sigma\circ\gamma=f(\sigma)f(\gamma)$.
-当$\sigma,\gamma$均为奇置换时，显然有$f(\sigma)\circ f(\gamma)=\sigma\circ(n+1,n+2)\circ\gamma\circ(n+1,n+2)=\sigma\circ\gamma\circ(n+1,n+2)\circ(n+1,n+2)=\sigma\circ\gamma=f(\sigma\circ\gamma)$.
-所以f满足同态性质，所以$S_{n}$同构于$A_{n}$

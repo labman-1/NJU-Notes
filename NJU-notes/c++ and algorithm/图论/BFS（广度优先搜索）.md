@@ -87,5 +87,9 @@ f(\sigma)=\begin{cases}
 \end{cases}
 $$
 下证明f为单射。
-$\forall \sigma_{1},\sigma_{2}\in S_{n}, f(\sigma_{1})=f(\sigma_{2})$
-
+$\forall \sigma_{1},\sigma_{2}\in S_{n}\land f(\sigma_{1})=f(\sigma_{2}),下面分情况讨论。$
+当$\sigma_{1}, \sigma_{2}$中一个为奇置换，一个为偶置换时，显然$f(\sigma_{1})与f(\sigma_{2})$中一个含有对换(n+1,n+2)，另一个不含对换(n+1,n+2)，不符合条件；
+当$\sigma_{1}与\sigma_{2}$均为偶置换时，由$f(\sigma_{1})=f(\sigma_{2})$得$\sigma_{1}=\sigma_{2}$.
+当$\sigma_{1}与\sigma_{2}$均为奇置换时，由$f(\sigma_{1})=f(\sigma_{2})$得$\sigma_{1}\circ(n+1,n+2)=\sigma_{2}\circ(n+1,n+2)$, 又因为$\sigma_{1}与\sigma_{2}$中不含对换(n+1,n+2)，所以有$\sigma_{1}=\sigma_{2}$.
+所以$\forall \sigma_{1},\sigma_{2}\in S_{n},(f(\sigma_{1})=f(\sigma_{2}))\to(\sigma_{1}=\sigma_{2})$, 所以f为单射。
+下面证明f满足同态性质。

@@ -35,8 +35,7 @@
               "title": "编译器与内存安全防御"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +220,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce383e844c0150d9",
+  "active": "583eb87440b1c411",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
     "NJU-notes/c++ and algorithm/面向对象/函数式编程.md",
     "NJU-notes/c++ and algorithm/面向对象/虚函数、虚基类、多重继承.md",
     "NJU-notes/数学/离散数学/笔试真题.md",
@@ -244,7 +244,6 @@
     "NJU-notes/数学/离散数学/P15.md",
     "未命名.md",
     "NJU-notes/c++ and algorithm/面向对象/内存安全.md",
-    "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
     "NJU-notes/assets/P15_202605282238.png",
     "NJU-notes/assets/P15_202605282236.png",
     "NJU-notes/assets/P15_202605282226.png",

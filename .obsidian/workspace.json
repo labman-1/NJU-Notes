@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/SICP/SICP.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SICP"
+              "title": "区间DP"
             }
           }
         ],
@@ -223,6 +223,11 @@
   },
   "active": "2734d33cea264c8d",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/动态规划/线性/最长公共子序列LCP.md",
+    "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
+    "NJU-notes/c++ and algorithm/动态规划/背包问题/背包问题.md",
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/SICP/SICP.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/数学/离散数学/P10.md",
     "NJU-notes/数学/离散数学/笔试真题.md",
@@ -231,11 +236,7 @@
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
-    "NJU-notes/c++ and algorithm/动态规划/背包问题/背包问题.md",
-    "NJU-notes/c++ and algorithm/动态规划/线性/最长公共子序列LCP.md",
     "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
-    "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/面向对象/虚函数、虚基类、多重继承.md",
     "NJU-notes/数学/离散数学/P15.md",
     "未命名.md",
@@ -258,7 +259,6 @@
     "NJU-notes/数学/离散数学/P14.md",
     "NJU-notes/数学/离散数学/优势关系.md",
     "NJU-notes/DLCO/实验7.md",
-    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "P11_202605041030.base",
     "NJU-notes/c++ and algorithm/小焚决/未命名",

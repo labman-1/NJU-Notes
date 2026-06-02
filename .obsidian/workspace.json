@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
+                "file": "NJU-notes/c++ and algorithm/小焚决/离散化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树状数组"
+              "title": "离散化"
             }
           }
         ]
@@ -208,10 +208,11 @@
   },
   "active": "ce383e844c0150d9",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/小焚决/快速初始化.md",
+    "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "NJU-notes/c++ and algorithm/小焚决/离散化.md",
     "NJU-notes/c++ and algorithm/小焚决/快读快写.md",
     "NJU-notes/c++ and algorithm/小焚决/高精度.md",
-    "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "NJU-notes/c++ and algorithm/小焚决/欧拉线性筛与bitset针对1e8素数.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
@@ -219,7 +220,6 @@
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/面向对象/类型安全.md",
     "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
-    "NJU-notes/c++ and algorithm/小焚决/快速初始化.md",
     "NJU-notes/c++ and algorithm/排序/排序.md",
     "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",

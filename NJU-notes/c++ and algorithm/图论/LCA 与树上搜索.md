@@ -1,4 +1,4 @@
-[P1967 [NOIP 2013 提高组] 货车运输 - 洛谷](https://www.luogu.com.cn/problem/P1967)
+# [P1967 [NOIP 2013 提高组] 货车运输 - 洛谷](https://www.luogu.com.cn/problem/P1967)
 本题为无向图，不存在自环，可能有重边，不保证连通性，说明可能为森林。货车最大载重为从城市x到y的所有路径的最小道路限重的最大值，则需要求最大生成树。通过Kruscal对输入的边进行排序然后重构最大生成树，得到新的树/森林，这里保留了所需的所有信息（连通性、路径限重最大值）。  
 然后需要进行q次树上查询，朴素的解法复杂度为O(nq)，显然不行。此查询问题等价于查询LCA，通过倍增法可将复杂度降低到(qlogn)。  
 易错点：
@@ -177,3 +177,71 @@ int main() {
     return 0;
 }
 ```
+# [P3379 【模板】最近公共祖先（LCA） - 洛谷](https://www.luogu.com.cn/problem/P3379)
+本题就是最为基础的板子题。。。
+```c++
+#include<bits/stdc++.h>
+using namespace std;
+constexpr int MAX=500005;
+int n,m,s;
+int fa[MAX][20];
+vector<int>adj[MAX];
+int depth[MAX];
+void dfs(int u,int p){
+	for(int i = 1;i<=19;i++){
+		fa[u][i]=fa[fa[u][i-1]][i-1];
+	}
+	for(auto i:adj[u]){
+		if(i!=p){
+			depth[i]=depth[u]+1;
+		fa[i][0]=u;
+		dfs(i,u);
+		}
+	}
+} 
+int LCA(int a,int b){
+	if(a==b)return a;
+	if(depth[a]<depth[b]){
+		swap(a,b);
+	}
+	for(int i = 19;i>=0;i--){
+		if(depth[fa[a][i]]>=depth[b]){
+			a=fa[a][i];
+		}
+	}
+	if(a==b)return a;
+	for(int i = 19;i>=0;i--){
+		if(fa[a][i]!=fa[b][i]){
+			a=fa[a][i];
+			b=fa[b][i];
+		}
+	}
+	return fa[a][0];
+} 
+
+
+int main(){
+	ios::sync_with_stdio(false);cin.tie(0);
+	cin>>n>>m>>s;
+	for(int i = 1;i<=n-1;i++){
+		int x,y;
+		cin>>x>>y;
+		adj[x].push_back(y);
+		adj[y].push_back(x);
+	}
+	depth[s]=1;
+	dfs(s,s);
+	for(int i= 1;i<=m;i++){
+		int a,b;
+		cin>>a>>b;
+		cout<<LCA(a,b)<<'\n';
+	}
+	return 0;
+}
+
+```
+
+
+
+
+

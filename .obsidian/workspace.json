@@ -35,8 +35,7 @@
               "title": "完全背包 疯狂采药"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +220,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "288e710e3cb3322c",
+  "active": "ce383e844c0150d9",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
+    "NJU-notes/assets/笔试真题_202606041110.png",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
+    "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
     "NJU-notes/c++ and algorithm/图论/LCA 与树上搜索.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/机试.md",
@@ -254,7 +254,6 @@
     "NJU-notes/c++ and algorithm/数据结构/差分数组与前缀和数组.md",
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
     "NJU-notes/c++ and algorithm/贪心/贪心.md",
-    "NJU-notes/c++ and algorithm/图论/SPFA检测负环.md",
     "NJU-notes/assets/P15_202605282238.png",
     "NJU-notes/assets/P15_202605282236.png",
     "NJU-notes/assets/P15_202605282226.png",

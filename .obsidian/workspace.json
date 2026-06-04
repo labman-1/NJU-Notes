@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
+                "file": "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "完全背包 疯狂采药"
+              "title": "[模板]最长上升子序列"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +221,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce383e844c0150d9",
+  "active": "288e710e3cb3322c",
   "lastOpenFiles": [
-    "NJU-notes/assets/笔试真题_202606041110.png",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/完全背包 疯狂采药.md",
+    "NJU-notes/数学/离散数学/笔试真题.md",
+    "NJU-notes/assets/笔试真题_202606041110.png",
     "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
     "NJU-notes/c++ and algorithm/图论/LCA 与树上搜索.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
@@ -236,7 +238,6 @@
     "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/数学/离散数学/笔试真题.md",
     "NJU-notes/assets/机试_202606021710.png",
     "NJU-notes/assets/机试_202606021709.png",
     "NJU-notes/c++ and algorithm/小焚决/离散化.md",
@@ -257,7 +258,6 @@
     "NJU-notes/assets/P15_202605282238.png",
     "NJU-notes/assets/P15_202605282236.png",
     "NJU-notes/assets/P15_202605282226.png",
-    "NJU-notes/assets/P15_202605281352.png",
     "Lesson 1、2、3 语言与进制_202603121037.base",
     "P11_202605041030.base",
     "NJU-notes/c++ and algorithm/小焚决/未命名",

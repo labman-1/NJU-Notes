@@ -49,8 +49,7 @@
               "title": "BFS（广度优先搜索）"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +234,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "504eef77694d81ff",
+  "active": "b636ee280364caca",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/BFS（广度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
     "NJU-notes/c++ and algorithm/小焚决/高精度.md",
@@ -264,7 +264,6 @@
     "NJU-notes/c++ and algorithm/动态规划/区间DP.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/数字三角形.md",
     "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
-    "NJU-notes/c++ and algorithm/贪心/贪心.md",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "NJU-notes/assets/笔试真题_202606041716.png",
     "NJU-notes/assets/笔试真题_202606041611.png",

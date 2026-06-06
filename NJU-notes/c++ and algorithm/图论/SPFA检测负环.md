@@ -5,85 +5,45 @@ https://www.luogu.com.cn/problem/P3385
 #### 写法一：使用vector较为直观
 ```c++
 #include<bits/stdc++.h>
-
 const int INF= 0x3f3f3f3f;
-
 using namespace std;
-
 struct Edge{
-
     int v, w;
-
     Edge(int a, int b) : v(a), w(b) {}
-
 };
-
 int t;
-
 vector<int>head,nxt,cnt;
-
 vector<Edge>to;
-
 vector<bool>inQueue;
-
 vector<int>dist;
-
 void add(int u, int v,int w){
-
     nxt.push_back(head[u]);
-
     head[u]=to.size();
-
     to.push_back(Edge(v,w));
-
 }
-
 void solve(){
-
     int n,m;
-
     cin>>n>>m;
-
     head.assign(n+1,-1);
-
     inQueue.assign(n+1,false);
-
     to.clear();
-
     nxt.clear();
-
     for(int i = 0;i<m;i++){
-
         int u,v,w;
-
         cin>>u>>v>>w;
-
         if(w>=0){
-
             add(v,u,w);
-
         }
-
         add(u,v,w);
-
     }
-
     dist.assign(n+1,INF);
-
     dist[1]=0;
-
     queue<int>q;
-
     q.push(1);
-
     inQueue[1]=true;
-
     cnt.assign(n+1,0);
-
     cnt[1]=1;
-
     bool neg=0;
-
     while(!q.empty()){
 
         int u = q.front();

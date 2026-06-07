@@ -204,18 +204,21 @@ int LCA(int a,int b){
 	if(depth[a]<depth[b]){
 		swap(a,b);
 	}
+	//深度对齐
 	for(int i = 19;i>=0;i--){
 		if(depth[fa[a][i]]>=depth[b]){
 			a=fa[a][i];
 		}
 	}
 	if(a==b)return a;
+	//一起跳
 	for(int i = 19;i>=0;i--){
 		if(fa[a][i]!=fa[b][i]){
 			a=fa[a][i];
 			b=fa[b][i];
 		}
 	}
+	//跳完a，b位于LCA正下方
 	return fa[a][0];
 } 
 

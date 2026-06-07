@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/图论/LCA 与树上搜索.md",
+                "file": "NJU-notes/c++ and algorithm/数据结构/bitset备忘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LCA 与树上搜索"
+              "title": "bitset备忘"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "b636ee280364caca",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/LCA 与树上搜索.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/贪心/贪心.md",
@@ -233,7 +234,6 @@
     "NJU-notes/c++ and algorithm/小焚决/离散化.md",
     "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
     "NJU-notes/c++ and algorithm/贪心/重叠线段问题.md",
-    "NJU-notes/c++ and algorithm/贪心/推销员（累加与极值并存）.md",
     "NJU-notes/assets/笔试真题_202606051702.png",
     "NJU-notes/assets/机试_202606051156.png",
     "NJU-notes/assets/笔试真题_202606051107.png",

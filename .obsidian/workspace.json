@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/面向对象/函数式编程.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "函数式编程"
+              "title": "未命名"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "b636ee280364caca",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/面向对象/函数式编程.md",
     "NJU-notes/SICP/SQL/ai有话说.md",
     "NJU-notes/SICP/SQL/SQL.md",
     "NJU-notes/SICP/SICP.md",
@@ -216,7 +217,6 @@
     "NJU-notes/c++ and algorithm/面向对象/类型安全.md",
     "NJU-notes/c++ and algorithm/面向对象/内存安全.md",
     "NJU-notes/c++ and algorithm/面向对象/虚函数、虚基类、多重继承.md",
-    "NJU-notes/c++ and algorithm/面向对象/函数式编程.md",
     "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
     "NJU-notes/c++ and algorithm/数据结构/bitset备忘.md",
     "NJU-notes/c++ and algorithm/图论/LCA 与树上搜索.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/数据结构/bitset备忘.md",
+                "file": "NJU-notes/SICP/SICP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bitset备忘"
+              "title": "SICP"
             }
           }
         ]
@@ -208,11 +208,19 @@
   },
   "active": "b636ee280364caca",
   "lastOpenFiles": [
+    "NJU-notes/SICP/OOP/OOP.md",
+    "NJU-notes/SICP/SICP.md",
+    "NJU-notes/c++ and algorithm/面向对象/智能指针.md",
+    "NJU-notes/c++ and algorithm/面向对象/类型安全.md",
+    "NJU-notes/c++ and algorithm/面向对象/内存安全.md",
+    "NJU-notes/c++ and algorithm/面向对象/虚函数、虚基类、多重继承.md",
+    "NJU-notes/c++ and algorithm/面向对象/函数式编程.md",
+    "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
+    "NJU-notes/c++ and algorithm/数据结构/bitset备忘.md",
     "NJU-notes/c++ and algorithm/图论/LCA 与树上搜索.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
     "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
     "NJU-notes/c++ and algorithm/贪心/贪心.md",
-    "NJU-notes/c++ and algorithm/数据结构/bitset备忘.md",
     "NJU-notes/c++ and algorithm/数据结构/图.md",
     "NJU-notes/c++ and algorithm/二分.md",
     "NJU-notes/c++ and algorithm/小焚决/wa调试焚决.md",
@@ -226,14 +234,6 @@
     "NJU-notes/数学/笔试真题.md",
     "NJU-notes/数学/微积分/拉格朗日乘数法.md",
     "NJU-notes/数学/微积分/极限.md",
-    "NJU-notes/c++ and algorithm/小焚决/复杂条件判断：解耦.md",
-    "NJU-notes/c++ and algorithm/小焚决/高精度.md",
-    "NJU-notes/c++ and algorithm/小焚决/格式化输入输出.md",
-    "NJU-notes/c++ and algorithm/小焚决/看穿题目暗示.md",
-    "NJU-notes/c++ and algorithm/小焚决/快速初始化.md",
-    "NJU-notes/c++ and algorithm/小焚决/离散化.md",
-    "NJU-notes/c++ and algorithm/小焚决/小焚决.md",
-    "NJU-notes/c++ and algorithm/贪心/重叠线段问题.md",
     "NJU-notes/assets/笔试真题_202606051702.png",
     "NJU-notes/assets/机试_202606051156.png",
     "NJU-notes/assets/笔试真题_202606051107.png",

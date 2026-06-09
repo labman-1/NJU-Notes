@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/离散数学/P17.md",
+                "file": "NJU-notes/DLCO/实验6、单周期CPU设计与测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P17"
+              "title": "实验6、单周期CPU设计与测试"
             }
           }
         ]
@@ -208,19 +208,21 @@
   },
   "active": "b636ee280364caca",
   "lastOpenFiles": [
-    "P17_202606091551.canvas",
+    "NJU-notes/DLCO/组合逻辑电路.md",
+    "NJU-notes/DLCO/实验3 同步时序部件设计.md",
+    "NJU-notes/DLCO/第7章课后习题.md",
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/数学/离散数学/P17.md",
+    "P17_202606091551.canvas",
     "NJU-notes/数学/离散数学/P3.md",
     "NJU-notes/数学/离散数学/P16.md",
     "NJU-notes/数学/离散数学/P15.md",
     "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/DLCO/实验6.md",
+    "NJU-notes/DLCO/实验6、单周期CPU设计与测试.md",
     "NJU-notes/assets/实验6_202606080905.png",
     "NJU-notes/assets/实验6_202606080813.png",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
-    "NJU-notes/DLCO/第7章课后习题.md",
     "未命名.md",
     "NJU-notes/c++ and algorithm/面向对象/函数式编程.md",
     "NJU-notes/SICP/SQL/ai有话说.md",
@@ -235,7 +237,6 @@
     "NJU-notes/c++ and algorithm/数据结构/bitset备忘.md",
     "NJU-notes/c++ and algorithm/图论/LCA 与树上搜索.md",
     "NJU-notes/c++ and algorithm/图论/DFS（深度优先搜索）.md",
-    "NJU-notes/c++ and algorithm/贪心/贪心.md",
     "NJU-notes/assets/笔试真题_202606051702.png",
     "NJU-notes/assets/机试_202606051156.png",
     "NJU-notes/assets/笔试真题_202606051107.png",

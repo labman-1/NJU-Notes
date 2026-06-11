@@ -206,11 +206,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+  "floating": {
+    "id": "4f555806ede75c8f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cdba41e34f67091a",
+        "type": "window",
+        "children": [
+          {
+            "id": "1d1da8b9d2715f60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c597c25411a87a59",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "NJU-notes/assets/第8章课后习题_202606111655.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "第8章课后习题_202606111655"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 742,
+        "y": 159,
+        "width": 1024,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "b636ee280364caca",
   "lastOpenFiles": [
     "NJU-notes/assets/第8章课后习题_202606111655.png",
-    "NJU-notes/DLCO/第7章课后习题.md",
     "NJU-notes/DLCO/第8章课后习题.md",
+    "NJU-notes/DLCO/第7章课后习题.md",
     "1.md",
     "P17_202606091551.canvas",
     "NJU-notes/c++ and algorithm/面向对象/未命名.md",
@@ -226,7 +263,6 @@
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091751.png",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091720-2.png",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091720-1.png",
-    "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091720.png",
     "NJU-notes/DLCO/组合逻辑电路.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/数学/离散数学/P17.md",

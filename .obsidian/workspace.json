@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.md",
+                "file": "NJU-notes/DLCO/第8章课后习题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "第8章课后习题"
             }
           }
         ]
@@ -208,8 +208,10 @@
   },
   "active": "b636ee280364caca",
   "lastOpenFiles": [
-    "P17_202606091551.canvas",
+    "NJU-notes/DLCO/第7章课后习题.md",
+    "NJU-notes/DLCO/第8章课后习题.md",
     "1.md",
+    "P17_202606091551.canvas",
     "NJU-notes/c++ and algorithm/面向对象/未命名.md",
     "NJU-notes/c++ and algorithm/面向对象/智能指针.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
@@ -226,7 +228,6 @@
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091720.png",
     "NJU-notes/DLCO/组合逻辑电路.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
-    "NJU-notes/DLCO/第7章课后习题.md",
     "NJU-notes/数学/离散数学/P17.md",
     "NJU-notes/数学/离散数学/P3.md",
     "NJU-notes/数学/离散数学/P16.md",

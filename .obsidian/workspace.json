@@ -206,43 +206,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "b70a62562c5bff44",
-    "type": "floating",
-    "children": [
-      {
-        "id": "88c90c085cafce2a",
-        "type": "window",
-        "children": [
-          {
-            "id": "26e3568a7519d9e8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9404e8be1ec09c75",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "NJU-notes/assets/第8章课后习题_202606121402.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "第8章课后习题_202606121402"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 282,
-        "y": 36,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "b636ee280364caca",
   "lastOpenFiles": [
     "NJU-notes/assets/第8章课后习题_202606121402.png",

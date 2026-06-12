@@ -211,41 +211,42 @@
     "type": "floating",
     "children": [
       {
-        "id": "c7cb9f03a9bab22b",
+        "id": "88c90c085cafce2a",
         "type": "window",
         "children": [
           {
-            "id": "20c9c946576cd7ec",
+            "id": "26e3568a7519d9e8",
             "type": "tabs",
             "children": [
               {
-                "id": "ba57407f267fdb1c",
+                "id": "9404e8be1ec09c75",
                 "type": "leaf",
                 "state": {
                   "type": "image",
                   "state": {
-                    "file": "NJU-notes/assets/第8章课后习题_202606121135.png"
+                    "file": "NJU-notes/assets/第8章课后习题_202606121402.png"
                   },
                   "icon": "lucide-image",
-                  "title": "第8章课后习题_202606121135"
+                  "title": "第8章课后习题_202606121402"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 694,
-        "y": 72,
-        "width": 1024,
-        "height": 800,
+        "x": 341,
+        "y": 133,
+        "width": 1025,
+        "height": 801,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ba57407f267fdb1c",
+  "active": "9404e8be1ec09c75",
   "lastOpenFiles": [
     "NJU-notes/DLCO/第8章课后习题.md",
+    "NJU-notes/assets/第8章课后习题_202606121402.png",
     "NJU-notes/assets/第8章课后习题_202606121135.png",
     "NJU-notes/assets/第8章课后习题_202606111655.png",
     "NJU-notes/DLCO/第7章课后习题.md",
@@ -262,7 +263,6 @@
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091754.png",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091753.png",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091751.png",
-    "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091720-2.png",
     "NJU-notes/DLCO/组合逻辑电路.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/数学/离散数学/P17.md",

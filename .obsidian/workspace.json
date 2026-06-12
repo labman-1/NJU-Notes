@@ -234,8 +234,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 226,
-        "y": 596,
+        "x": 262,
+        "y": 330,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -243,10 +243,10 @@
       }
     ]
   },
-  "active": "b636ee280364caca",
+  "active": "9404e8be1ec09c75",
   "lastOpenFiles": [
-    "NJU-notes/assets/第8章课后习题_202606121402.png",
     "NJU-notes/DLCO/第8章课后习题.md",
+    "NJU-notes/assets/第8章课后习题_202606121402.png",
     "NJU-notes/assets/第8章课后习题_202606121135.png",
     "NJU-notes/assets/第8章课后习题_202606111655.png",
     "NJU-notes/DLCO/第7章课后习题.md",

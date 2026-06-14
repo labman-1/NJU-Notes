@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/第8章课后习题.md",
+                "file": "NJU-notes/DLCO/实验6、单周期CPU设计与测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第8章课后习题"
+              "title": "实验6、单周期CPU设计与测试"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "b636ee280364caca",
   "lastOpenFiles": [
-    "NJU-notes/assets/第8章课后习题_202606121402.png",
     "NJU-notes/DLCO/第8章课后习题.md",
+    "NJU-notes/assets/第8章课后习题_202606141123.png",
+    "NJU-notes/assets/第8章课后习题_202606121402.png",
     "NJU-notes/assets/第8章课后习题_202606121135.png",
     "NJU-notes/assets/第8章课后习题_202606111655.png",
     "NJU-notes/DLCO/第7章课后习题.md",
@@ -225,7 +226,6 @@
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091755.png",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091754.png",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091753.png",
-    "NJU-notes/assets/实验6、单周期CPU设计与测试_202606091751.png",
     "NJU-notes/DLCO/组合逻辑电路.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
     "NJU-notes/数学/离散数学/P17.md",

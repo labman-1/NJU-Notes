@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/第六章课后习题.md",
+                "file": "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章课后习题"
+              "title": "实验1：基本逻辑部件设计 实验报告"
             }
           }
         ]
@@ -208,13 +208,14 @@
   },
   "active": "11fb624032bd788b",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
+    "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
+    "NJU-notes/DLCO/第六章课后习题.md",
     "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/DLCO/第三章课后习题.md",
     "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
-    "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/实验4、运算部件设计.md",
-    "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/实验5、存储器及数据通路设计.md",
     "NJU-notes/DLCO/实验6、单周期CPU设计与测试.md",
     "NJU-notes/DLCO/时序逻辑电路.md",
@@ -235,7 +236,6 @@
     "NJU-notes/数学/离散数学/P7.md",
     "NJU-notes/数学/离散数学/P8.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
-    "NJU-notes/数学/离散数学/P9.md",
     "NJU-notes/assets/第8章课后习题_202606141123.png",
     "NJU-notes/assets/第8章课后习题_202606121402.png",
     "NJU-notes/assets/第8章课后习题_202606121135.png",

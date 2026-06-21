@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "cram-engine": {
+      "source": "liuliu667/cram-engine",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "ba686ead45f3107308b0932474af4848d66090428b6c653b65fc434721de0949"
+    }
+  }
+}

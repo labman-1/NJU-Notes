@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/离散数学/抽象代数.md",
+                "file": "NJU-notes/数学/离散数学/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抽象代数"
+              "title": "未命名"
             }
           }
         ]
@@ -206,9 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a429540b28ae1c9",
+  "active": "11fb624032bd788b",
   "lastOpenFiles": [
     "NJU-notes/数学/离散数学/关系.md",
+    "NJU-notes/数学/离散数学/未命名.md",
+    "NJU-notes/数学/离散数学/抽象代数.md",
     "NJU-notes/数学/离散数学/优势关系.md",
     "NJU-notes/数学/离散数学/P18.md",
     "NJU-notes/数学/离散数学/P17.md",
@@ -218,7 +220,6 @@
     "NJU-notes/数学/离散数学/P14.md",
     "NJU-notes/数学/离散数学/P12.md",
     "NJU-notes/数学/离散数学/P2.md",
-    "NJU-notes/数学/离散数学/抽象代数.md",
     "NJU-notes/数学/离散数学/Latex常用数学公式与符号.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "skills-lock.json",
@@ -244,7 +245,6 @@
     "NJU-notes/DLCO/时序逻辑电路.md",
     "NJU-notes/assets/P18_202606152349.jpg",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
-    "NJU-notes/c++ and algorithm/图论/图论.md",
     "P17_202606091551.canvas",
     "NJU-notes/c++ and algorithm/小焚决/未命名",
     "Lesson 1、2、3 语言与进制_202603121037.base",

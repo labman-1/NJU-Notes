@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/DLCO/第7章课后习题.md",
+                "file": "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第7章课后习题"
+              "title": "实验2、组合逻辑部件设计 实验报告"
             }
           }
         ]
@@ -208,8 +208,11 @@
   },
   "active": "11fb624032bd788b",
   "lastOpenFiles": [
+    "NJU-notes/DLCO/第三章课后习题.md",
+    "NJU-notes/DLCO/时序逻辑电路.md",
     "NJU-notes/DLCO/第四章课后习题.md",
     "NJU-notes/DLCO/第8章课后习题.md",
+    "NJU-notes/DLCO/第7章课后习题.md",
     "NJU-notes/数学/离散数学/未命名.md",
     "NJU-notes/数学/离散数学/关系.md",
     "NJU-notes/数学/离散数学/抽象代数.md",
@@ -239,11 +242,8 @@
     "NJU-notes/DLCO/实验1：基本逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
     "NJU-notes/DLCO/第六章课后习题.md",
-    "NJU-notes/DLCO/第三章课后习题.md",
     "NJU-notes/DLCO/第二章课后习题.md",
     "NJU-notes/DLCO/实验3 同步时序部件设计.md",
-    "NJU-notes/DLCO/实验4、运算部件设计.md",
-    "NJU-notes/DLCO/时序逻辑电路.md",
     "NJU-notes/assets/P18_202606152349.jpg",
     "P17_202606091551.canvas",
     "NJU-notes/c++ and algorithm/小焚决/未命名",

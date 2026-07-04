@@ -11,6 +11,7 @@
 - [[ADT]]
 - [[B-Trees]]
 - [[git 入门]]
+- [[HW2]]
 - [[Learn to use the terminal]]
 - [[Project0 2048]]
 - [[Project1 GuitarHero]]

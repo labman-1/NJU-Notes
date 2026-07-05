@@ -11,14 +11,10 @@
             "id": "11fb624032bd788b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NJU-notes/personal learning/cs61b/HW2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HW2"
+              "title": "新标签页"
             }
           }
         ]
@@ -206,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11fb624032bd788b",
+  "active": "6a429540b28ae1c9",
   "lastOpenFiles": [
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/personal learning/cs61b/HW2.md",

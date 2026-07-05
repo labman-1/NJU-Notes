@@ -11,3 +11,11 @@ $n+3\times \frac{n}{3}+ 9\times \frac{n}{9}+\dots$
 (b)Quick Union:最小高度为1，最大高度为15.
 WQU:最小高度为1，最大高度为4.
 (c)
+
+| type\operation | connect     | isConnected |
+| -------------- | ----------- | ----------- |
+| Quick Union    | $\Theta(1)$ | $\Theta(n)$ |
+| WQU            | $\Theta(1)$ | $\Theta(1)$ |
+
+# 4
+

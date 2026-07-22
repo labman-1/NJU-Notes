@@ -14,5 +14,6 @@
 - [[Learn to use the terminal]]
 - [[Project0 2048]]
 - [[Project1 GuitarHero]]
+- [[Shortest Path]]
 
 %% End Waypoint %%

@@ -11,10 +11,14 @@
             "id": "11fb624032bd788b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NJU-notes/c++ and algorithm/图论/最短路径算法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "最短路径算法"
             }
           }
         ]
@@ -202,8 +206,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a429540b28ae1c9",
+  "active": "11fb624032bd788b",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/图论/图论.md",
+    "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
+    "NJU-notes/c++ and algorithm/动态规划/背包问题/背包问题.md",
+    "NJU-notes/c++ and algorithm/动态规划/线性/最长公共子序列LCP.md",
+    "NJU-notes/c++ and algorithm/动态规划/线性/线性dp练习1.md",
+    "NJU-notes/c++ and algorithm/动态规划/线性/[模板]最长上升子序列.md",
+    "NJU-notes/c++ and algorithm/动态规划/背包问题/组合方案背包.md",
+    "NJU-notes/c++ and algorithm/动态规划/背包问题/0_1背包 采药.md",
+    "NJU-notes/c++ and algorithm/面向对象/虚函数、虚基类、多重继承.md",
+    "NJU-notes/c++ and algorithm/面向对象/编译器与内存安全防御.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/personal learning/cs61b/HW2.md",
     "NJU-notes/personal learning/personal learning.md",
@@ -220,16 +234,6 @@
     "NJU-notes/c++ and algorithm/面向对象/未命名.md",
     "NJU-notes/DLCO/标志位.md",
     "NJU-notes/DLCO/实验2、组合逻辑部件设计 实验报告.md",
-    "NJU-notes/DLCO/第三章课后习题.md",
-    "NJU-notes/DLCO/时序逻辑电路.md",
-    "NJU-notes/DLCO/第四章课后习题.md",
-    "NJU-notes/DLCO/第8章课后习题.md",
-    "NJU-notes/DLCO/第7章课后习题.md",
-    "NJU-notes/数学/离散数学/优势关系.md",
-    "NJU-notes/数学/离散数学/P18.md",
-    "NJU-notes/数学/离散数学/P17.md",
-    "NJU-notes/数学/离散数学/P16.md",
-    "NJU-notes/数学/离散数学/P14.md",
     "skills-lock.json",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606161745-1.png",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606161745.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/personal learning/cs61b/Shortest Path.md",
+                "file": "NJU-notes/personal learning/cs61b/MST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortest Path"
+              "title": "MST"
             }
           }
         ]
@@ -209,6 +209,7 @@
   "active": "11fb624032bd788b",
   "lastOpenFiles": [
     "NJU-notes/personal learning/cs61b/cs61b.md",
+    "NJU-notes/personal learning/cs61b/MST.md",
     "NJU-notes/personal learning/cs61b/Shortest Path.md",
     "NJU-notes/personal learning/crash course computer science.md",
     "NJU-notes/personal learning/cs61b/Project1 GuitarHero.md",
@@ -233,7 +234,6 @@
     "NJU-notes/数学/离散数学/抽象代数.md",
     "NJU-notes/数学/离散数学/P11.md",
     "NJU-notes/数学/离散数学/P10.md",
-    "NJU-notes/数学/离散数学/P9.md",
     "skills-lock.json",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606161745-1.png",
     "NJU-notes/assets/实验6、单周期CPU设计与测试_202606161745.png",

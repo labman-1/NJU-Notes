@@ -12,6 +12,7 @@
 - [[B-Trees]]
 - [[git 入门]]
 - [[Learn to use the terminal]]
+- [[MST]]
 - [[Project0 2048]]
 - [[Project1 GuitarHero]]
 - [[Shortest Path]]

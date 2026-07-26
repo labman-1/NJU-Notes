@@ -8,6 +8,7 @@
 - [[10. Subtype Polymorphism vs. HoFs]]
 - [[11. Exceptions, Iterators, Object Methods]]
 - [[14.Disjoint Set]]
+- [[25.Range Searching and Muti-Dimensional Data]]
 - [[ADT]]
 - [[B-Trees]]
 - [[git 入门]]

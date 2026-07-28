@@ -9,6 +9,7 @@
 - [[11. Exceptions, Iterators, Object Methods]]
 - [[14.Disjoint Set]]
 - [[25.Range Searching and Muti-Dimensional Data]]
+- [[26. Prefix Operations and Tries]]
 - [[ADT]]
 - [[B-Trees]]
 - [[git 入门]]

@@ -11,3 +11,5 @@ There are two approaches to managing complexity:
 	- In a modular design, creators of one "module" can use other module without knowing how they worl.
 
 **"Complexity is anytihng related to the structure of a software system that makes it hard to understand and modify the system."**
+![[Software Engineering_202607282342.png]]
+

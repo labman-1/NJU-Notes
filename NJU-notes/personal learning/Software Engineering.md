@@ -12,4 +12,6 @@ There are two approaches to managing complexity:
 
 **"Complexity is anytihng related to the structure of a software system that makes it hard to understand and modify the system."**
 ![[Software Engineering_202607282342.png]]
+![[Software Engineering_202607290014.png]]
+![[Software Engineering_202607290015.png]]
 

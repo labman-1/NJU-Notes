@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/personal learning/Software Engineering.md",
+                "file": "NJU-notes/personal learning/cs61b/Shortest Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Engineering"
+              "title": "Shortest Path"
             }
           }
         ]
@@ -208,11 +208,14 @@
   },
   "active": "11fb624032bd788b",
   "lastOpenFiles": [
+    "NJU-notes/personal learning/cs61b/MST.md",
+    "NJU-notes/personal learning/cs61b/B-Trees.md",
+    "NJU-notes/personal learning/cs61b/25.Range Searching and Muti-Dimensional Data.md",
+    "NJU-notes/personal learning/Software Engineering.md",
     "NJU-notes/assets/Software Engineering_202607290015.png",
     "NJU-notes/assets/Software Engineering_202607290014.png",
     "NJU-notes/assets/Software Engineering_202607282342.png",
     "NJU-notes/personal learning/personal learning.md",
-    "NJU-notes/personal learning/Software Engineering.md",
     "NJU-notes/personal learning/cs61b/26. Prefix Operations and Tries.md",
     "NJU-notes/assets/26. Prefix Operations and Tries_202607281800.png",
     "NJU-notes/assets/26. Prefix Operations and Tries_202607281407.png",
@@ -220,11 +223,8 @@
     "NJU-notes/assets/26. Prefix Operations and Tries_202607281400.png",
     "NJU-notes/assets/26. Prefix Operations and Tries_202607281351.png",
     "NJU-notes/personal learning/cs61b/cs61b.md",
-    "NJU-notes/personal learning/cs61b/25.Range Searching and Muti-Dimensional Data.md",
     "NJU-notes/assets/25.Range Searching and Muti-Dimensional Data_202607271547.png",
     "NJU-notes/assets/25.Range Searching and Muti-Dimensional Data_202607271538.png",
-    "NJU-notes/assets/25.Range Searching and Muti-Dimensional Data_202607271532.png",
-    "NJU-notes/personal learning/cs61b/MST.md",
     "NJU-notes/SICP/SICP.md",
     "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
     "NJU-notes/c++ and algorithm/图论/图论.md",

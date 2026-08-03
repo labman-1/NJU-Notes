@@ -21,4 +21,7 @@ There are two primary sources of complexity:
 - **Dependencies**: When a piece of code cannot be read, understood, and modified independently.
 - **obscurity**: When important information is not obvious.
 
+## Hiding Complexity
+Manage complexity: design your system so that programmer is only thinking about some of the complexity at once.
+- Using helper methods and
 

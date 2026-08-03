@@ -23,5 +23,15 @@ There are two primary sources of complexity:
 
 ## Hiding Complexity
 Manage complexity: design your system so that programmer is only thinking about some of the complexity at once.
-- Using helper methods and
+- Using helper methods and helper class that hides complexity.
+![[Software Engineering_202608032348.png]]
+![[Software Engineering_202608032348-1.png]]
+The most important way to make your modules deep is to practice "information hiding".
+- Embed knowledge and design decision in the module itself, without exposing them to the outside woeld.
+
+Reduces complexity in two ways:
+- Simplifies interface.
+- Makes it easier to modify the system.
+
+
 

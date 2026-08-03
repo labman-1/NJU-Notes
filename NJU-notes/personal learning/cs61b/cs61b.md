@@ -17,6 +17,7 @@
 - [[MST]]
 - [[Project0 2048]]
 - [[Project1 GuitarHero]]
+- [[Project3 BYOW]]
 - [[Shortest Path]]
 - [[Software Engineering]]
 

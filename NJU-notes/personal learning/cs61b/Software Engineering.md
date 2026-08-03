@@ -15,3 +15,10 @@ There are two approaches to managing complexity:
 ![[Software Engineering_202607290014.png]]
 ![[Software Engineering_202607290015.png]]
 
+# 2
+***Your code should reads like a story***
+There are two primary sources of complexity:
+- **Dependencies**: When a piece of code cannot be read, understood, and modified independently.
+- **obscurity**: When important information is not obvious.
+
+

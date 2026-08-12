@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Project3 BYOW"
             }
+          },
+          {
+            "id": "3405ad04118672b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -206,7 +221,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11fb624032bd788b",
+  "active": "3405ad04118672b0",
   "lastOpenFiles": [
     "NJU-notes/assets/Project3 BYOW_202608040003.png",
     "NJU-notes/personal learning/cs61b/cs61b.md",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/健身/三分化.md",
+                "file": "1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三分化"
+              "title": "1"
             }
           }
         ],
@@ -225,8 +225,11 @@
   },
   "active": "3405ad04118672b0",
   "lastOpenFiles": [
-    "NJU-notes/健身/健身.md",
+    "trifles/视觉人文.md",
+    "trifles/科学启蒙.md",
+    "NJU-notes/personal learning/cs61b/Software Engineering.md",
     "NJU-notes/健身/三分化.md",
+    "NJU-notes/健身/健身.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "1.md",
     "NJU-notes/健身",
@@ -235,7 +238,6 @@
     "NJU-notes/personal learning/cs61b/Project3 BYOW.md",
     "NJU-notes/personal learning/cs61b/Project1 GuitarHero.md",
     "NJU-notes/personal learning/cs61b/Project0 2048.md",
-    "NJU-notes/personal learning/cs61b/Software Engineering.md",
     "NJU-notes/personal learning/cs61b/26. Prefix Operations and Tries.md",
     "NJU-notes/assets/Software Engineering_202608032348-1.png",
     "NJU-notes/assets/Software Engineering_202608032348.png",
@@ -260,8 +262,6 @@
     "NJU-notes/assets/26. Prefix Operations and Tries_202607281407.png",
     "NJU-notes/assets/26. Prefix Operations and Tries_202607281403.png",
     "NJU-notes/assets/26. Prefix Operations and Tries_202607281400.png",
-    "NJU-notes/SICP/SICP.md",
-    "NJU-notes/c++ and algorithm/图论/最小生成树（MST）.md",
     "skills-lock.json",
     "P17_202606091551.canvas",
     "NJU-notes/c++ and algorithm/小焚决/未命名",

@@ -12,6 +12,7 @@
 - [[26. Prefix Operations and Tries]]
 - [[ADT]]
 - [[B-Trees]]
+- [[Comparision]]
 - [[git 入门]]
 - [[Learn to use the terminal]]
 - [[MST]]

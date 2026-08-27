@@ -13,6 +13,7 @@
 - [[ADT]]
 - [[B-Trees]]
 - [[Comparision]]
+- [[Compression]]
 - [[git 入门]]
 - [[Learn to use the terminal]]
 - [[MST]]

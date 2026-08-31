@@ -8,9 +8,11 @@ DDOS攻击：使用大量边缘设备（肉机）向服务器发送大量报文�
 
 # Electronic Mail
 One of most heavily used apps on Internet.
+
 SMTP(Simple Mail Transfer Protocol):
 - Delivery of simple text message
+
 MIME: Muti-purpose Internet Mail Extension
 
 POP
-IMAP
+IMAP: Internet Mail Access Protocol

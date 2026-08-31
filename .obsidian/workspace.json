@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/计算机网络/Lesson 2.md",
+                "file": "NJU-notes/计算机网络/Lesson 2 DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 2"
+              "title": "Lesson 2 DNS"
             }
           }
         ]
@@ -211,7 +211,7 @@
   "active": "3405ad04118672b0",
   "lastOpenFiles": [
     "NJU-notes/计算机网络/Lesson 1 introduction(2).md",
-    "NJU-notes/计算机网络/Lesson 2.md",
+    "NJU-notes/计算机网络/Lesson 2 DNS.md",
     "NJU-notes/ics/数据的存储.md",
     "NJU-notes/assets/数据的存储_202608301843.png",
     "NJU-notes/ics",

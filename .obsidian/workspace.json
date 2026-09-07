@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "NJU-notes/计算机网络/Lesson 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Lesson 3"
             }
           }
         ]
@@ -210,10 +210,13 @@
   },
   "active": "1b234b21664c73b2",
   "lastOpenFiles": [
+    "NJU-notes/计算机网络/Lesson 2 DNS.md",
+    "NJU-notes/计算机网络/Lesson 3.md",
+    "NJU-notes/计算机网络/Lesson 1 introduction(2).md",
+    "未命名.md",
     "NJU-notes/assets/未命名_202609062054.png",
     "元认知Lesson2.md",
     "Nova.md",
-    "未命名.md",
     "NJU-notes/网络攻防/Kali安装记.md",
     "NJU-notes/assets/Kali安装记_202609041622.png",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
@@ -225,12 +228,10 @@
     "NJU-notes/assets/Verilog学习_202609032324.png",
     "NJU-notes/assets/Verilog学习_202609032321.png",
     "NJU-notes/dlcoexp/实验报告.md",
-    "NJU-notes/计算机网络/Lesson 1 introduction(2).md",
     "NJU-notes/personal learning/cs61b/Compression.md",
     "NJU-notes/personal learning/cs61b/cs61b.md",
     "NJU-notes/personal learning/personal learning.md",
     "NJU-notes/ics/Linux指令.md",
-    "NJU-notes/计算机网络/Lesson 2 DNS.md",
     "NJU-notes/ics/数据的存储.md",
     "NJU-notes/assets/数据的存储_202608301843.png",
     "NJU-notes/ics",
@@ -251,7 +252,6 @@
     "NJU-notes/assets/Project3 BYOW_202608040003.png",
     "NJU-notes/assets/Software Engineering_202608032348-1.png",
     "NJU-notes/assets/Software Engineering_202608032348.png",
-    "NJU-notes/assets/Software Engineering_202607290015.png",
     "skills-lock.json",
     "P17_202606091551.canvas",
     "NJU-notes/c++ and algorithm/小焚决/未命名",

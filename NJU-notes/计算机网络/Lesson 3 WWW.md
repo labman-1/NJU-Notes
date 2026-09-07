@@ -3,7 +3,7 @@
 HTTP Rerquest Message
 - request line
 
-
+# WWW and HTTP
 结合你之前对 **FTP（双连接分离）** 和 **SSH（加密隧道）** 的理解，以及你在 **DLCO（计算机组成）** 中学到的“流水线”和“分层抽象”思维，我们来把这三个概念一次性打通。它们是互联网应用层的“三驾马车”，但各有分工。
 
 ---
@@ -91,3 +91,10 @@ HTTP 报文像一个 **C++ 的 `struct`**，有严格的头部字段：
 *   你可以在本地用 **Docker 搭建一套完整的 Web 基础设施**（Nginx 反向代理 + 两个 Flask 容器 + Redis 缓存），然后用 Wireshark 抓包。你会非常直观地看到：请求如何被 LB 分发，HTTP 头里如何携带 Cookie，以及静态资源如何被 CDN 边缘加速。
 
 # Cache
+## CDN
+- DNS
+- Routing
+- URL Rewriting
+- Redirection strategy
+
+

@@ -16,3 +16,4 @@ MIME: Muti-purpose Internet Mail Extension
 
 POP
 IMAP: Internet Mail Access Protocol
+# FTP

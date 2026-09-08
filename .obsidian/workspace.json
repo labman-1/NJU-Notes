@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "3e087f1374d8409d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,19 +223,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b234b21664c73b2",
+  "active": "3e087f1374d8409d",
   "lastOpenFiles": [
+    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/数据结构/数据，数据元素与数据对象.md",
+    "NJU-notes/数据结构/数据结构.md",
+    "git与github.md",
+    "未命名.md",
     "元认知Lesson2.md",
     "README.md",
     "NJU-notes/计算机网络/Lesson 3 WWW.md",
     "NJU-notes/计算机网络/Lesson 2 DNS.md",
     "NJU-notes/计算机网络/Lesson 1 introduction(2).md",
-    "未命名.md",
     "NJU-notes/assets/未命名_202609062054.png",
     "Nova.md",
     "NJU-notes/网络攻防/Kali安装记.md",
     "NJU-notes/assets/Kali安装记_202609041622.png",
-    "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/网络攻防",
     "NJU-notes/dlcoexp/未命名.md",
     "NJU-notes/dlcoexp/3问.md",
@@ -241,13 +259,10 @@
     "NJU-notes/assets/Comparision_202608271251.png",
     "NJU-notes/SICP/SICP.md",
     "NJU-notes/assets/Lesson 1 introduction(2)_202608261039.jpg",
-    "NJU-notes/数据结构/数据，数据元素与数据对象.md",
     "NJU-notes/计算机网络",
-    "NJU-notes/数据结构/数据结构.md",
     "NJU-notes/健身/健身.md",
     "NJU-notes/数据结构",
     "trifles/视觉人文.md",
-    "trifles/科学启蒙.md",
     "NJU-notes/健身",
     "NJU-notes/assets/Project3 BYOW_202608040003.png",
     "NJU-notes/assets/Software Engineering_202608032348-1.png",

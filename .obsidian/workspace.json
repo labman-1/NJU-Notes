@@ -225,8 +225,10 @@
   },
   "active": "c58568c29c763da1",
   "lastOpenFiles": [
-    "NJU-notes/计算机网络/Lesson 3 WWW.md",
+    "NJU-notes/计算机网络/课后习题/1.md",
     "NJU-notes/计算机网络/网络协议.md",
+    "NJU-notes/计算机网络/课后习题",
+    "NJU-notes/计算机网络/Lesson 3 WWW.md",
     "NJU-notes/健身/健身.md",
     "NJU-notes/计算机网络/Lesson 2 DNS.md",
     "NJU-notes/计算机网络/Lesson 1 introduction(2).md",
@@ -256,7 +258,6 @@
     "NJU-notes/网络攻防",
     "NJU-notes/dlcoexp/未命名.md",
     "NJU-notes/dlcoexp/3问.md",
-    "NJU-notes/dlcoexp/Verilog学习.md",
     "NJU-notes/assets/Verilog学习_202609032324.png",
     "NJU-notes/assets/Verilog学习_202609032321.png",
     "NJU-notes/assets/数据的存储_202608301843.png",
@@ -270,7 +271,6 @@
     "NJU-notes/assets/Project3 BYOW_202608040003.png",
     "skills-lock.json",
     "P17_202606091551.canvas",
-    "NJU-notes/c++ and algorithm/小焚决/未命名",
-    "Lesson 1、2、3 语言与进制_202603121037.base"
+    "NJU-notes/c++ and algorithm/小焚决/未命名"
   ]
 }

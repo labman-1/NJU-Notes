@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nova.md",
+                "file": "NJU-notes/计算机网络/课后习题/251870092_陈湘宇_作业1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nova"
-            }
-          },
-          {
-            "id": "c58568c29c763da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "元认知Lesson2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "元认知Lesson2"
+              "title": "251870092_陈湘宇_作业1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,9 +186,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "0781a4b853606a81",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -220,15 +215,23 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "c58568c29c763da1",
+  "active": "3e087f1374d8409d",
   "lastOpenFiles": [
+    "NJU-notes/计算机网络/带宽、时延与分组交换.md",
+    "NJU-notes/ics/pa/PA1.md",
     "Nova.md",
+    "2026-09-13.md",
+    "元认知Lesson2.md",
+    "vibeLearning/review",
+    "vibeLearning/notes",
+    "vibeLearning/sources",
+    "vibeLearning/AGENTS.md",
     "git与github.md",
     "未命名 2.md",
-    "元认知Lesson2.md",
     "提高自制力.md",
     "vibeLearning",
     "NJU-notes/assets/提高自制力_202609132049-1.png",
@@ -236,7 +239,6 @@
     "NJU-notes/assets/提高自制力_202609132041.png",
     "NJU-notes/计算机网络/网络协议.md",
     "NJU-notes/计算机网络/课后习题/251870092_陈湘宇_作业1.md",
-    "NJU-notes/计算机网络/带宽、时延与分组交换.md",
     "NJU-notes/计算机网络/课后习题",
     "NJU-notes/计算机网络/Lesson 3 WWW.md",
     "NJU-notes/健身/健身.md",
@@ -251,11 +253,9 @@
     "NJU-notes/DLCO/标志位.md",
     "NJU-notes/ics/位域与内联汇编.md",
     "NJU-notes/ics/数据的存储.md",
-    "NJU-notes/ics/pa/PA1.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/数据结构/数据结构.md",
     "NJU-notes/网络攻防/未命名.md",
-    "NJU-notes/网络攻防/Kali安装记.md",
     "NJU-notes/ics/pa",
     "NJU-notes/assets/git与github_202609081150.png",
     "NJU-notes/assets/未命名_202609062054.png",
@@ -267,9 +267,6 @@
     "NJU-notes/ics",
     "NJU-notes/dlcoexp",
     "NJU-notes/计算机网络",
-    "NJU-notes/数据结构",
-    "NJU-notes/健身",
-    "skills-lock.json",
     "P17_202606091551.canvas"
   ]
 }

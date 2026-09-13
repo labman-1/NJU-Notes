@@ -1,37 +1,14 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-09-13T15:24:32.750Z",
+  "recordedAt": "2026-09-13T15:34:08.982Z",
   "sessionId": "sess_de66793a-89a2-420d-9f2f-709d8b629b74",
-  "event": "PreToolUse",
-  "toolName": "Write",
+  "event": "PostToolUse",
+  "toolName": "Edit",
   "file": "AGENTS.md",
   "outcome": "clear",
   "coverage": "complete",
   "findingCount": 0,
   "durationMs": 11,
-  "telemetry": {
-    "schemaVersion": "mimosa-gate-telemetry/v1",
-    "profile": "gate",
-    "operation": "PreToolUse",
-    "outcome": "complete",
-    "latencyMs": 11,
-    "peakMemoryBytes": 98844672,
-    "memoryMeasurement": "max-observed-process-rss",
-    "scannedFiles": 1,
-    "cache": {
-      "hits": 0,
-      "misses": 1,
-      "measurement": "not-applicable"
-    },
-    "denyCount": 0,
-    "tokens": {
-      "input": 0,
-      "output": 0,
-      "total": 0,
-      "modelCalls": 0,
-      "measurement": "known-zero"
-    }
-  },
-  "hostState": "hook_complete_waiting_host_tool_decision",
+  "hostState": "hook_complete",
   "reportHint": ".mimosa/reports/"
 }

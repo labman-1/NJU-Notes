@@ -1,0 +1,177 @@
+{
+  "schema_version": "mimosa-task-review/v2",
+  "run_id": "20260916T054814486Z-33796-68f4d7fd3996",
+  "run_status": "completed",
+  "errors": [],
+  "coverage": {
+    "schema_version": "mimosa-hook-coverage/v1",
+    "status": "complete",
+    "scope": "hook_observed_diff",
+    "baseline": {
+      "complete": true,
+      "captured_files": 1,
+      "candidate_limit": 5000,
+      "truncated": false,
+      "enumeration_error_count": 0,
+      "snapshot_error_count": 0,
+      "compensated_target_count": 1
+    },
+    "change_tracking": {
+      "touched_observed": 1,
+      "touched_retained": 1,
+      "truncated": false,
+      "bash_mutation": true,
+      "bash_discovered": 1,
+      "bash_discovery_limit": 80,
+      "bash_discovery_truncated": false
+    },
+    "candidates": {
+      "eligible_files": 1,
+      "selected_files": 1,
+      "limit": 20,
+      "truncated": false
+    },
+    "scanning": {
+      "required_files": 0,
+      "scanned_files": 0,
+      "skipped_files": 0,
+      "failed_files": 0,
+      "project_checks_required": 1,
+      "project_checks_completed": 1
+    },
+    "notification": {
+      "eligible_findings": 1,
+      "detailed_findings": 1,
+      "detail_limit": 3,
+      "truncated": false
+    },
+    "reason_counts": {},
+    "reasons": [],
+    "reasons_truncated": false
+  },
+  "generated_at": "2026-09-16T05:48:14.486Z",
+  "session_id": "sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3",
+  "target": ".",
+  "revision": "87b8cecf38da914fee385d97be7263e1da7351b2",
+  "rules_version": "unavailable",
+  "diff_hash": "e80a4fd051639d715e2cdfdbfb8a65291286b7ec610092663f3879908cbc2036",
+  "diff": {
+    "algorithm": "sha256",
+    "changed_file_count": 1,
+    "changed_files": [
+      {
+        "file": "AGENTS.md",
+        "ranges": [
+          {
+            "start": 15,
+            "end": 18
+          },
+          {
+            "start": 22,
+            "end": 23
+          }
+        ],
+        "before_hash": "28d6a67315933294067baa5a6423071197857dfe5a8801c65f1913560e111c33",
+        "after_hash": "2202656dcb72f5eab981a161ede345363732062f775e86eeb5d9f69c310391a0"
+      }
+    ]
+  },
+  "timing": {
+    "started_at": "2026-09-16T05:48:13.549Z",
+    "completed_at": "2026-09-16T05:48:14.486Z",
+    "duration_ms": 937,
+    "measurement": "hook_wall_clock"
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0,
+    "total": 0,
+    "model_calls": 0,
+    "measurement": "known-zero"
+  },
+  "telemetry": {
+    "schemaVersion": "mimosa-gate-telemetry/v1",
+    "profile": "gate",
+    "operation": "Stop",
+    "outcome": "complete",
+    "latencyMs": 937,
+    "peakMemoryBytes": 98209792,
+    "memoryMeasurement": "max-observed-process-rss",
+    "scannedFiles": 0,
+    "cache": {
+      "hits": 0,
+      "misses": 0,
+      "measurement": "not-applicable"
+    },
+    "denyCount": 0,
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "total": 0,
+      "modelCalls": 0,
+      "measurement": "known-zero"
+    }
+  },
+  "finding_count": 1,
+  "rewake_finding_count": 1,
+  "evidence_boundary": {
+    "scan": "candidate",
+    "static_fix_verification": "observed_static_only",
+    "runtime_verification": "not_performed"
+  },
+  "finding_events": [
+    {
+      "finding_id": "mimosa-7c46516dd895abece5213ffb",
+      "file": "AGENTS.md",
+      "line": 16,
+      "rule_id": "mimosa.agent.secret-exfiltration",
+      "severity": "high",
+      "category": "instruction",
+      "status": "blocked",
+      "decision": "stop_rewake",
+      "at": "2026-09-16T05:48:14.486Z",
+      "evidence": {
+        "kind": "static_scan",
+        "boundary": "candidate",
+        "producer": "deterministic",
+        "source": "semgrep",
+        "evidence_hash": "55d5d37db7b9e9ced85fa4ac2309b89868fa731e3b88144c46d4fc02e2af5fef",
+        "runtime_oracle": false
+      }
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "mimosa-7c46516dd895abece5213ffb",
+      "file": "AGENTS.md",
+      "line": 16,
+      "end_line": 16,
+      "rule_id": "mimosa.agent.secret-exfiltration",
+      "severity": "high",
+      "category": "instruction",
+      "kind": "semgrep",
+      "advisory": false,
+      "status": "blocked",
+      "evidence_boundary": "candidate",
+      "evidence": [
+        {
+          "kind": "static_scan",
+          "boundary": "candidate",
+          "producer": "deterministic",
+          "source": "semgrep",
+          "file": "AGENTS.md",
+          "line": 16,
+          "evidence_hash": "55d5d37db7b9e9ced85fa4ac2309b89868fa731e3b88144c46d4fc02e2af5fef",
+          "runtime_oracle": false
+        }
+      ],
+      "already_reported_to_agent": false,
+      "selected_for_rewake": true
+    }
+  ],
+  "artifacts": {
+    "immutable_report": ".mimosa/reports/task-review-sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3-20260916T054814486Z-33796-68f4d7fd3996.json",
+    "latest_report": ".mimosa/reports/task-review-sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3.json",
+    "history_summary": ".mimosa/history/run-20260916T054814486Z-33796-68f4d7fd3996.json"
+  }
+}

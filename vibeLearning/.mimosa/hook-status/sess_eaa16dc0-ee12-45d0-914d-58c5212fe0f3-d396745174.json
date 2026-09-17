@@ -1,9 +1,9 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-09-16T07:23:46.082Z",
+  "recordedAt": "2026-09-16T08:51:57.469Z",
   "sessionId": "sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3",
   "event": "PostToolUse",
-  "toolName": "Edit",
+  "toolName": "Write",
   "file": "notes/元认知/CTDP启动配置-协议v1.md",
   "outcome": "clear",
   "coverage": "complete",

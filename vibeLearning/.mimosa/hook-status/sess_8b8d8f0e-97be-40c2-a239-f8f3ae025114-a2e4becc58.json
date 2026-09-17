@@ -1,9 +1,9 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-09-16T08:39:09.503Z",
+  "recordedAt": "2026-09-16T08:47:06.815Z",
   "sessionId": "sess_8b8d8f0e-97be-40c2-a239-f8f3ae025114",
   "event": "PostToolUse",
-  "toolName": "Write",
+  "toolName": "Edit",
   "file": "notes/英语/六级报考决策.md",
   "outcome": "clear",
   "coverage": "complete",

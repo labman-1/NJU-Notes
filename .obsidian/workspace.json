@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "fork方案"
             }
+          },
+          {
+            "id": "cf917a44d1bc8cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOVA/git工坊/git教学规划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git教学规划"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,11 +234,11 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "3e087f1374d8409d",
+  "active": "cf917a44d1bc8cc0",
   "lastOpenFiles": [
+    "NOVA/git工坊/fork方案.md",
     "NOVA/git工坊",
     "NOVA/git工坊/git教学规划.md",
-    "NOVA/git工坊/fork方案.md",
     "NOVA/Nova.md",
     "未命名 2.md",
     "未命名.md",
@@ -263,7 +278,6 @@
     "NJU-notes/assets/git与github_202609081150.png",
     "NJU-notes/assets/未命名_202609062054.png",
     "NJU-notes/assets/Kali安装记_202609041622.png",
-    "NJU-notes/网络攻防",
     "NJU-notes/assets/Verilog学习_202609032324.png",
     "NJU-notes/assets/Verilog学习_202609032321.png",
     "NJU-notes/assets/数据的存储_202608301843.png",

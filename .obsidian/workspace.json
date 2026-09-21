@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/网络攻防/如何记忆Linux命令.md",
+                "file": "NJU-notes/ics/pa/PA1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何记忆Linux命令"
+              "title": "PA1"
             }
           }
         ],
@@ -236,8 +236,8 @@
   },
   "active": "cf917a44d1bc8cc0",
   "lastOpenFiles": [
-    "NJU-notes/网络攻防/Linux命令.md",
     "NJU-notes/网络攻防/如何记忆Linux命令.md",
+    "NJU-notes/网络攻防/Linux命令.md",
     "NJU-notes/数据结构/数据结构.md",
     "NOVA/git工坊/fork方案.md",
     "NOVA/git工坊/git教学规划.md",

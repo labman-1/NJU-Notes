@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e087f1374d8409d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 2"
-            }
-          },
-          {
             "id": "cf917a44d1bc8cc0",
             "type": "leaf",
             "state": {
@@ -233,8 +219,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "3e087f1374d8409d",
+  "active": "0781a4b853606a81",
   "lastOpenFiles": [
+    "未命名 2.md",
     "NJU-notes/计算机网络/课后习题/作业1.md",
     "NJU-notes/计算机网络/带宽、时延与分组交换.md",
     "NJU-notes/计算机网络/网络协议.md",
@@ -251,7 +238,6 @@
     "NOVA/git工坊/git教学规划.md",
     "NOVA/git工坊",
     "NOVA/Nova.md",
-    "未命名 2.md",
     "未命名.md",
     "NOVA",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",

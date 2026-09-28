@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/二分.md",
+                "file": "NJU-notes/dlcoexp/存储器初始化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二分"
+              "title": "存储器初始化"
             }
           }
         ]
@@ -219,8 +219,12 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0781a4b853606a81",
+  "active": "cf917a44d1bc8cc0",
   "lastOpenFiles": [
+    "NJU-notes/dlcoexp/Verilog学习.md",
+    "NJU-notes/dlcoexp/存储器初始化.md",
+    "NJU-notes/dlcoexp/xdc与界面解析.md",
+    "NJU-notes/dlcoexp/未命名.md",
     "NJU-notes/c++ and algorithm/二分.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
@@ -243,15 +247,11 @@
     "NOVA/Nova.md",
     "未命名.md",
     "NOVA",
-    "NJU-notes/dlcoexp/xdc与界面解析.md",
     "NJU-notes/dlcoexp/lab03.md",
-    "NJU-notes/dlcoexp/Verilog学习.md",
     "NJU-notes/c++ and algorithm/滑窗/定长滑窗.md",
     "NJU-notes/c++ and algorithm/滑窗",
     "vibeLearning/notes/英语/六级报考决策.md",
     "vibeLearning/notes/英语",
-    "vibeLearning/review/示例卡片.md",
-    "2026-09-13.md",
     "vibeLearning/review",
     "vibeLearning/notes",
     "vibeLearning/sources",

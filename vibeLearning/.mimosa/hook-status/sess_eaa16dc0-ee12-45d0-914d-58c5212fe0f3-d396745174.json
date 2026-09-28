@@ -1,14 +1,14 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-09-28T15:27:23.043Z",
+  "recordedAt": "2026-09-28T16:04:15.253Z",
   "sessionId": "sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3",
   "event": "PostToolUse",
   "toolName": "Edit",
-  "file": "D:\\cxy\\program\\ctdp-tool\\deploy.sh",
+  "file": "D:\\cxy\\program\\ctdp-tool\\src\\main.ts",
   "outcome": "inconclusive",
   "coverage": "partial",
   "findingCount": 0,
-  "durationMs": 8,
+  "durationMs": 9,
   "hostState": "hook_complete",
   "reportHint": ".mimosa/reports/"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/c++ and algorithm/字符串/KMP.md",
+                "file": "NJU-notes/ics/hw/hw2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KMP"
+              "title": "hw2"
             }
           }
         ]
@@ -219,10 +219,15 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0781a4b853606a81",
+  "active": "cf917a44d1bc8cc0",
   "lastOpenFiles": [
-    "NJU-notes/c++ and algorithm/字符串/KMP.md",
+    "NJU-notes/ics/hw/hw1.md",
+    "NJU-notes/ics/hw/hw2.md",
+    "NJU-notes/计算机网络/带宽、时延与分组交换.md",
+    "NJU-notes/ics/hw",
+    "NJU-notes/计算机网络/课后习题/作业1.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
+    "NJU-notes/c++ and algorithm/字符串/KMP.md",
     "NJU-notes/c++ and algorithm/字符串",
     "NJU-notes/dlcoexp/存储器初始化.md",
     "NJU-notes/dlcoexp/Verilog学习.md",
@@ -232,8 +237,6 @@
     "NJU-notes/c++ and algorithm/数据结构/树状数组.md",
     "NJU-notes/ics/pa/PA1.md",
     "未命名 2.md",
-    "NJU-notes/计算机网络/课后习题/作业1.md",
-    "NJU-notes/计算机网络/带宽、时延与分组交换.md",
     "NJU-notes/计算机网络/网络协议.md",
     "NJU-notes/计算机网络/Lab/OpenSSL库简介.md",
     "NJU-notes/计算机网络/SSL TLS握手.md",
@@ -249,14 +252,11 @@
     "NOVA/Nova.md",
     "未命名.md",
     "NOVA",
-    "NJU-notes/dlcoexp/lab03.md",
-    "NJU-notes/c++ and algorithm/滑窗/定长滑窗.md",
     "NJU-notes/c++ and algorithm/滑窗",
     "vibeLearning/notes/英语",
     "vibeLearning/review",
     "vibeLearning/notes",
     "vibeLearning/sources",
-    "vibeLearning",
     "NJU-notes/assets/提高自制力_202609132049-1.png",
     "NJU-notes/assets/提高自制力_202609132049.png",
     "NJU-notes/assets/提高自制力_202609132041.png",

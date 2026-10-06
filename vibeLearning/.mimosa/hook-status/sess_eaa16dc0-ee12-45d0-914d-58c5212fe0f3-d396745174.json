@@ -1,14 +1,14 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-09-29T02:16:19.078Z",
+  "recordedAt": "2026-10-06T14:14:41.441Z",
   "sessionId": "sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3",
   "event": "PostToolUse",
   "toolName": "Edit",
-  "file": "notes/元认知/CTDP启动配置-协议v1.md",
-  "outcome": "clear",
-  "coverage": "complete",
+  "file": "D:\\cxy\\program\\ctdp-tool\\test\\policy.test.ts",
+  "outcome": "inconclusive",
+  "coverage": "partial",
   "findingCount": 0,
-  "durationMs": 3,
+  "durationMs": 6,
   "hostState": "hook_complete",
   "reportHint": ".mimosa/reports/"
 }

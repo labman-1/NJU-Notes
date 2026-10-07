@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "带宽、时延与分组交换"
             }
+          },
+          {
+            "id": "590c8afe556efdee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +232,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "cf917a44d1bc8cc0",
+  "active": "0781a4b853606a81",
   "lastOpenFiles": [
     "NJU-notes/计算机网络/网络协议.md",
     "NJU-notes/计算机网络/Lesson 1 introduction(2).md",

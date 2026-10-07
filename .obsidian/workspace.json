@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/计算机网络/带宽、时延与分组交换.md",
+                "file": "随笔/有关娱乐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "带宽、时延与分组交换"
-            }
-          },
-          {
-            "id": "590c8afe556efdee",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.14.4"
+              "title": "有关娱乐"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,8 +219,11 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0781a4b853606a81",
+  "active": "cf917a44d1bc8cc0",
   "lastOpenFiles": [
+    "NJU-notes/计算机网络/带宽、时延与分组交换.md",
+    "随笔/有关娱乐.md",
+    "随笔",
     "NJU-notes/计算机网络/网络协议.md",
     "NJU-notes/计算机网络/Lesson 1 introduction(2).md",
     "NJU-notes/计算机网络/Lesson 2 DNS.md",
@@ -241,7 +231,6 @@
     "NJU-notes/计算机网络/P2P.md",
     "NJU-notes/计算机网络/SSL TLS握手.md",
     "NJU-notes/assets/P2P_202610031143.png",
-    "NJU-notes/计算机网络/带宽、时延与分组交换.md",
     "vibeLearning/AGENTS.md",
     "vibeLearning/notes/元认知/L3作业-语雀提交稿.md",
     "vibeLearning/notes/元认知/L3-目标梳理与ZPD拆分-工作稿.md",
@@ -269,7 +258,6 @@
     "vibeLearning/notes/英语",
     "vibeLearning/review",
     "vibeLearning/notes",
-    "vibeLearning/sources",
     "NJU-notes/assets/提高自制力_202609132049-1.png",
     "NJU-notes/assets/提高自制力_202609132049.png",
     "NJU-notes/assets/提高自制力_202609132041.png",

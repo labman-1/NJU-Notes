@@ -1,14 +1,14 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-10-11T14:32:00.860Z",
+  "recordedAt": "2026-10-12T03:23:00.198Z",
   "sessionId": "sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3",
   "event": "PostToolUse",
   "toolName": "Edit",
-  "file": "AGENTS.md",
-  "outcome": "clear",
-  "coverage": "complete",
+  "file": "D:\\cxy\\program\\ctdp-tool\\test\\state.test.ts",
+  "outcome": "inconclusive",
+  "coverage": "partial",
   "findingCount": 0,
-  "durationMs": 9,
+  "durationMs": 8,
   "hostState": "hook_complete",
   "reportHint": ".mimosa/reports/"
 }

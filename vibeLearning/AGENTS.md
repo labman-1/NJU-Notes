@@ -19,7 +19,7 @@
    - **编程**：C++ 熟练（语法 + std；竞赛/工业习惯：struct/class 封装、const 引用、RAII、vector 内存管理、竞赛快读）。Python / Scheme / SQL 到 SICP 级。QT、异常处理、多线程有大作业级经验。Web 前端（HTML/JS/TS/React）零基础，属新学习领域。
    - **算法上限**：模拟（方向数组、位运算）、STL 常用容器 + BIT（树状数组）；二分答案（闭区间写法）、线性 / 0-1 / 完全 / 区间 DP、三维四维状态 + 滚动数组、分治快速选择、最近点对；图论（邻接表、DFS/BFS、最短路、最小生成树）。
    - **思维偏好**：产婆术式推演、自顶向下分解、PBL、第一性原理重构方案、频繁自我审视；有哲学兴趣（加缪：荒诞与反抗）。教学可用苏格拉底式提问与 PBL 场景，容忍偶发哲学离题。
-   - **环境**：VS / VSCode / Dev C++ / IntelliJ / Anaconda / Git Bash / Docker / DBeaver + MySQL / Logisim / Vivado / Clash Verge / claude code；虚拟机：WSL-Ubuntu、Kali、VirtualBox、VMware；手机 Redmi K60 Ultra（HyperOS 3，自带浏览器 PWA 支持弱、装 PWA 用 Chrome/Edge）。
+   - **环境**：VS / VSCode / Dev C++ / IntelliJ / Anaconda / Git Bash / Docker / DBeaver + MySQL / Logisim / Vivado / Clash Verge / claude code；虚拟机：WSL-Ubuntu、Kali、VirtualBox、VMware；手机 Redmi K60 Ultra（HyperOS 3，自带浏览器 PWA 支持弱、装 PWA 用 Chrome/Edge）；另有平板（网课设备）。
    - **在读（大二上，2026 秋）**：计算机网络、计算机系统基础（ics）、数据结构、概率论与数理统计、网络攻防、dlcoexp、cs61b、学术文献阅读与写作、中国近现代史纲要、习概、健美初级、元认知（CAC 通识课）
     - **状态注记（2026-10-11 更新）**：2026-10-07 小手术已出院，约一个月不剧烈运动（至 11 月上旬）；G3 健身国策按医学豁免判例搁置至恢复；恢复期定位为"协议推进窗口"。娱乐治理条款 v1.8 已入协议（网文日限额 3h 主闸、火影并入黑洞总治理、四档清单：保留/限制/观察/扶持）；C1 已扩围（数据结构课程及作业计入）+ 作业启动工具泛化（侦查+预约）+ 晚间三型排班。既往"清醒的泥潭"式自我批判循环（SDT 内摄调节风险）与高目标-失败循环（读书打卡赛、每日 1h 计划均败）仍在治理观察中；成长史重新归因：大学后"完成端"结构塌陷致娱乐失去兑换前提，治理方向是恢复顺序而非戒断。爱好：wota 艺（南大动漫社，受比较焦虑压制、参与度低，扶持档）、二游/Steam roguelike（杀戮尖塔、怪物火车、以撒）、galgame、网文（周期性 binge，当前最大注意力黑洞）、看番看书；黄金放松模板=跑步+朋友聊天（恢复期降级为散步+聊天）。Roguelike 游玩经验与 RSIP 的"失败-强化-再挑战"语义天然共鸣。
    - **已学**：SICP（cs61a 路线：Python / Scheme / SQL、类与对象）、高级程序设计（C++ OOP / 异常 / 多线程，QT 自走棋大作业）、DLCO（RISC-V：晶体管 → 逻辑门 → FA / ALU / 桶形移位器 → 单周期 / 多周期 / 流水线 CPU）、离散数学 1（图论、一阶 / 二阶逻辑、集合论、数论、树）、微积分、线性代数、马原

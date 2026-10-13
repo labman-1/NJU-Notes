@@ -106,6 +106,148 @@ f. 如果 A 和 B 是同一台主机上的两个不同 Telnet 进程，它们的
     - 同时，由于数据流是源源不断、紧密连续发送的，只要中间丢了任何一个包，下一个包会在几毫秒内立即到达并冲刷出“序号空洞”，触发 NAK 重传，时延惩罚极小。
 # P18
 
+### 一、 协议核心设计原则与数学不变式
+
+1. **窗口大小**：
+   * 发送方和接收方的窗口大小均固定为 **$N = 2$**。
+2. **序号空间大小**：
+   * 根据选择重传（SR）协议的不变式 $W_{\text{sender}} + W_{\text{receiver}} \le \text{序号空间大小}$，这里 $2 + 2 = 4$。
+   * 因此只需 **4 个全局序号**：$\{0, 1, 2, 3\}$（占用 2 个比特）。
+   * **Pair 0** 由分组 `0` 和 `1` 组成；
+   * **Pair 1** 由分组 `2` 和 `3` 组成；
+   * 随后模 4 回绕（$\{0, 1\} \to \{2, 3\} \to \{0, 1\} \dots$）。
+   * *(注：由于信道保证不损坏且不乱序，4 个序号足以杜绝新老分组混淆)*。
+
+---
+
+### 二、 报文格式
+
+1. **数据报文（发送方 $\to$ 接收方）**：
+   * `seqnum`（2 bits）：分组序号，取值为 $0, 1, 2, 3$。
+   * `data`（可变长）：上层应用交付的有效载荷。
+   * *(说明：因题设信道“不会损坏”，无需 Checksum 字段)*。
+
+2. **确认报文（接收方 $\to$ 发送方）**：
+   * `acknum`（2 bits）：被确认分组的序号，取值为 $0, 1, 2, 3$。
+
+---
+
+### 三、 过程调用接口定义
+
+* `start_timer(i)` / `stop_timer(i)`：针对特定序号 $i$ 的独立定时器控制。
+* `udt_send(packet)`：将报文交付给不可靠底层信道。
+* `rdt_rcv(packet)`：从物理信道接收到达的报文。
+* `deliver_data(data)`：向上层应用按序交付数据。
+
+---
+
+### 四、 有限状态机（FSM）详细描述
+
+#### 1. 发送方（Sender）FSM
+发送方维护状态变量：
+* `base` $\in \{0, 2\}$：表示当前正在发送的“Pair”的起始序号。
+* `ack_received[4]`：布尔数组，记录当前对的两个分组是否已获确认。
+
+```text
+[状态 1：等待上层调用第 base 对数据]
+  事件：上层交付两个数据块 (data_a, data_b)
+  动作：
+    pkt_0 = make_pkt(base, data_a);
+    pkt_1 = make_pkt(base + 1, data_b);
+    udt_send(pkt_0);
+    udt_send(pkt_1);
+    start_timer(base);
+    start_timer(base + 1);
+    ack_received[base] = false;
+    ack_received[base + 1] = false;
+    转移到 -> [状态 2：等待第 base 对的 ACK]
+
+[状态 2：等待第 base 对的 ACK]
+  事件 1：rdt_rcv(rcvpkt) (收到 ACK 分组，序号为 a)
+  动作：
+    if (a == base || a == base + 1) {
+        stop_timer(a);
+        ack_received[a] = true;
+        if (ack_received[base] && ack_received[base + 1]) {
+            base = (base + 2) % 4; // 推进到下一对
+            转移到 -> [状态 1：等待上层调用第 base 对数据]
+        }
+    }
+    // 若收到过期的旧 ACK，直接忽略
+
+  事件 2：timeout(i) (序号为 i 的分组定时器超时，i 为 base 或 base + 1)
+  动作：
+    udt_send(pkt_i);     // 仅重传未确认的那一个（SR 特性）
+    start_timer(i);      // 重启该报文的定时器
+```
+
+---
+
+#### 2. 接收方FSM
+接收方维护状态变量：
+* `rcv_base` $\in \{0, 2\}$：期待接收的当前“对”的起始序号。
+* `rcv_buf[4]`：缓存接收到的有效数据。
+* `has_received[4]`：标记当前对中的各个分组是否已到达。
+
+```text
+[初始状态：等待来自下层的报文] (rcv_base = 0)
+  事件：rdt_rcv(rcvpkt) (收到数据报文，序号为 s)
+  动作：
+    // 1. 凡收到报文，必单独回送对应的 ACK
+    make_pkt(ackpkt, s);
+    udt_send(ackpkt);
+
+    // 2. 判断是否落在当前接收窗口 [rcv_base, rcv_base + 1] 内
+    if (s == rcv_base || s == rcv_base + 1) {
+        rcv_buf[s] = extract_data(rcvpkt);
+        has_received[s] = true;
+
+        // 若这一对的两个分组均已收齐，按序交付并推进窗口
+        if (has_received[rcv_base] && has_received[rcv_base + 1]) {
+            deliver_data(rcv_buf[rcv_base]);
+            deliver_data(rcv_buf[rcv_base + 1]);
+            has_received[rcv_base] = false;
+            has_received[rcv_base + 1] = false;
+            rcv_base = (rcv_base + 2) % 4; // 推进期待窗口
+        }
+    }
+    // 3. 若落在前一对 [ (rcv_base - 2 + 4)%4, ... ]，上方第 1 步已重发 ACK，此处不做数据处理
+```
+
+---
+
+### 五、 丢包恢复时序踪迹图（Timing Diagram）
+
+假设发送方发送 Pair 0（分组 0 和分组 1），其中**分组 1 在信道中丢失**：
+
+```text
+发送方 (Sender)                                       接收方 (Receiver)
+base = 0                                             rcv_base = 0
+   |                                                      |
+   |---- Pkt 0 ------------------------------------------>| (收到 Pkt 0)
+   |---- Pkt 1 (丢失 X)                                   | (缓存 Pkt 0, 暂不交付)
+   |                                                      |---- ACK 0 ---->
+   |<--- ACK 0 -------------------------------------------|
+ (收到 ACK 0, stop_timer(0))                              |
+ (timer(1) 仍在倒计时...)                                  |
+   |                                                      |
+   X [timer(1) 超时!]                                     |
+   |                                                      |
+   |---- Pkt 1 (重传) ----------------------------------->| (收到 Pkt 1)
+   |                                                      | (Pkt 0 & 1 齐备!)
+   |                                                      | ==> deliver_data(0)
+   |                                                      | ==> deliver_data(1)
+   |                                                      | rcv_base 推进到 2
+   |                                                      |---- ACK 1 ---->
+   |<--- ACK 1 -------------------------------------------|
+ (收到 ACK 1, stop_timer(1))                              |
+ (Pair 0 全部确认完毕!)                                    |
+ base 推进到 2                                            |
+ 准备发送 Pair 1 (Pkt 2 & 3)                               |
+```
+
+---
+
 # P19
 
 

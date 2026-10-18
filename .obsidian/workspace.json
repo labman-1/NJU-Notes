@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/dlcoexp/操作步骤.md",
+                "file": "未命名 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作步骤"
+              "title": "未命名 2"
             }
           }
         ]
@@ -219,8 +219,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0781a4b853606a81",
+  "active": "cf917a44d1bc8cc0",
   "lastOpenFiles": [
+    "NJU-notes/数据结构/数据结构.md",
     "NJU-notes/dlcoexp/操作步骤.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
     "NJU-notes/计算机网络/课后习题/hw2.md",
@@ -249,7 +250,6 @@
     "NJU-notes/ics/hw/hw2.md",
     "NJU-notes/ics/hw/hw1.md",
     "NJU-notes/ics/hw",
-    "NJU-notes/c++ and algorithm/字符串/KMP.md",
     "NJU-notes/c++ and algorithm/字符串",
     "NJU-notes/计算机网络/Lab",
     "NOVA/git工坊",

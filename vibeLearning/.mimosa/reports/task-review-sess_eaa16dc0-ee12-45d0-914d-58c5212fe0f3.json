@@ -1,6 +1,6 @@
 {
   "schema_version": "mimosa-task-review/v2",
-  "run_id": "20261012T143558924Z-39848-8f6a93b772ff",
+  "run_id": "20261027T123415793Z-24660-86f5caf0981c",
   "run_status": "completed",
   "errors": [],
   "coverage": {
@@ -49,12 +49,12 @@
     "reasons": [],
     "reasons_truncated": false
   },
-  "generated_at": "2026-10-12T14:35:58.924Z",
+  "generated_at": "2026-10-27T12:34:15.793Z",
   "session_id": "sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3",
   "target": ".",
-  "revision": "e901bf77e386c251c67a6090e494a6668d5d4bd5",
+  "revision": "66aefbbff9e4efc56d1c1c538c3230d4b4e0df2f",
   "rules_version": "unavailable",
-  "diff_hash": "1721d08da19ea13ab4e971a7edbf9c7c4063209551f6777e8e4a8099cb4bbbaa",
+  "diff_hash": "d005b4f3397433f02fe41d6608cdcacead8292dcdcf78fb5186d2c2fa766c628",
   "diff": {
     "algorithm": "sha256",
     "changed_file_count": 1,
@@ -63,19 +63,19 @@
         "file": "AGENTS.md",
         "ranges": [
           {
-            "start": 22,
-            "end": 22
+            "start": 102,
+            "end": 102
           }
         ],
-        "before_hash": "b69de083f3e83ac85de6afbbf1bbef929998c3eb867e7de71839180410373435",
-        "after_hash": "fac91c1d8b1bb24f1ce16a28f2e6eab9723f9e3f6a890eac23b239a957ca0de3"
+        "before_hash": "fac91c1d8b1bb24f1ce16a28f2e6eab9723f9e3f6a890eac23b239a957ca0de3",
+        "after_hash": "0b688a3aaae61db5a0bef11e90ac2fa1b03e331d2f5ec824229965f88abb0d3d"
       }
     ]
   },
   "timing": {
-    "started_at": "2026-10-12T14:35:57.934Z",
-    "completed_at": "2026-10-12T14:35:58.924Z",
-    "duration_ms": 990,
+    "started_at": "2026-10-27T12:34:14.960Z",
+    "completed_at": "2026-10-27T12:34:15.793Z",
+    "duration_ms": 833,
     "measurement": "hook_wall_clock"
   },
   "tokens": {
@@ -90,8 +90,8 @@
     "profile": "gate",
     "operation": "Stop",
     "outcome": "complete",
-    "latencyMs": 990,
-    "peakMemoryBytes": 96980992,
+    "latencyMs": 833,
+    "peakMemoryBytes": 99790848,
     "memoryMeasurement": "max-observed-process-rss",
     "scannedFiles": 0,
     "cache": {
@@ -118,8 +118,8 @@
   "finding_events": [],
   "findings": [],
   "artifacts": {
-    "immutable_report": ".mimosa/reports/task-review-sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3-20261012T143558924Z-39848-8f6a93b772ff.json",
+    "immutable_report": ".mimosa/reports/task-review-sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3-20261027T123415793Z-24660-86f5caf0981c.json",
     "latest_report": ".mimosa/reports/task-review-sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3.json",
-    "history_summary": ".mimosa/history/run-20261012T143558924Z-39848-8f6a93b772ff.json"
+    "history_summary": ".mimosa/history/run-20261027T123415793Z-24660-86f5caf0981c.json"
   }
 }

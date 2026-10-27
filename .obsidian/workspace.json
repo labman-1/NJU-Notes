@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "NJU-notes/ics/数据的存储.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "数据的存储"
             }
           }
         ]
@@ -221,6 +221,7 @@
   },
   "active": "7ad96cfc2d2de1b5",
   "lastOpenFiles": [
+    "未命名 2.md",
     "NJU-notes/ics/pa/指令格式.md",
     "NJU-notes/ics/Linux指令.md",
     "NJU-notes/ics/寻址方式.md",
@@ -229,7 +230,6 @@
     "NJU-notes/ics/hw/hw2.md",
     "NJU-notes/ics/pa/PA1.md",
     "NJU-notes/ics/位域与内联汇编.md",
-    "未命名 2.md",
     "NJU-notes/数据结构/数据结构.md",
     "NJU-notes/dlcoexp/操作步骤.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",

@@ -1,14 +1,37 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-10-28T06:53:55.994Z",
+  "recordedAt": "2026-10-28T07:02:32.907Z",
   "sessionId": "sess_eaa16dc0-ee12-45d0-914d-58c5212fe0f3",
-  "event": "PostToolUse",
-  "toolName": "Edit",
-  "file": "notes/元认知/CTDP启动配置-协议v1.md",
-  "outcome": "clear",
+  "event": "PreToolUse",
+  "toolName": "Write",
+  "file": "C:/Users/123/AppData/Local/Temp/ctdp_leveldb_scan.js",
+  "outcome": "blocked",
   "coverage": "complete",
-  "findingCount": 0,
-  "durationMs": 5,
-  "hostState": "hook_complete",
+  "findingCount": 1,
+  "durationMs": 888,
+  "telemetry": {
+    "schemaVersion": "mimosa-gate-telemetry/v1",
+    "profile": "gate",
+    "operation": "PreToolUse",
+    "outcome": "complete",
+    "latencyMs": 888,
+    "peakMemoryBytes": 128520192,
+    "memoryMeasurement": "max-observed-process-rss",
+    "scannedFiles": 1,
+    "cache": {
+      "hits": 0,
+      "misses": 1,
+      "measurement": "not-applicable"
+    },
+    "denyCount": 1,
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "total": 0,
+      "modelCalls": 0,
+      "measurement": "known-zero"
+    }
+  },
+  "hostState": "hook_complete_waiting_host_tool_decision",
   "reportHint": ".mimosa/reports/"
 }

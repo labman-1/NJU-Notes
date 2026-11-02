@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/ics/数据的存储.md",
+                "file": "NJU-notes/大二/数据结构/数据，数据元素与数据对象.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据的存储"
+              "title": "数据，数据元素与数据对象"
             }
           }
         ],
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "711691a7956cfb4e",
@@ -234,8 +235,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0781a4b853606a81",
+  "active": "ee1346595dbb04da",
   "lastOpenFiles": [
+    "NJU-notes/大二/数据结构/数据结构.md",
     "NJU-notes/ics/数据的存储.md",
     "NJU-notes/ics/寻址方式.md",
     "NJU-notes/大二/计算机网络/Lab/OpenSSL库简介.md",
@@ -267,7 +269,6 @@
     "NJU-notes/ics/pa/251870092陈湘宇PA2-1实验报告.md",
     "未命名 2.md",
     "NJU-notes/ics/pa/指令格式.md",
-    "NJU-notes/ics/hw/hw3.md",
     "随笔",
     "NJU-notes/assets/P2P_202610031143.png",
     "NJU-notes/ics/hw",

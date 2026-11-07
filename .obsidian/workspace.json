@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/概率论与数理统计/卷积公式.md",
+                "file": "NJU-notes/数学/概率论与数理统计/常见概率分布汇总表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卷积公式"
+              "title": "常见概率分布汇总表"
             }
           }
         ],
@@ -236,8 +236,8 @@
   },
   "active": "ee1346595dbb04da",
   "lastOpenFiles": [
-    "NJU-notes/数学/概率论与数理统计/常见概率分布汇总表.md",
     "NJU-notes/数学/概率论与数理统计/卷积公式.md",
+    "NJU-notes/数学/概率论与数理统计/常见概率分布汇总表.md",
     "NJU-notes/大二/dlcoexp/操作步骤.md",
     "NJU-notes/数学/概率论与数理统计",
     "NJU-notes/大二/ics/数据的存储.md",

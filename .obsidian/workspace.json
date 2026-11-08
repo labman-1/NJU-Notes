@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/数学/概率论与数理统计/常见概率分布汇总表.md",
+                "file": "NJU-notes/大二/计算机网络/课后习题/hw2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常见概率分布汇总表"
+              "title": "hw2"
             }
           }
         ],
@@ -234,10 +234,15 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0781a4b853606a81",
+  "active": "6a429540b28ae1c9",
   "lastOpenFiles": [
-    "NJU-notes/数学/概率论与数理统计/常见概率分布汇总表.md",
+    "vibeLearning/AI会话恢复手册.md.tmp.34288.27762dd19acf",
+    "NJU-notes/大二/计算机网络/课后习题/hw3.md",
+    "NJU-notes/大二/计算机网络/课后习题/251870092陈湘宇.md",
+    "NJU-notes/大二/计算机网络/课后习题/hw2.md",
+    "NJU-notes/大二/计算机网络/课后习题/hw1.md",
     "NJU-notes/数学/概率论与数理统计/卷积公式.md",
+    "NJU-notes/数学/概率论与数理统计/常见概率分布汇总表.md",
     "NJU-notes/大二/dlcoexp/操作步骤.md",
     "NJU-notes/数学/概率论与数理统计",
     "NJU-notes/大二/ics/数据的存储.md",
@@ -258,11 +263,6 @@
     "NJU-notes/大二/计算机网络/note/第1章/Lesson 3 WWW.md",
     "NJU-notes/大二/计算机网络/note/第1章/Lesson 2 DNS.md",
     "NJU-notes/大二/计算机网络/note/第1章/Lesson 1 introduction(2).md",
-    "NJU-notes/大二/计算机网络/SSL TLS握手.md",
-    "NJU-notes/大二/数据结构/树/森林与二叉树转换.md",
-    "NJU-notes/大二/数据结构/树/树.md",
-    "NJU-notes/大二/数据结构/树/二叉树.md",
-    "NJU-notes/大二/数据结构/24期中.md",
     "NJU-notes/大二/数据结构/排序",
     "NJU-notes/大二/数据结构/图",
     "NJU-notes/大二/数据结构/树",

@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/大二/计算机网络/note/第3章传输层/可靠数据传输（RDT）.md",
+                "file": "NJU-notes/大二/计算机网络/note/第3章传输层/面向连接的传输：TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可靠数据传输（RDT）"
-            }
-          },
-          {
-            "id": "c22f478b2f342fbb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.15.1"
+              "title": "面向连接的传输：TCP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,11 +219,13 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0781a4b853606a81",
+  "active": "4a88fcb6b4062613",
   "lastOpenFiles": [
+    "NJU-notes/assets/面向连接的传输：TCP_202611142328.png",
+    "NJU-notes/大二/计算机网络/note/第3章传输层/可靠数据传输（RDT）.md",
+    "NJU-notes/大二/计算机网络/note/第3章传输层/面向连接的传输：TCP.md",
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",
-    "NJU-notes/大二/计算机网络/note/第3章传输层/可靠数据传输（RDT）.md",
     "NJU-notes/大二/计算机网络/带宽、时延与分组交换.md",
     "NJU-notes/大二/计算机网络/note/第1章/Lesson 1 introduction(2).md",
     "NOVA/认识你自己/问题（暂定.md",
@@ -258,8 +247,6 @@
     "NJU-notes/大二/元认知/作业批改：胥庆阳.md",
     "NJU-notes/大二/元认知/作业批改：倪睿萱.md",
     "NJU-notes/大二/元认知/作业批改：朱志轩.md",
-    "NJU-notes/大二/元认知/作业批改：卢思洽.md",
-    "NJU-notes/大二/元认知/作业批改：宋怡乐.md",
     "NOVA/认识你自己",
     "NJU-notes/assets/可靠数据传输（RDT）_202611102315.png",
     "NJU-notes/assets/可靠数据传输（RDT）_202611102258.png",

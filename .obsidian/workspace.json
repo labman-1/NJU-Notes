@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "可靠数据传输（RDT）"
             }
+          },
+          {
+            "id": "c22f478b2f342fbb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.15.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +232,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "4a88fcb6b4062613",
+  "active": "0781a4b853606a81",
   "lastOpenFiles": [
     "NJU-notes/c++ and algorithm/数据结构/并查集.md",
     "NJU-notes/c++ and algorithm/c++ and algorithm.md",

@@ -1,5 +1,6 @@
 {
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "showRibbon": true
 }

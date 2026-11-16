@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NJU-notes/大二/ics/pa/PA2-3.md",
+                "file": "NJU-notes/大二/计算机网络/note/第3章传输层/面向连接的传输：TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PA2-3"
+              "title": "面向连接的传输：TCP"
             }
           }
         ]
@@ -219,7 +219,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0781a4b853606a81",
+  "active": "4a88fcb6b4062613",
   "lastOpenFiles": [
     "NJU-notes/大二/ics/pa/PA2-3.md",
     "NJU-notes/大二/ics/pa/PA2-2实验报告.md",
